@@ -1,0 +1,15 @@
+{
+  "schema_name": "proof_metadata",
+  "description": "Metadata schema for theorem and proof-step records.",
+  "fields": [
+    {"name": "theorem_id", "type": "integer"},
+    {"name": "theorem_name", "type": "string"},
+    {"name": "statement", "type": "string"},
+    {"name": "domain", "type": "string"},
+    {"name": "proof_step_id", "type": "integer"},
+    {"name": "step_order", "type": "integer"},
+    {"name": "step_type", "type": "string"},
+    {"name": "step_description", "type": "string"},
+    {"name": "depends_on_step_id", "type": "integer|null"}
+  ]
+}
