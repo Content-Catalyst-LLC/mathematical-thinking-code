@@ -1,0 +1,9 @@
+rule_id,name,formal_pattern,description,accepted_context
+rule_modus_ponens,Modus Ponens,P->Q;P therefore Q,Applies implication when antecedent is established.,classical_and_constructive
+rule_modus_tollens,Modus Tollens,P->Q;not Q therefore not P,Uses contrapositive reasoning.,classical
+rule_conjunction_intro,Conjunction Introduction,P;Q therefore P_and_Q,Builds a conjunction from two established claims.,standard_logic
+rule_conjunction_elim,Conjunction Elimination,P_and_Q therefore P,Extracts one component of a conjunction.,standard_logic
+rule_universal_instantiation,Universal Instantiation,forall x P(x) therefore P(a),Applies a universal claim to a specific object.,predicate_logic
+rule_existential_intro,Existential Introduction,P(a) therefore exists x P(x),Proves existence by witness.,predicate_logic
+rule_counterexample,Counterexample,exists x not P(x) therefore not forall x P(x),Refutes a universal claim.,predicate_logic
+rule_induction,Mathematical Induction,P(0);forall n P(n)->P(n+1) therefore forall n P(n),Propagates truth across natural numbers.,arithmetic

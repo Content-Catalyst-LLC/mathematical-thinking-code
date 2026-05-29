@@ -1,0 +1,7 @@
+[package]
+name = "formal_inference_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line formal inference rule and truth-table scaffold."
+
+[dependencies]

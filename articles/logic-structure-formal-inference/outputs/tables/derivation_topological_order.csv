@@ -1,0 +1,12 @@
+rank,node
+1,drv_contrapositive:step_1
+2,drv_contrapositive:step_2
+3,drv_counterexample:step_1
+4,drv_modus_ponens:step_1
+5,drv_modus_ponens:step_2
+6,rule_counterexample
+7,rule_modus_ponens
+8,rule_modus_tollens
+9,drv_counterexample:step_2
+10,drv_modus_ponens:step_3
+11,drv_contrapositive:step_3

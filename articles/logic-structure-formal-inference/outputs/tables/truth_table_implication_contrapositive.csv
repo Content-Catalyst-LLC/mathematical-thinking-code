@@ -1,0 +1,5 @@
+P,Q,not_P,not_Q,P_implies_Q,Q_implies_P_converse,not_Q_implies_not_P_contrapositive,contrapositive_equivalent_to_original
+False,False,True,True,True,True,True,True
+False,True,True,False,True,False,True,True
+True,False,False,True,False,True,False,True
+True,True,False,False,True,True,True,True

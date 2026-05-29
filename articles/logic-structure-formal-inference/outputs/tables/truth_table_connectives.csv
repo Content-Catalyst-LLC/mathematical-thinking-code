@@ -1,0 +1,5 @@
+P,Q,P_and_Q,P_or_Q,not_P,P_implies_Q,P_iff_Q
+False,False,False,False,True,True,True
+False,True,False,True,True,True,False
+True,False,False,True,False,False,False
+True,True,True,True,False,True,True

@@ -1,0 +1,12 @@
+node,direct_out_degree,transitive_reach,has_cycle
+drv_contrapositive:step_1,1,1,False
+drv_contrapositive:step_2,1,1,False
+drv_contrapositive:step_3,0,0,False
+drv_counterexample:step_1,1,1,False
+drv_counterexample:step_2,0,0,False
+drv_modus_ponens:step_1,1,1,False
+drv_modus_ponens:step_2,1,1,False
+drv_modus_ponens:step_3,0,0,False
+rule_counterexample,1,1,False
+rule_modus_ponens,1,1,False
+rule_modus_tollens,1,1,False

@@ -1,0 +1,5 @@
+counterexample_id,proposition_id,claim,object_description,failure_mode,lesson
+ce_bounded_sequence,prop_universal_refuted,"Every bounded real sequence converges.","The sequence (-1)^n is bounded but does not converge.","Boundedness alone is insufficient.","A universal claim fails when one domain object violates it."
+ce_degree_sequence,prop_graph_iso,"Finite graphs with same degree sequence are isomorphic.","Non-isomorphic graphs can share degree sequence.","Degree sequence is incomplete.","An invariant may be useful without being complete."
+ce_converse_error,prop_even_square,"If n squared is even then n is even follows by the same direction.","Attempting to prove converse without separate argument.","Direction of implication matters.","Biconditional claims require both directions."
+ce_finite_audit,prop_even_square,"Checking finitely many even n proves the universal claim.","Finite case table from -50 to 50.","Finite evidence is not proof.","Proof must cover arbitrary domain objects."

@@ -1,0 +1,7 @@
+proposition_id,label,statement,proposition_type,domain_note
+prop_p,P,"P is an arbitrary proposition.",atomic,propositional logic
+prop_q,Q,"Q is an arbitrary proposition.",atomic,propositional logic
+prop_even_square,EvenSquare,"If n is even then n squared is even.",conditional,number theory
+prop_continuity,Continuity,"For every epsilon there exists delta satisfying the continuity condition.",quantified,analysis
+prop_universal_refuted,BoundedConverges,"Every bounded real sequence converges.",universal_false,analysis
+prop_graph_iso,DegreeSequenceIso,"Finite graphs with same degree sequence are isomorphic.",universal_false,graph theory

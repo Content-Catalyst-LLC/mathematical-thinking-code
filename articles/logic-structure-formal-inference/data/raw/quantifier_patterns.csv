@@ -1,0 +1,6 @@
+pattern_id,logical_form,plain_language,proof_strategy,refutation_strategy
+qp_universal,"forall x P(x)","Every object has property P.","Let x be arbitrary and prove P(x).","Find one x such that not P(x)."
+qp_existential,"exists x P(x)","At least one object has property P.","Construct a witness.","Show every candidate fails."
+qp_unique,"exists unique x P(x)","Exactly one object has property P.","Prove existence then uniqueness.","Show none exist or at least two exist."
+qp_pointwise,"forall x exists y R(x,y)","Each x has some possibly different y.","Given arbitrary x construct y.","Find x with no witness."
+qp_uniform,"exists y forall x R(x,y)","One y works for every x.","Construct one universal witness.","Show every y fails for some x."

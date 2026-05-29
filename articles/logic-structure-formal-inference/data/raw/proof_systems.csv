@@ -1,0 +1,6 @@
+system_id,name,style,primary_use,professional_note
+sys_natural_deduction,Natural Deduction,introduction_elimination_rules,readable_formal_proofs,Close to ordinary mathematical proof structure.
+sys_sequent_calculus,Sequent Calculus,context_to_conclusion_derivations,proof_theory,Good for structural proof analysis and cut elimination.
+sys_hilbert,Hilbert System,axiom_schemas_and_few_rules,metatheory,Compact but often less readable for humans.
+sys_type_theory,Type Theory,proofs_as_terms,constructive_math_and_assistants,Important for Lean Agda Rocq and related systems.
+sys_resolution,Resolution,refutation_search,automated_theorem_proving,Useful for mechanized proof search.

@@ -1,0 +1,9 @@
+source,target,relation,weight
+drv_modus_ponens:step_1,drv_modus_ponens:step_3,supports,2
+drv_modus_ponens:step_2,drv_modus_ponens:step_3,supports,2
+drv_contrapositive:step_1,drv_contrapositive:step_3,supports,2
+drv_contrapositive:step_2,drv_contrapositive:step_3,supports,2
+drv_counterexample:step_1,drv_counterexample:step_2,refutes_universal,3
+rule_modus_ponens,drv_modus_ponens:step_3,justifies_rule_application,3
+rule_modus_tollens,drv_contrapositive:step_3,justifies_rule_application,3
+rule_counterexample,drv_counterexample:step_2,justifies_rule_application,3

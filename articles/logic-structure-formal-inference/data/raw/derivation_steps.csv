@@ -1,0 +1,9 @@
+derivation_id,step_id,step_order,proposition_label,rule_id,justification
+drv_modus_ponens,step_1,1,P->Q,premise,Given implication
+drv_modus_ponens,step_2,2,P,premise,Given antecedent
+drv_modus_ponens,step_3,3,Q,rule_modus_ponens,Apply modus ponens
+drv_contrapositive,step_1,1,P->Q,premise,Original implication
+drv_contrapositive,step_2,2,not_Q,premise,Assume negated consequent
+drv_contrapositive,step_3,3,not_P,rule_modus_tollens,Apply modus tollens
+drv_counterexample,step_1,1,exists_x_not_Px,premise,Counterexample witness exists
+drv_counterexample,step_2,2,not_forall_x_Px,rule_counterexample,Universal claim refuted
