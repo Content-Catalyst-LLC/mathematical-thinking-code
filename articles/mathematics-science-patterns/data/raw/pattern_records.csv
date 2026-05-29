@@ -1,0 +1,7 @@
+pattern_id,name,pattern_type,mathematical_structure,evidence_type,proof_status
+pat_square_numbers,Square number pattern,numerical,explicit formula and quadratic growth,computed examples plus known theorem,proved
+pat_cycle_graph,Cycle graph degree pattern,relational,regular graph with degree sequence 2 2 2 2,computed invariant,requires graph definition
+pat_even_symmetry,Even function symmetry,spatial/symbolic,invariance under x -> -x,symbolic verification,depends on function
+pat_induction_schema,Mathematical induction,logical,base case plus successor preservation,formal proof rule,accepted proof principle
+pat_random_walk_variance,Random walk spread,probabilistic,variance growth under independent increments,simulation plus theorem,proved under assumptions
+pat_logistic_iteration,Logistic iteration,dynamic,nonlinear recurrence under parameter r,simulation and theory,parameter-dependent

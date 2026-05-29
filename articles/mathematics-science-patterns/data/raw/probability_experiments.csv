@@ -1,0 +1,4 @@
+experiment_id,name,trials,probability,interpretation
+prob_coin_100,Fair coin simulation 100,100,0.5,"finite frequency may deviate from expected value"
+prob_coin_1000,Fair coin simulation 1000,1000,0.5,"larger samples usually stabilize frequency"
+prob_biased_1000,Biased coin simulation 1000,1000,0.7,"different data-generating pattern under bias"

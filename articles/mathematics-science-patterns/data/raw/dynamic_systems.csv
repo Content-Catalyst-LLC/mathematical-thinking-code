@@ -1,0 +1,5 @@
+system_id,name,update_rule,initial_value,parameter,interpretation
+dyn_linear,Linear stabilizing update,"x_{t+1}=0.8x_t+1",0,0.8,"converges toward fixed point under contraction"
+dyn_logistic_low,Logistic map stable,"x_{t+1}=r x_t(1-x_t)",0.2,2.8,"settles toward stable behavior"
+dyn_logistic_cycle,Logistic map oscillatory,"x_{t+1}=r x_t(1-x_t)",0.2,3.2,"can exhibit oscillatory pattern"
+dyn_logistic_complex,Logistic map complex,"x_{t+1}=r x_t(1-x_t)",0.2,3.7,"can exhibit sensitive and complex behavior"

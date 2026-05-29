@@ -1,0 +1,161 @@
+system_id,step,value,interpretation
+dyn_linear,0,0.0,converges toward fixed point under contraction
+dyn_linear,1,1.0,converges toward fixed point under contraction
+dyn_linear,2,1.8,converges toward fixed point under contraction
+dyn_linear,3,2.4400000000000004,converges toward fixed point under contraction
+dyn_linear,4,2.9520000000000004,converges toward fixed point under contraction
+dyn_linear,5,3.3616000000000006,converges toward fixed point under contraction
+dyn_linear,6,3.6892800000000006,converges toward fixed point under contraction
+dyn_linear,7,3.9514240000000007,converges toward fixed point under contraction
+dyn_linear,8,4.161139200000001,converges toward fixed point under contraction
+dyn_linear,9,4.328911360000001,converges toward fixed point under contraction
+dyn_linear,10,4.4631290880000005,converges toward fixed point under contraction
+dyn_linear,11,4.570503270400001,converges toward fixed point under contraction
+dyn_linear,12,4.656402616320001,converges toward fixed point under contraction
+dyn_linear,13,4.725122093056001,converges toward fixed point under contraction
+dyn_linear,14,4.780097674444801,converges toward fixed point under contraction
+dyn_linear,15,4.824078139555841,converges toward fixed point under contraction
+dyn_linear,16,4.859262511644673,converges toward fixed point under contraction
+dyn_linear,17,4.887410009315738,converges toward fixed point under contraction
+dyn_linear,18,4.90992800745259,converges toward fixed point under contraction
+dyn_linear,19,4.927942405962073,converges toward fixed point under contraction
+dyn_linear,20,4.942353924769659,converges toward fixed point under contraction
+dyn_linear,21,4.953883139815727,converges toward fixed point under contraction
+dyn_linear,22,4.9631065118525814,converges toward fixed point under contraction
+dyn_linear,23,4.9704852094820655,converges toward fixed point under contraction
+dyn_linear,24,4.976388167585652,converges toward fixed point under contraction
+dyn_linear,25,4.981110534068522,converges toward fixed point under contraction
+dyn_linear,26,4.984888427254818,converges toward fixed point under contraction
+dyn_linear,27,4.987910741803855,converges toward fixed point under contraction
+dyn_linear,28,4.990328593443085,converges toward fixed point under contraction
+dyn_linear,29,4.992262874754468,converges toward fixed point under contraction
+dyn_linear,30,4.993810299803575,converges toward fixed point under contraction
+dyn_linear,31,4.99504823984286,converges toward fixed point under contraction
+dyn_linear,32,4.996038591874289,converges toward fixed point under contraction
+dyn_linear,33,4.996830873499431,converges toward fixed point under contraction
+dyn_linear,34,4.997464698799545,converges toward fixed point under contraction
+dyn_linear,35,4.997971759039636,converges toward fixed point under contraction
+dyn_linear,36,4.998377407231709,converges toward fixed point under contraction
+dyn_linear,37,4.998701925785367,converges toward fixed point under contraction
+dyn_linear,38,4.998961540628294,converges toward fixed point under contraction
+dyn_linear,39,4.999169232502635,converges toward fixed point under contraction
+dyn_logistic_low,0,0.2,settles toward stable behavior
+dyn_logistic_low,1,0.44799999999999995,settles toward stable behavior
+dyn_logistic_low,2,0.6924288,settles toward stable behavior
+dyn_logistic_low,3,0.596319239405568,settles toward stable behavior
+dyn_logistic_low,4,0.674023291536932,settles toward stable behavior
+dyn_logistic_low,5,0.6152045032074255,settles toward stable behavior
+dyn_logistic_low,6,0.6628381828340448,settles toward stable behavior
+dyn_logistic_low,7,0.6257544333916573,settles toward stable behavior
+dyn_logistic_low,8,0.655720302950561,settles toward stable behavior
+dyn_logistic_low,9,0.6321033242971593,settles toward stable behavior
+dyn_logistic_low,10,0.6511363927869906,settles toward stable behavior
+dyn_logistic_low,11,0.6360418141709421,settles toward stable behavior
+dyn_logistic_low,12,0.6481793494318208,settles toward stable behavior
+dyn_logistic_low,13,0.6385200651254945,settles toward stable behavior
+dyn_logistic_low,14,0.6462741363613604,settles toward stable behavior
+dyn_logistic_low,15,0.6400908556888667,settles toward stable behavior
+dyn_logistic_low,16,0.6450487460266111,settles toward stable behavior
+dyn_logistic_low,17,0.6410904115731014,settles toward stable behavior
+dyn_logistic_low,18,0.644261788133972,settles toward stable behavior
+dyn_logistic_low,19,0.6417279021562892,settles toward stable behavior
+dyn_logistic_low,20,0.6437569649010565,settles toward stable behavior
+dyn_logistic_low,21,0.6421350181188219,settles toward stable behavior
+dyn_logistic_low,22,0.643433382548214,settles toward stable behavior
+dyn_logistic_low,23,0.6423952213581775,settles toward stable behavior
+dyn_logistic_low,24,0.6432260826161957,settles toward stable behavior
+dyn_logistic_low,25,0.6425616099235723,settles toward stable behavior
+dyn_logistic_low,26,0.6430933246527978,settles toward stable behavior
+dyn_logistic_low,27,0.6426680412314651,settles toward stable behavior
+dyn_logistic_low,28,0.6430083240312955,settles toward stable behavior
+dyn_logistic_low,29,0.6427361339217279,settles toward stable behavior
+dyn_logistic_low,30,0.6429539090046199,settles toward stable behavior
+dyn_logistic_low,31,0.6427797037208367,settles toward stable behavior
+dyn_logistic_low,32,0.6429190773750922,settles toward stable behavior
+dyn_logistic_low,33,0.6428075845023067,settles toward stable behavior
+dyn_logistic_low,34,0.6428967826641262,settles toward stable behavior
+dyn_logistic_low,35,0.6428254266118761,settles toward stable behavior
+dyn_logistic_low,36,0.6428825130367796,settles toward stable behavior
+dyn_logistic_low,37,0.6428368449112246,settles toward stable behavior
+dyn_logistic_low,38,0.642873380060259,settles toward stable behavior
+dyn_logistic_low,39,0.642844152356439,settles toward stable behavior
+dyn_logistic_cycle,0,0.2,can exhibit oscillatory pattern
+dyn_logistic_cycle,1,0.5120000000000001,can exhibit oscillatory pattern
+dyn_logistic_cycle,2,0.7995392,can exhibit oscillatory pattern
+dyn_logistic_cycle,3,0.512884056522752,can exhibit oscillatory pattern
+dyn_logistic_cycle,4,0.7994688034800593,can exhibit oscillatory pattern
+dyn_logistic_cycle,5,0.5130189943751092,can exhibit oscillatory pattern
+dyn_logistic_cycle,6,0.7994576185134749,can exhibit oscillatory pattern
+dyn_logistic_cycle,7,0.5130404310855622,can exhibit oscillatory pattern
+dyn_logistic_cycle,8,0.7994558309027286,can exhibit oscillatory pattern
+dyn_logistic_cycle,9,0.5130438570827405,can exhibit oscillatory pattern
+dyn_logistic_cycle,10,0.7994555449356961,can exhibit oscillatory pattern
+dyn_logistic_cycle,11,0.5130444051432489,can exhibit oscillatory pattern
+dyn_logistic_cycle,12,0.7994554991822682,can exhibit oscillatory pattern
+dyn_logistic_cycle,13,0.5130444928303954,can exhibit oscillatory pattern
+dyn_logistic_cycle,14,0.7994554918617529,can exhibit oscillatory pattern
+dyn_logistic_cycle,15,0.5130445068602741,can exhibit oscillatory pattern
+dyn_logistic_cycle,16,0.7994554906904713,can exhibit oscillatory pattern
+dyn_logistic_cycle,17,0.5130445091050531,can exhibit oscillatory pattern
+dyn_logistic_cycle,18,0.7994554905030663,can exhibit oscillatory pattern
+dyn_logistic_cycle,19,0.5130445094642175,can exhibit oscillatory pattern
+dyn_logistic_cycle,20,0.7994554904730814,can exhibit oscillatory pattern
+dyn_logistic_cycle,21,0.5130445095216841,can exhibit oscillatory pattern
+dyn_logistic_cycle,22,0.7994554904682839,can exhibit oscillatory pattern
+dyn_logistic_cycle,23,0.5130445095308785,can exhibit oscillatory pattern
+dyn_logistic_cycle,24,0.7994554904675163,can exhibit oscillatory pattern
+dyn_logistic_cycle,25,0.5130445095323497,can exhibit oscillatory pattern
+dyn_logistic_cycle,26,0.7994554904673934,can exhibit oscillatory pattern
+dyn_logistic_cycle,27,0.5130445095325852,can exhibit oscillatory pattern
+dyn_logistic_cycle,28,0.7994554904673739,can exhibit oscillatory pattern
+dyn_logistic_cycle,29,0.5130445095326227,can exhibit oscillatory pattern
+dyn_logistic_cycle,30,0.7994554904673707,can exhibit oscillatory pattern
+dyn_logistic_cycle,31,0.5130445095326286,can exhibit oscillatory pattern
+dyn_logistic_cycle,32,0.7994554904673701,can exhibit oscillatory pattern
+dyn_logistic_cycle,33,0.5130445095326298,can exhibit oscillatory pattern
+dyn_logistic_cycle,34,0.7994554904673701,can exhibit oscillatory pattern
+dyn_logistic_cycle,35,0.5130445095326298,can exhibit oscillatory pattern
+dyn_logistic_cycle,36,0.7994554904673701,can exhibit oscillatory pattern
+dyn_logistic_cycle,37,0.5130445095326298,can exhibit oscillatory pattern
+dyn_logistic_cycle,38,0.7994554904673701,can exhibit oscillatory pattern
+dyn_logistic_cycle,39,0.5130445095326298,can exhibit oscillatory pattern
+dyn_logistic_complex,0,0.2,can exhibit sensitive and complex behavior
+dyn_logistic_complex,1,0.5920000000000001,can exhibit sensitive and complex behavior
+dyn_logistic_complex,2,0.8936832,can exhibit sensitive and complex behavior
+dyn_logistic_complex,3,0.35155009073971194,can exhibit sensitive and complex behavior
+dyn_logistic_complex,4,0.8434617104302653,can exhibit sensitive and complex behavior
+dyn_logistic_complex,5,0.4885259978327714,can exhibit sensitive and complex behavior
+dyn_logistic_complex,6,0.9245128849147859,can exhibit sensitive and complex behavior
+dyn_logistic_complex,7,0.2582185990029053,can exhibit sensitive and complex behavior
+dyn_logistic_complex,8,0.7087044902879637,can exhibit sensitive and complex behavior
+dyn_logistic_complex,9,0.7638370122144728,can exhibit sensitive and complex behavior
+dyn_logistic_complex,10,0.6674431146472386,can exhibit sensitive and complex behavior
+dyn_logistic_complex,11,0.8212623724217574,can exhibit sensitive and complex behavior
+dyn_logistic_complex,12,0.5431248058439931,can exhibit sensitive and complex behavior
+dyn_logistic_complex,13,0.9181189291473962,can exhibit sensitive and complex behavior
+dyn_logistic_complex,14,0.2781532760279482,can exhibit sensitive and complex behavior
+dyn_logistic_complex,15,0.7429009149326127,can exhibit sensitive and complex behavior
+dyn_logistic_complex,16,0.7066968384421287,can exhibit sensitive and complex behavior
+dyn_logistic_complex,17,0.7669227428187056,can exhibit sensitive and complex behavior
+dyn_logistic_complex,18,0.6613833226547148,can exhibit sensitive and complex behavior
+dyn_logistic_complex,19,0.8286350657250197,can exhibit sensitive and complex behavior
+dyn_logistic_complex,20,0.5253962762308745,can exhibit sensitive and complex behavior
+dyn_logistic_complex,21,0.922613607868339,can exhibit sensitive and complex behavior
+dyn_logistic_complex,22,0.2641716322446714,can exhibit sensitive and complex behavior
+dyn_logistic_complex,23,0.7192244295588727,can exhibit sensitive and complex behavior
+dyn_logistic_complex,24,0.7471804030929715,can exhibit sensitive and complex behavior
+dyn_logistic_complex,25,0.6989368388091457,can exhibit sensitive and complex behavior
+dyn_logistic_complex,26,0.7785692964091088,can exhibit sensitive and complex behavior
+dyn_logistic_complex,27,0.6378768442630962,can exhibit sensitive and complex behavior
+dyn_logistic_complex,28,0.8546629105193847,can exhibit sensitive and complex behavior
+dyn_logistic_complex,29,0.4595926136371001,can exhibit sensitive and complex behavior
+dyn_logistic_complex,30,0.9189587995710816,can exhibit sensitive and complex behavior
+dyn_logistic_complex,31,0.2755520397692456,can exhibit sensitive and complex behavior
+dyn_logistic_complex,32,0.7386055186485387,can exhibit sensitive and complex behavior
+dyn_logistic_complex,33,0.7143494039407089,can exhibit sensitive and complex behavior
+dyn_logistic_complex,34,0.7550010322119723,can exhibit sensitive and complex behavior
+dyn_logistic_complex,35,0.6844055522120661,can exhibit sensitive and complex behavior
+dyn_logistic_complex,36,0.799179991559443,can exhibit sensitive and complex behavior
+dyn_logistic_complex,37,0.5938179308068191,can exhibit sensitive and complex behavior
+dyn_logistic_complex,38,0.8924333246787696,can exhibit sensitive and complex behavior
+dyn_logistic_complex,39,0.35518551702179946,can exhibit sensitive and complex behavior

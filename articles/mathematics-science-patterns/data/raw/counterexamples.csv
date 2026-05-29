@@ -1,0 +1,5 @@
+counterexample_id,pattern_id,claim,object_description,lesson
+ce_false_sequence,pat_square_numbers,"finite sequence prefix determines a unique infinite rule","different formulas can match the same finite terms","finite pattern recognition is not proof"
+ce_degree_sequence,pat_cycle_graph,"same degree sequence guarantees graph isomorphism","non-isomorphic graphs can share degree sequence","some invariants are incomplete"
+ce_diagram,pat_even_symmetry,"visual symmetry alone proves an equation","a misleading graphing window can hide asymmetry","visual evidence must be checked structurally"
+ce_random_noise,pat_random_walk_variance,"any visible trend is meaningful","random data can produce apparent streaks","probabilistic patterns require uncertainty analysis"

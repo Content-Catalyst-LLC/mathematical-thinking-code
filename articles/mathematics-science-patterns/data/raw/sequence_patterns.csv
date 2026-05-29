@@ -1,0 +1,8 @@
+sequence_id,name,terms,expected_pattern,mathematical_structure,proof_note
+seq_arithmetic,Arithmetic sequence,"2 5 8 11 14 17 20",arithmetic,linear polynomial / first difference constant,"finite evidence only; general rule requires stated formula or proof"
+seq_quadratic,Square numbers,"1 4 9 16 25 36 49",quadratic,second difference constant / n^2,"finite evidence suggests quadratic form"
+seq_triangular,Triangular numbers,"1 3 6 10 15 21 28",quadratic,figurate sequence / n(n+1)/2,"finite evidence supports known formula"
+seq_geometric,Powers of two,"1 2 4 8 16 32 64",geometric,multiplicative recurrence,"finite evidence supports multiplicative rule"
+seq_fibonacci,Fibonacci numbers,"0 1 1 2 3 5 8 13 21 34",recursive,second-order recurrence,"definition and induction establish properties"
+seq_alternating,Alternating signs,"1 -1 1 -1 1 -1 1 -1",periodic,period-two recurrence,"periodicity can be proved from formula (-1)^n"
+seq_false_pattern,Early misleading sequence,"1 2 4 8 16 31 64",misleading,near powers of two with deliberate failure,"counterexample discipline: early terms may mislead"

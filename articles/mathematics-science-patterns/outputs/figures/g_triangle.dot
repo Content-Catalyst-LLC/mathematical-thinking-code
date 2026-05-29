@@ -1,0 +1,6 @@
+graph g_triangle {
+  graph [rankdir="LR"];
+  "a" -- "b";
+  "b" -- "c";
+  "c" -- "a";
+}
