@@ -1,0 +1,6 @@
+graph_id,vertex_count,edge_count,degree_sequence,component_count,cycle_rank,candidate_conjecture_note
+cycle4,4,4,2 2 2 2,1,1,cycle rank m-n+c is nonnegative for these examples
+path4,4,3,2 2 1 1,1,0,cycle rank m-n+c is nonnegative for these examples
+square_diagonal,4,5,3 3 2 2,1,2,cycle rank m-n+c is nonnegative for these examples
+star4,5,4,4 1 1 1 1,1,0,cycle rank m-n+c is nonnegative for these examples
+triangle,3,3,2 2 2,1,1,cycle rank m-n+c is nonnegative for these examples

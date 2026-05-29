@@ -1,0 +1,7 @@
+conjecture_id,statement,domain_description,mathematical_area,proof_status,discovery_note
+conj_even_square,"If n is even then n squared is even.",integers,number_theory,proved,"finite checks suggest the claim and direct proof establishes it"
+conj_sum_first_n,"The sum of the first n positive integers is n(n+1)/2.",positive_integers,discrete_mathematics,proved_by_induction,"finite values suggest a polynomial formula"
+conj_bounded_converges,"Every bounded real sequence converges.",real_sequences,analysis,refuted,"typical convergent examples can mislead"
+conj_degree_sequence_iso,"Finite simple graphs with the same degree sequence are isomorphic.",finite_graphs,graph_theory,refuted,"degree sequence is useful but incomplete"
+conj_cycle_rank_nonnegative,"For a finite undirected graph the cycle rank m-n+c is nonnegative.",finite_graphs,graph_theory,proved_under_standard_assumptions,"computable invariant suggests structural theorem"
+conj_logistic_bounded,"Logistic map iterates remain in [0,1] for r in [0,4] and initial x in [0,1].",dynamical_systems,dynamics,proved_under_assumptions,"simulation suggests boundedness under parameter constraints"

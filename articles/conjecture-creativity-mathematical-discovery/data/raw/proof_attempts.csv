@@ -1,0 +1,7 @@
+proof_attempt_id,conjecture_id,method,status,lesson
+pa_even_square_direct,conj_even_square,direct_proof,successful,"definition n=2k gives n^2=2(2k^2)"
+pa_sum_induction,conj_sum_first_n,induction,successful,"base case and successor step establish universal formula"
+pa_bounded_naive,conj_bounded_converges,example_generalization,failed,"typical examples do not prove universal convergence"
+pa_degree_invariant,conj_degree_sequence_iso,invariant_classification,failed,"degree sequence distinguishes some graphs but does not classify all graphs"
+pa_cycle_rank,conj_cycle_rank_nonnegative,structural_graph_argument,successful,"component structure explains nonnegative cycle rank"
+pa_logistic_interval,conj_logistic_bounded,inequality_argument,successful_under_assumptions,"parameter and initial-condition restrictions are essential"

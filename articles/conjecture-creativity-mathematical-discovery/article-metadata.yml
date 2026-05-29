@@ -1,0 +1,28 @@
+title: "Conjecture, Creativity, and Mathematical Discovery"
+slug: "conjecture-creativity-mathematical-discovery"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/conjecture-creativity-mathematical-discovery"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/conjecture-creativity-mathematical-discovery"
+description: "Companion computational scaffold for conjecture generation, finite evidence audits, counterexample search, graph invariants, proof-status tracking, Haskell algebraic data types, and experimental mathematics workflows."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - mathematical discovery
+  - conjecture
+  - experimental mathematics
+  - counterexample search
+  - proof status
+  - graph invariants
+  - sequence analysis
+  - formalization planning
+created_for_article: true

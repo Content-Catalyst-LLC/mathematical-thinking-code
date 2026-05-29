@@ -1,0 +1,8 @@
+graph square_diagonal {
+  graph [rankdir="LR"];
+  "a" -- "b";
+  "b" -- "c";
+  "c" -- "d";
+  "d" -- "a";
+  "a" -- "c";
+}

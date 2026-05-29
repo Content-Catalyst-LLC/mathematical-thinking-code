@@ -1,0 +1,7 @@
+graph star4 {
+  graph [rankdir="LR"];
+  "o" -- "a";
+  "o" -- "b";
+  "o" -- "c";
+  "o" -- "d";
+}

@@ -1,0 +1,7 @@
+conjecture_id,statement,mathematical_area,proof_status,evidence_records,counterexample_records,proof_attempts,successful_attempts,status_interpretation
+conj_even_square,If n is even then n squared is even.,number_theory,proved,1,1,1,1,counterexample evidence requires refutation or refinement
+conj_sum_first_n,The sum of the first n positive integers is n(n+1)/2.,discrete_mathematics,proved_by_induction,1,1,1,1,counterexample evidence requires refutation or refinement
+conj_bounded_converges,Every bounded real sequence converges.,analysis,refuted,2,1,1,0,counterexample evidence requires refutation or refinement
+conj_degree_sequence_iso,Finite simple graphs with the same degree sequence are isomorphic.,graph_theory,refuted,1,1,1,0,counterexample evidence requires refutation or refinement
+conj_cycle_rank_nonnegative,For a finite undirected graph the cycle rank m-n+c is nonnegative.,graph_theory,proved_under_standard_assumptions,0,0,1,1,proved under stated assumptions; finite evidence remains illustrative
+conj_logistic_bounded,"Logistic map iterates remain in [0,1] for r in [0,4] and initial x in [0,1].",dynamics,proved_under_assumptions,1,0,1,1,proved under stated assumptions; finite evidence remains illustrative

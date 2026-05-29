@@ -1,0 +1,6 @@
+degree_sequence,graph_ids,collision_count,interpretation
+2 2 1 1,path4,1,shared degree sequence may suggest but does not guarantee isomorphism
+2 2 2,triangle,1,shared degree sequence may suggest but does not guarantee isomorphism
+2 2 2 2,cycle4,1,shared degree sequence may suggest but does not guarantee isomorphism
+3 3 2 2,square_diagonal,1,shared degree sequence may suggest but does not guarantee isomorphism
+4 1 1 1 1,star4,1,shared degree sequence may suggest but does not guarantee isomorphism

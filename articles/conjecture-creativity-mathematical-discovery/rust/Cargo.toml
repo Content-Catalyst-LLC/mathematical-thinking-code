@@ -1,0 +1,7 @@
+[package]
+name = "conjecture_discovery_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line conjecture metadata and finite-evidence scaffold."
+
+[dependencies]

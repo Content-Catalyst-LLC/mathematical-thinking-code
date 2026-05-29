@@ -1,0 +1,7 @@
+graph cycle4 {
+  graph [rankdir="LR"];
+  "a" -- "b";
+  "b" -- "c";
+  "c" -- "d";
+  "d" -- "a";
+}

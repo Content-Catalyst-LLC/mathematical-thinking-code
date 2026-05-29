@@ -1,0 +1,5 @@
+counterexample_id,conjecture_id,object_description,failure_mode,revision_suggestion
+ce_bounded_alt,conj_bounded_converges,"The sequence (-1)^n is bounded but does not converge.","boundedness alone is insufficient","add monotonicity or compactness-style subsequence conclusions"
+ce_degree_sequence,conj_degree_sequence_iso,"Non-isomorphic finite graphs can share the same degree sequence.","degree sequence is not a complete invariant","use stronger invariants or full isomorphism testing"
+ce_finite_cases,conj_sum_first_n,"Checking first 100 cases does not prove the formula for all n.","finite evidence is not universal proof","use induction or another proof method"
+ce_diagram_generalization,conj_even_square,"A convincing diagram does not prove the arbitrary integer case.","visual intuition is not proof","translate intuition into definition-based proof"

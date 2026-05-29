@@ -1,0 +1,7 @@
+evidence_id,conjecture_id,evidence_type,description,range_or_scope,interpretation
+ev_even_square_100,conj_even_square,finite_check,"checked integers from -100 to 100",-100..100,"supports but does not replace direct proof"
+ev_sum_first_100,conj_sum_first_n,finite_check,"checked first 100 positive integers",1..100,"supports but induction proves generality"
+ev_bounded_examples,conj_bounded_converges,example_set,"constant and monotone bounded sequences converge",small_examples,"misleading if treated as universal evidence"
+ev_alternating_counterexample,conj_bounded_converges,counterexample,"alternating sequence (-1)^n is bounded and nonconvergent",all_n,"refutes original conjecture"
+ev_degree_small_graphs,conj_degree_sequence_iso,counterexample_search,"small graph search finds shared degree sequences",small_graph_catalog,"degree sequence is incomplete invariant"
+ev_logistic_simulation,conj_logistic_bounded,simulation,"iterated logistic map over sampled parameters",sample_grid,"suggestive evidence under numerical assumptions"

@@ -1,0 +1,302 @@
+audit_id,input_value,computed_value,expected_or_property,agrees,evidence_status,proof_note
+even_square,-100,10000,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-99,9801,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-98,9604,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-97,9409,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-96,9216,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-95,9025,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-94,8836,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-93,8649,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-92,8464,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-91,8281,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-90,8100,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-89,7921,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-88,7744,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-87,7569,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-86,7396,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-85,7225,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-84,7056,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-83,6889,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-82,6724,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-81,6561,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-80,6400,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-79,6241,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-78,6084,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-77,5929,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-76,5776,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-75,5625,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-74,5476,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-73,5329,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-72,5184,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-71,5041,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-70,4900,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-69,4761,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-68,4624,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-67,4489,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-66,4356,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-65,4225,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-64,4096,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-63,3969,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-62,3844,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-61,3721,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-60,3600,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-59,3481,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-58,3364,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-57,3249,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-56,3136,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-55,3025,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-54,2916,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-53,2809,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-52,2704,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-51,2601,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-50,2500,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-49,2401,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-48,2304,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-47,2209,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-46,2116,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-45,2025,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-44,1936,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-43,1849,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-42,1764,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-41,1681,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-40,1600,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-39,1521,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-38,1444,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-37,1369,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-36,1296,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-35,1225,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-34,1156,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-33,1089,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-32,1024,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-31,961,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-30,900,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-29,841,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-28,784,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-27,729,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-26,676,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-25,625,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-24,576,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-23,529,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-22,484,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-21,441,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-20,400,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-19,361,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-18,324,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-17,289,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-16,256,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-15,225,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-14,196,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-13,169,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-12,144,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-11,121,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-10,100,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-9,81,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-8,64,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-7,49,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-6,36,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-5,25,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-4,16,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-3,9,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-2,4,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,-1,1,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,0,0,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,1,1,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,2,4,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,3,9,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,4,16,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,5,25,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,6,36,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,7,49,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,8,64,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,9,81,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,10,100,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,11,121,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,12,144,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,13,169,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,14,196,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,15,225,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,16,256,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,17,289,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,18,324,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,19,361,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,20,400,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,21,441,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,22,484,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,23,529,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,24,576,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,25,625,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,26,676,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,27,729,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,28,784,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,29,841,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,30,900,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,31,961,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,32,1024,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,33,1089,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,34,1156,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,35,1225,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,36,1296,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,37,1369,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,38,1444,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,39,1521,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,40,1600,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,41,1681,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,42,1764,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,43,1849,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,44,1936,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,45,2025,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,46,2116,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,47,2209,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,48,2304,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,49,2401,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,50,2500,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,51,2601,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,52,2704,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,53,2809,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,54,2916,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,55,3025,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,56,3136,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,57,3249,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,58,3364,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,59,3481,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,60,3600,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,61,3721,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,62,3844,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,63,3969,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,64,4096,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,65,4225,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,66,4356,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,67,4489,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,68,4624,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,69,4761,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,70,4900,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,71,5041,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,72,5184,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,73,5329,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,74,5476,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,75,5625,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,76,5776,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,77,5929,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,78,6084,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,79,6241,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,80,6400,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,81,6561,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,82,6724,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,83,6889,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,84,7056,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,85,7225,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,86,7396,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,87,7569,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,88,7744,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,89,7921,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,90,8100,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,91,8281,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,92,8464,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,93,8649,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,94,8836,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,95,9025,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,96,9216,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,97,9409,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,98,9604,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,99,9801,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+even_square,100,10000,if n even then n^2 even,True,finite evidence,direct proof handles arbitrary integer n
+sum_first_n,1,1,1,True,finite evidence,induction proves universal statement
+sum_first_n,2,3,3,True,finite evidence,induction proves universal statement
+sum_first_n,3,6,6,True,finite evidence,induction proves universal statement
+sum_first_n,4,10,10,True,finite evidence,induction proves universal statement
+sum_first_n,5,15,15,True,finite evidence,induction proves universal statement
+sum_first_n,6,21,21,True,finite evidence,induction proves universal statement
+sum_first_n,7,28,28,True,finite evidence,induction proves universal statement
+sum_first_n,8,36,36,True,finite evidence,induction proves universal statement
+sum_first_n,9,45,45,True,finite evidence,induction proves universal statement
+sum_first_n,10,55,55,True,finite evidence,induction proves universal statement
+sum_first_n,11,66,66,True,finite evidence,induction proves universal statement
+sum_first_n,12,78,78,True,finite evidence,induction proves universal statement
+sum_first_n,13,91,91,True,finite evidence,induction proves universal statement
+sum_first_n,14,105,105,True,finite evidence,induction proves universal statement
+sum_first_n,15,120,120,True,finite evidence,induction proves universal statement
+sum_first_n,16,136,136,True,finite evidence,induction proves universal statement
+sum_first_n,17,153,153,True,finite evidence,induction proves universal statement
+sum_first_n,18,171,171,True,finite evidence,induction proves universal statement
+sum_first_n,19,190,190,True,finite evidence,induction proves universal statement
+sum_first_n,20,210,210,True,finite evidence,induction proves universal statement
+sum_first_n,21,231,231,True,finite evidence,induction proves universal statement
+sum_first_n,22,253,253,True,finite evidence,induction proves universal statement
+sum_first_n,23,276,276,True,finite evidence,induction proves universal statement
+sum_first_n,24,300,300,True,finite evidence,induction proves universal statement
+sum_first_n,25,325,325,True,finite evidence,induction proves universal statement
+sum_first_n,26,351,351,True,finite evidence,induction proves universal statement
+sum_first_n,27,378,378,True,finite evidence,induction proves universal statement
+sum_first_n,28,406,406,True,finite evidence,induction proves universal statement
+sum_first_n,29,435,435,True,finite evidence,induction proves universal statement
+sum_first_n,30,465,465,True,finite evidence,induction proves universal statement
+sum_first_n,31,496,496,True,finite evidence,induction proves universal statement
+sum_first_n,32,528,528,True,finite evidence,induction proves universal statement
+sum_first_n,33,561,561,True,finite evidence,induction proves universal statement
+sum_first_n,34,595,595,True,finite evidence,induction proves universal statement
+sum_first_n,35,630,630,True,finite evidence,induction proves universal statement
+sum_first_n,36,666,666,True,finite evidence,induction proves universal statement
+sum_first_n,37,703,703,True,finite evidence,induction proves universal statement
+sum_first_n,38,741,741,True,finite evidence,induction proves universal statement
+sum_first_n,39,780,780,True,finite evidence,induction proves universal statement
+sum_first_n,40,820,820,True,finite evidence,induction proves universal statement
+sum_first_n,41,861,861,True,finite evidence,induction proves universal statement
+sum_first_n,42,903,903,True,finite evidence,induction proves universal statement
+sum_first_n,43,946,946,True,finite evidence,induction proves universal statement
+sum_first_n,44,990,990,True,finite evidence,induction proves universal statement
+sum_first_n,45,1035,1035,True,finite evidence,induction proves universal statement
+sum_first_n,46,1081,1081,True,finite evidence,induction proves universal statement
+sum_first_n,47,1128,1128,True,finite evidence,induction proves universal statement
+sum_first_n,48,1176,1176,True,finite evidence,induction proves universal statement
+sum_first_n,49,1225,1225,True,finite evidence,induction proves universal statement
+sum_first_n,50,1275,1275,True,finite evidence,induction proves universal statement
+sum_first_n,51,1326,1326,True,finite evidence,induction proves universal statement
+sum_first_n,52,1378,1378,True,finite evidence,induction proves universal statement
+sum_first_n,53,1431,1431,True,finite evidence,induction proves universal statement
+sum_first_n,54,1485,1485,True,finite evidence,induction proves universal statement
+sum_first_n,55,1540,1540,True,finite evidence,induction proves universal statement
+sum_first_n,56,1596,1596,True,finite evidence,induction proves universal statement
+sum_first_n,57,1653,1653,True,finite evidence,induction proves universal statement
+sum_first_n,58,1711,1711,True,finite evidence,induction proves universal statement
+sum_first_n,59,1770,1770,True,finite evidence,induction proves universal statement
+sum_first_n,60,1830,1830,True,finite evidence,induction proves universal statement
+sum_first_n,61,1891,1891,True,finite evidence,induction proves universal statement
+sum_first_n,62,1953,1953,True,finite evidence,induction proves universal statement
+sum_first_n,63,2016,2016,True,finite evidence,induction proves universal statement
+sum_first_n,64,2080,2080,True,finite evidence,induction proves universal statement
+sum_first_n,65,2145,2145,True,finite evidence,induction proves universal statement
+sum_first_n,66,2211,2211,True,finite evidence,induction proves universal statement
+sum_first_n,67,2278,2278,True,finite evidence,induction proves universal statement
+sum_first_n,68,2346,2346,True,finite evidence,induction proves universal statement
+sum_first_n,69,2415,2415,True,finite evidence,induction proves universal statement
+sum_first_n,70,2485,2485,True,finite evidence,induction proves universal statement
+sum_first_n,71,2556,2556,True,finite evidence,induction proves universal statement
+sum_first_n,72,2628,2628,True,finite evidence,induction proves universal statement
+sum_first_n,73,2701,2701,True,finite evidence,induction proves universal statement
+sum_first_n,74,2775,2775,True,finite evidence,induction proves universal statement
+sum_first_n,75,2850,2850,True,finite evidence,induction proves universal statement
+sum_first_n,76,2926,2926,True,finite evidence,induction proves universal statement
+sum_first_n,77,3003,3003,True,finite evidence,induction proves universal statement
+sum_first_n,78,3081,3081,True,finite evidence,induction proves universal statement
+sum_first_n,79,3160,3160,True,finite evidence,induction proves universal statement
+sum_first_n,80,3240,3240,True,finite evidence,induction proves universal statement
+sum_first_n,81,3321,3321,True,finite evidence,induction proves universal statement
+sum_first_n,82,3403,3403,True,finite evidence,induction proves universal statement
+sum_first_n,83,3486,3486,True,finite evidence,induction proves universal statement
+sum_first_n,84,3570,3570,True,finite evidence,induction proves universal statement
+sum_first_n,85,3655,3655,True,finite evidence,induction proves universal statement
+sum_first_n,86,3741,3741,True,finite evidence,induction proves universal statement
+sum_first_n,87,3828,3828,True,finite evidence,induction proves universal statement
+sum_first_n,88,3916,3916,True,finite evidence,induction proves universal statement
+sum_first_n,89,4005,4005,True,finite evidence,induction proves universal statement
+sum_first_n,90,4095,4095,True,finite evidence,induction proves universal statement
+sum_first_n,91,4186,4186,True,finite evidence,induction proves universal statement
+sum_first_n,92,4278,4278,True,finite evidence,induction proves universal statement
+sum_first_n,93,4371,4371,True,finite evidence,induction proves universal statement
+sum_first_n,94,4465,4465,True,finite evidence,induction proves universal statement
+sum_first_n,95,4560,4560,True,finite evidence,induction proves universal statement
+sum_first_n,96,4656,4656,True,finite evidence,induction proves universal statement
+sum_first_n,97,4753,4753,True,finite evidence,induction proves universal statement
+sum_first_n,98,4851,4851,True,finite evidence,induction proves universal statement
+sum_first_n,99,4950,4950,True,finite evidence,induction proves universal statement
+sum_first_n,100,5050,5050,True,finite evidence,induction proves universal statement
