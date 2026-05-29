@@ -1,0 +1,6 @@
+generalization_id,abstraction_id,claim,domain,required_assumptions,proof_status
+gen_sum_first_n,abs_number,"1+2+...+n=n(n+1)/2","positive integers","n is a positive integer","proved by induction or pairing"
+gen_commutative_addition,abs_group,"a+b=b+a","ordinary number addition","operation is addition over a commutative numerical structure","proved in standard arithmetic systems"
+gen_noncommutative_warning,abs_group,"all meaningful operations commute","all algebraic operations","none sufficient because claim is false","refuted by counterexample"
+gen_same_degree_isomorphism,abs_graph,"graphs with same degree sequence are isomorphic","finite graphs","degree sequence alone is insufficient","refuted by counterexample"
+gen_bounded_converges,abs_function,"every bounded sequence converges","real sequences","boundedness alone is insufficient","refuted by oscillating sequence"

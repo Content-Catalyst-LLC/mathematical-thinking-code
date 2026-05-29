@@ -1,0 +1,9 @@
+fraction_id,numerator,denominator,interpretive_note
+f_1_2,1,2,baseline rational representative
+f_2_4,2,4,equivalent to one half
+f_3_6,3,6,equivalent to one half
+f_4_8,4,8,equivalent to one half
+f_2_3,2,3,different equivalence class
+f_neg2_neg4,-2,-4,equivalent to one half after sign normalization
+f_6_9,6,9,equivalent to two thirds
+f_10_15,10,15,equivalent to two thirds

@@ -1,0 +1,7 @@
+graph_id,vertex_count,edge_count,degree_sequence,connected_components,cycle_rank
+g_cycle4,4,4,2 2 2 2,1,1
+g_noniso_a,6,6,2 2 2 2 2 2,1,1
+g_noniso_b,6,6,2 2 2 2 2 2,2,2
+g_path4,4,3,2 2 1 1,1,0
+g_square_diagonal,4,5,3 3 2 2,1,2
+g_star4,5,4,4 1 1 1 1,1,0

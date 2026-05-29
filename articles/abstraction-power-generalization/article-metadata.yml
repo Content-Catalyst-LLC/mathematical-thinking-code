@@ -1,0 +1,28 @@
+title: "Abstraction and the Power of Generalization"
+slug: "abstraction-power-generalization"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/abstraction-power-generalization"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/abstraction-power-generalization"
+description: "Companion computational scaffold for studying abstraction, generalization, equivalence relations, invariants, structure-preserving maps, proof assumptions, and counterexample workflows."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - mathematical reasoning
+  - abstraction
+  - generalization
+  - equivalence relations
+  - invariant theory
+  - graph theory
+  - modular arithmetic
+  - proof architecture
+  - counterexample analysis
+created_for_article: true

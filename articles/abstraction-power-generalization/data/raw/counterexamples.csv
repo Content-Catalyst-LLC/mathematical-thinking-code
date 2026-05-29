@@ -1,0 +1,5 @@
+counterexample_id,generalization_id,object_description,failure_mode,lesson
+ce_matrix_commute,gen_noncommutative_warning,"2x2 matrices A and B where AB != BA","operation fails commutativity","operations require structure-specific laws"
+ce_degree_sequence,gen_same_degree_isomorphism,"two non-isomorphic finite graphs sharing a degree sequence","invariant is incomplete","some invariants distinguish but do not fully classify"
+ce_bounded_sequence,gen_bounded_converges,"sequence (-1)^n","bounded but not convergent","boundedness does not imply convergence"
+ce_finite_sample,gen_sum_first_n,"checking only the first 100 cases","finite confirmation is not universal proof","computation supports conjecture but proof establishes generality"

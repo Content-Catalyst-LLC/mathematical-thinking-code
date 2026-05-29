@@ -1,0 +1,5 @@
+mapping_id,name,source_structure,target_structure,preserved_relation,warning
+map_fraction_normalization,Rational normalization,integer pairs,rational equivalence class,equality of rational value,requires nonzero denominator
+map_graph_relabeling,Graph relabeling,labeled graph,labeled graph,adjacency relation,does not preserve labels as meaningful names
+map_mod_double,Double map modulo n,Z/nZ,Z/nZ,addition,behavior depends on modulus and map definition
+map_metric_embedding,Distance-preserving embedding,metric space,metric space,distance,not every representation is isometric

@@ -1,0 +1,7 @@
+[package]
+name = "equivalence_class_inspector"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line scaffold for rational equivalence-class inspection."
+
+[dependencies]

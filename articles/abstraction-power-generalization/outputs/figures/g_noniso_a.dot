@@ -1,0 +1,9 @@
+graph g_noniso_a {
+  graph [rankdir="LR"];
+  "a" -- "b";
+  "b" -- "c";
+  "c" -- "d";
+  "d" -- "e";
+  "e" -- "f";
+  "f" -- "a";
+}

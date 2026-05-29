@@ -1,0 +1,6 @@
+abstraction_id,name,source_context,preserved_structure,omitted_detail
+abs_number,Number as Cardinality,"counting apples, stones, votes","cardinality","material identity and physical arrangement"
+abs_graph,Graph as Relation,"transport, proof, social, ecological, or software networks","entities and pairwise relations","spatial distance, weight, institutional meaning unless encoded"
+abs_group,Group as Operation Structure,"rotations, permutations, integer addition, modular arithmetic","closure associativity identity inverse","visual appearance and object substance"
+abs_metric,Metric Space as Distance Structure,"Euclidean geometry and generalized distance settings","distance relation satisfying metric axioms","coordinate representation and physical embedding"
+abs_function,Function as Mapping,"rules, formulas, algorithms, measurements","input-output assignment","mechanism or causal interpretation unless specified"
