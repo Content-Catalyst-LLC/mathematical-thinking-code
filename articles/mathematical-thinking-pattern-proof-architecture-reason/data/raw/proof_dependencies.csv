@@ -1,0 +1,7 @@
+source,target,relation,weight
+concept_sequence,concept_recurrence,defines_context,1
+concept_recurrence,thm_recurrence_matrix_form,supports,2
+concept_induction,thm_even_fibonacci_index,supports,2
+concept_recurrence,thm_even_fibonacci_index,supports,2
+concept_proof_graph,thm_graph_acyclic_toposort,motivates,1
+thm_induction_schema,thm_even_fibonacci_index,supports,3

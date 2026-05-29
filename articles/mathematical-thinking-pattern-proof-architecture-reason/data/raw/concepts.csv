@@ -1,0 +1,6 @@
+concept_id,name,domain,definition
+concept_sequence,Sequence,discrete mathematics,"An ordered collection of objects indexed by natural numbers or another ordered set."
+concept_recurrence,Recurrence relation,discrete mathematics,"A rule defining each term of a sequence from earlier terms."
+concept_induction,Mathematical induction,logic,"A proof principle for establishing statements across natural numbers."
+concept_proof_graph,Proof dependency graph,mathematical knowledge architecture,"A directed graph representing dependency relations among definitions, lemmas, propositions, and theorems."
+concept_counterexample,Counterexample,mathematical reasoning,"An object or case showing that a universal claim is false."

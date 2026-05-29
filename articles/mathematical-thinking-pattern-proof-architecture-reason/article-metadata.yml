@@ -1,0 +1,26 @@
+title: "What Is Mathematical Thinking?"
+slug: "mathematical-thinking-pattern-proof-architecture-reason"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/mathematical-thinking-pattern-proof-architecture-reason"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/mathematical-thinking-pattern-proof-architecture-reason"
+description: "Companion computational scaffold for mathematical thinking as pattern recognition, proof architecture, abstraction, recurrence, and graph-based dependency reasoning."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - mathematical reasoning
+  - proof theory
+  - discrete mathematics
+  - recurrence relations
+  - graph theory
+  - theorem metadata
+  - mathematical knowledge architecture
+created_for_article: true

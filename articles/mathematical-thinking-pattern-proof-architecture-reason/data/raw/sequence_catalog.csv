@@ -1,0 +1,6 @@
+sequence_id,name,initial_terms,recurrence,domain,notes
+seq_fibonacci,Fibonacci,"0 1 1 2 3 5 8 13","a_n=a_{n-1}+a_{n-2}",integer recurrence,"Classic second-order linear recurrence"
+seq_lucas,Lucas,"2 1 3 4 7 11 18 29","a_n=a_{n-1}+a_{n-2}",integer recurrence,"Shares recurrence with Fibonacci but different seeds"
+seq_pell,Pell,"0 1 2 5 12 29 70 169","a_n=2a_{n-1}+a_{n-2}",integer recurrence,"Related to rational approximation of sqrt(2)"
+seq_triangular,Triangular,"0 1 3 6 10 15 21 28","a_n=a_{n-1}+n",figurate numbers,"Counts points in triangular arrays"
+seq_catalan,Catalan,"1 1 2 5 14 42 132 429","C_{n+1}=sum(C_i C_{n-i})",combinatorics,"Counts many recursive combinatorial structures"

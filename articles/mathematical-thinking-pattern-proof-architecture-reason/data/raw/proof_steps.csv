@@ -1,0 +1,6 @@
+proof_step_id,theorem_id,step_order,claim,justification
+ps_even_fib_1,thm_even_fibonacci_index,1,"The parity sequence of Fibonacci numbers begins 0,1,1,0,1,1.","Compute recurrence modulo 2 from F_0=0 and F_1=1."
+ps_even_fib_2,thm_even_fibonacci_index,2,"The parity pattern repeats with period 3.","The ordered pair (F_n,F_{n+1}) modulo 2 returns to (0,1) after three recurrence updates."
+ps_even_fib_3,thm_even_fibonacci_index,3,"F_n is even exactly when n is congruent to 0 modulo 3.","The zero terms occur at the first position of each repeated parity cycle."
+ps_dag_1,thm_graph_acyclic_toposort,1,"Every finite DAG has at least one source vertex.","If every vertex had an incoming edge, finite backward traversal would produce a directed cycle."
+ps_dag_2,thm_graph_acyclic_toposort,2,"Repeatedly removing a source vertex yields an ordering.","The removal preserves acyclicity and terminates by finiteness."

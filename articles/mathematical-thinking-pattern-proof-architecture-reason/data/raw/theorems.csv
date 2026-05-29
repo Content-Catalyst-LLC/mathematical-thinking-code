@@ -1,0 +1,5 @@
+theorem_id,title,domain,status,statement
+thm_even_fibonacci_index,Even Fibonacci Index Criterion,number theory,proved,"F_n is even if and only if n is divisible by 3."
+thm_induction_schema,Principle of Mathematical Induction,logic,axiom_schema,"A property holding at 0 and preserved by successor holds for all natural numbers."
+thm_graph_acyclic_toposort,Topological Ordering of Finite DAGs,graph theory,proved,"Every finite directed acyclic graph admits a topological ordering."
+thm_recurrence_matrix_form,Matrix Form of Linear Recurrences,linear algebra,proved,"A finite-order linear recurrence can be represented by iterated matrix multiplication."

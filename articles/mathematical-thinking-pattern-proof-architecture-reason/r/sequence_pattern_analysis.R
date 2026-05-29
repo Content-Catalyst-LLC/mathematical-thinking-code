@@ -1,70 +1,62 @@
-# Mathematical Thinking: Sequence Pattern Analysis in R
-# Educational example only.
+#!/usr/bin/env Rscript
 
-library(tidyverse)
-library(broom)
+# Sequence pattern analysis for "What Is Mathematical Thinking?"
+# Uses base R only for portability.
 
-n_max <- 30
+root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = FALSE)
+out_dir <- file.path(root, "outputs", "tables")
+dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
 
-sequence_data <- tibble(
-  n = 1:n_max,
-  arithmetic = 3 * n + 2,
-  quadratic = n^2 + n + 1,
-  triangular = n * (n + 1) / 2,
-  powers_of_two = 2^n
-)
+fibonacci <- function(n) {
+  if (n <= 0) return(numeric(0))
+  if (n == 1) return(c(0))
+  values <- numeric(n)
+  values[1] <- 0
+  values[2] <- 1
+  for (i in 3:n) {
+    values[i] <- values[i - 1] + values[i - 2]
+  }
+  values
+}
 
-long_sequences <- sequence_data |>
-  pivot_longer(
-    cols = -n,
-    names_to = "sequence_type",
-    values_to = "value"
-  )
+lucas <- function(n) {
+  if (n <= 0) return(numeric(0))
+  if (n == 1) return(c(2))
+  values <- numeric(n)
+  values[1] <- 2
+  values[2] <- 1
+  for (i in 3:n) {
+    values[i] <- values[i - 1] + values[i - 2]
+  }
+  values
+}
 
-print(sequence_data)
-
-fit_candidates <- function(data, response_column) {
-  linear_formula <- as.formula(paste(response_column, "~ n"))
-  quadratic_formula <- as.formula(paste(response_column, "~ n + I(n^2)"))
-
-  linear_fit <- lm(linear_formula, data = data)
-  quadratic_fit <- lm(quadratic_formula, data = data)
-
-  tibble(
-    sequence = response_column,
-    model = c("linear", "quadratic"),
-    r_squared = c(
-      glance(linear_fit)$r.squared,
-      glance(quadratic_fit)$r.squared
-    ),
-    aic = c(
-      AIC(linear_fit),
-      AIC(quadratic_fit)
-    )
+summarize_sequence <- function(name, values) {
+  data.frame(
+    sequence = name,
+    index = seq_along(values) - 1,
+    value = values,
+    parity = values %% 2,
+    mod_3 = values %% 3,
+    ratio_to_previous = c(NA, values[-1] / values[-length(values)])
   )
 }
 
-model_results <- bind_rows(
-  fit_candidates(sequence_data, "arithmetic"),
-  fit_candidates(sequence_data, "quadratic"),
-  fit_candidates(sequence_data, "triangular")
+n <- 30
+table <- rbind(
+  summarize_sequence("fibonacci", fibonacci(n)),
+  summarize_sequence("lucas", lucas(n))
 )
 
-difference_table <- sequence_data |>
-  mutate(
-    quadratic_first_difference = quadratic - lag(quadratic),
-    quadratic_second_difference =
-      quadratic_first_difference - lag(quadratic_first_difference),
-    triangular_first_difference = triangular - lag(triangular),
-    triangular_second_difference =
-      triangular_first_difference - lag(triangular_first_difference)
-  )
+write.csv(table, file.path(out_dir, "r_sequence_pattern_table.csv"), row.names = FALSE)
 
-dir.create("../outputs", showWarnings = FALSE, recursive = TRUE)
+summary_table <- aggregate(
+  value ~ sequence + parity,
+  data = table,
+  FUN = length
+)
+names(summary_table)[names(summary_table) == "value"] <- "count"
 
-write_csv(sequence_data, "../outputs/r_synthetic_sequences.csv")
-write_csv(model_results, "../outputs/r_candidate_model_results.csv")
-write_csv(difference_table, "../outputs/r_difference_table.csv")
+write.csv(summary_table, file.path(out_dir, "r_sequence_parity_summary.csv"), row.names = FALSE)
 
-print(model_results)
-print(difference_table)
+cat("Wrote R sequence pattern outputs to:", out_dir, "\n")

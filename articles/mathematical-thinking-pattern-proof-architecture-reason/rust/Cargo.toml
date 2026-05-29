@@ -1,6 +1,7 @@
 [package]
-name = "mathematical_thinking_cli"
+name = "proof_pattern_cli"
 version = "0.1.0"
 edition = "2021"
+description = "Command-line scaffold for proof-pattern and proof-dependency inspection."
 
 [dependencies]

@@ -1,24 +1,60 @@
-fn triangular_number(n: u64) -> u64 {
-    n * (n + 1) / 2
+use std::collections::{BTreeMap, BTreeSet};
+use std::env;
+use std::fs;
+
+#[derive(Debug)]
+struct Edge {
+    source: String,
+    target: String,
+    relation: String,
+    weight: i32,
 }
 
-fn sum_first_n(n: u64) -> u64 {
-    (1..=n).sum()
+fn parse_edges(path: &str) -> Vec<Edge> {
+    let text = fs::read_to_string(path).expect("Could not read dependency CSV");
+    text.lines()
+        .skip(1)
+        .filter_map(|line| {
+            let parts: Vec<&str> = line.split(',').collect();
+            if parts.len() < 4 {
+                return None;
+            }
+            Some(Edge {
+                source: parts[0].to_string(),
+                target: parts[1].to_string(),
+                relation: parts[2].to_string(),
+                weight: parts[3].parse().unwrap_or(1),
+            })
+        })
+        .collect()
 }
 
 fn main() {
-    println!("Mathematical Thinking CLI: induction-style checks");
+    let args: Vec<String> = env::args().collect();
+    let path = args
+        .get(1)
+        .map(String::as_str)
+        .unwrap_or("../data/raw/proof_dependencies.csv");
 
-    for n in 1..=20 {
-        let direct_sum = sum_first_n(n);
-        let formula = triangular_number(n);
-        let matches = direct_sum == formula;
+    let edges = parse_edges(path);
+    let mut graph: BTreeMap<String, Vec<String>> = BTreeMap::new();
+    let mut vertices: BTreeSet<String> = BTreeSet::new();
 
-        println!(
-            "n = {:2}, sum = {:4}, formula = {:4}, matches = {}",
-            n, direct_sum, formula, matches
-        );
+    for edge in &edges {
+        graph.entry(edge.source.clone()).or_default().push(edge.target.clone());
+        vertices.insert(edge.source.clone());
+        vertices.insert(edge.target.clone());
     }
 
-    println!("\nThis is computational evidence, not a proof.");
+    println!("Proof dependency graph");
+    println!("Vertices: {}", vertices.len());
+    println!("Edges: {}", edges.len());
+    println!();
+
+    for edge in &edges {
+        println!(
+            "{} --{}:{}--> {}",
+            edge.source, edge.relation, edge.weight, edge.target
+        );
+    }
 }

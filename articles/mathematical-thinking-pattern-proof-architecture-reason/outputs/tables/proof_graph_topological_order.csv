@@ -1,0 +1,9 @@
+rank,node
+1,concept_induction
+2,concept_proof_graph
+3,concept_sequence
+4,thm_induction_schema
+5,thm_graph_acyclic_toposort
+6,concept_recurrence
+7,thm_even_fibonacci_index
+8,thm_recurrence_matrix_form
