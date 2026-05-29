@@ -1,0 +1,8 @@
+graph cycle4_layout {
+  graph [rankdir="LR"];
+  "a" -- "b";
+  "b" -- "c";
+  "c" -- "d";
+  "d" -- "a";
+  note [shape=box, label="Layout is visual; connectivity is mathematical structure"];
+}

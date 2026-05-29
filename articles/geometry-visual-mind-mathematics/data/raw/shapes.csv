@@ -1,0 +1,5 @@
+shape_id,shape_type,point_ids,expected_property,interpretation
+tri_345,triangle,"A B C","area 6 and side lengths 3 4 5","right triangle area and distance audit"
+unit_square,polygon,"A D E","transformation test shape","small coordinate sample for rotation and reflection"
+circle_test,circle,"F G","membership test","points checked against unit circle relation"
+cycle4_graph,graph,"a b c d","connectivity preserved under layout","graph layout is visual representation not graph itself"

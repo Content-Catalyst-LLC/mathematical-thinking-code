@@ -1,0 +1,8 @@
+point_id,x,y,role
+A,0,0,triangle_vertex
+B,4,0,triangle_vertex
+C,0,3,triangle_vertex
+D,1,1,square_vertex
+E,-1,1,rotated_square_vertex
+F,0.6,0.8,unit_circle_point
+G,0.5,0.5,non_unit_circle_test

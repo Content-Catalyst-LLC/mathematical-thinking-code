@@ -1,0 +1,6 @@
+warning_id,representation_id,warning,mitigation
+warn_special_case,rep_triangle_diagram,"A diagram may show a special case with extra symmetry.","Test the general configuration and prove from definitions."
+warn_not_to_scale,rep_triangle_diagram,"The drawing may not be to scale.","Use measurements or coordinate proof where scale matters."
+warn_layout_distance,rep_graph_layout,"Graph layout distances may not represent graph distance.","Document whether layout is aesthetic or metric."
+warn_projection_loss,rep_square_vertices,"Coordinate or projected views may omit higher-dimensional information.","State the represented dimension and lost structure."
+warn_visual_realism,rep_circle_equation,"A smooth drawing may hide discrete or numerical approximation.","Record exact equation and numerical tolerance."

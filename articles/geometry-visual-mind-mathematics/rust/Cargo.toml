@@ -1,0 +1,7 @@
+[package]
+name = "geometry_visual_mind_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line geometry and visual-reasoning audit scaffold."
+
+[dependencies]

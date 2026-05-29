@@ -1,0 +1,7 @@
+invariant_id,name,preserved_by,description
+inv_distance,Distance,"translation rotation reflection","Euclidean distance between points."
+inv_angle,Angle,"translation rotation reflection scaling","Angular relation between lines or rays."
+inv_area,Area,"translation rotation reflection","Two-dimensional measure preserved by isometries but not non-unit scaling."
+inv_orientation,Orientation,"translation rotation scaling_positive","Handedness or signed direction not preserved by reflection."
+inv_connectivity,Connectivity,"continuous deformation","Topological connectedness preserved under homeomorphism."
+inv_holes,Holes,"continuous deformation","Topological hole structure preserved under allowable deformation."

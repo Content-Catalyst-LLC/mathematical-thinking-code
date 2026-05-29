@@ -1,0 +1,8 @@
+object_id,name,object_type,description
+obj_point_origin,Origin point,point,"The point (0,0) in the Cartesian plane."
+obj_segment_ab,Segment AB,segment,"A line segment between points A and B."
+obj_triangle_345,Three-four-five triangle,triangle,"A right triangle with vertices (0,0), (4,0), and (0,3)."
+obj_unit_square,Unit square,polygon,"A square with side length one and four vertices."
+obj_unit_circle,Unit circle,circle,"All points at distance one from the origin."
+obj_cycle_graph,Cycle graph visual layout,graph,"A graph representation of a four-node cycle."
+obj_topological_loop,Simple loop,topological_object,"A closed curve considered up to continuous deformation."

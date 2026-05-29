@@ -1,0 +1,6 @@
+measurement_id,value,interpretation
+side_AB,4.0,distance computed from coordinate representation
+side_BC,5.0,distance computed from coordinate representation
+side_CA,3.0,distance computed from coordinate representation
+triangle_area_ABC,6.0,area computed from coordinate determinant formula
+orientation_ABC,12.0,signed orientation encodes left/right turn and twice signed area

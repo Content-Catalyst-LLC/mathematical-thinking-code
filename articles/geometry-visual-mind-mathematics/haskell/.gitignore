@@ -1,0 +1,6 @@
+geometry_visual_mind_demo
+*.hi
+*.o
+.stack-work/
+dist/
+dist-newstyle/

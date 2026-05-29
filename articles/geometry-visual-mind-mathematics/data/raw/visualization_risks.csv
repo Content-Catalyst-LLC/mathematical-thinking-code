@@ -1,0 +1,6 @@
+risk_id,name,description,responsible_check
+risk_special_case,Special case illusion,"A diagram appears general but encodes a special case.","Vary the configuration and prove generally."
+risk_scale_distortion,Scale distortion,"Visual scale exaggerates or hides geometric relation.","Inspect units axes scale and measurement."
+risk_projection_loss,Projection loss,"A lower-dimensional view loses structure from the original object.","Document what the projection preserves and omits."
+risk_numerical_artifact,Numerical artifact,"A computational image reflects step size or precision rather than true structure.","Run sensitivity and convergence checks."
+risk_false_visual_proof,False visual proof,"A picture suggests a theorem without valid justification.","Translate into definitions or proof."

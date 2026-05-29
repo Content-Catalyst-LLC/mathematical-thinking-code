@@ -1,0 +1,28 @@
+title: "Geometry and the Visual Mind in Mathematics"
+slug: "geometry-visual-mind-mathematics"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/geometry-visual-mind-mathematics"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/geometry-visual-mind-mathematics"
+description: "Companion computational scaffold for geometric reasoning, visual representation, transformations, symmetry, invariance, coordinate geometry, Haskell algebraic data types, and computational geometry."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - geometry
+  - visual reasoning
+  - spatial reasoning
+  - computational geometry
+  - coordinate geometry
+  - transformation geometry
+  - topology
+  - visualization ethics
+created_for_article: true

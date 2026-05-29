@@ -1,0 +1,8 @@
+representation_id,object_id,representation_type,representation_text,preserved_structure,omitted_detail
+rep_triangle_diagram,obj_triangle_345,diagram,"drawn right triangle","visual adjacency and approximate shape","exact proof of side lengths and angles"
+rep_triangle_coordinates,obj_triangle_345,coordinates,"(0,0),(4,0),(0,3)","exact coordinate position","visual intuition and construction history"
+rep_triangle_lengths,obj_triangle_345,measurement_table,"3 4 5","side length relation","orientation and placement"
+rep_circle_equation,obj_unit_circle,equation,"x^2+y^2=1","distance-from-origin condition","visual drawing and parametrization"
+rep_square_vertices,obj_unit_square,coordinate_list,"(0,0),(1,0),(1,1),(0,1)","vertex structure","continuous boundary detail"
+rep_graph_layout,obj_cycle_graph,graph_drawing,"cycle graph drawn as square","connectivity if edges are respected","geometric distances may be meaningless"
+rep_loop_topology,obj_topological_loop,topological_description,"simple closed curve","connectivity and hole relation","metric shape and length"

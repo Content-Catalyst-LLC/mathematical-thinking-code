@@ -1,0 +1,6 @@
+warning_id,representation_id,representation_type,preserved_structure,omitted_detail,warning,mitigation
+warn_special_case,rep_triangle_diagram,diagram,visual adjacency and approximate shape,exact proof of side lengths and angles,A diagram may show a special case with extra symmetry.,Test the general configuration and prove from definitions.
+warn_not_to_scale,rep_triangle_diagram,diagram,visual adjacency and approximate shape,exact proof of side lengths and angles,The drawing may not be to scale.,Use measurements or coordinate proof where scale matters.
+warn_layout_distance,rep_graph_layout,graph_drawing,connectivity if edges are respected,geometric distances may be meaningless,Graph layout distances may not represent graph distance.,Document whether layout is aesthetic or metric.
+warn_projection_loss,rep_square_vertices,coordinate_list,vertex structure,continuous boundary detail,Coordinate or projected views may omit higher-dimensional information.,State the represented dimension and lost structure.
+warn_visual_realism,rep_circle_equation,equation,distance-from-origin condition,visual drawing and parametrization,A smooth drawing may hide discrete or numerical approximation.,Record exact equation and numerical tolerance.

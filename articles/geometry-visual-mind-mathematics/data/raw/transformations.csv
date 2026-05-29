@@ -1,0 +1,7 @@
+transformation_id,name,transformation_type,changes,preserves,risk_note
+tr_translate,Translation,isometry,"position","distance angle area shape","visual location changes but intrinsic shape does not"
+tr_rotate90,Rotation,isometry,"orientation and coordinates","distance angle area shape","rotation center and orientation must be specified"
+tr_reflect_x,Reflection,isometry,"handedness","distance angle area shape","orientation changes while lengths remain"
+tr_scale2,Scaling,similarity,"size","shape angle ratios","length and area are not preserved"
+tr_project,Projection,projection,"dimension and apparent distance","selected incidence or coordinate relation","information may be lost"
+tr_deform,Continuous deformation,topological,"metric shape","connectivity and holes","requires rules about cutting and gluing"
