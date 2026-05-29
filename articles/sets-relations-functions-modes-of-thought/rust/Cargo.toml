@@ -1,0 +1,7 @@
+[package]
+name = "sets_relations_functions_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line relation and function audit scaffold."
+
+[dependencies]

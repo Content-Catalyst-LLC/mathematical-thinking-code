@@ -1,0 +1,6 @@
+warning_id,structure_type,structure_id,structure_name,warning,mitigation,responsible_interpretation_note
+warn_boundary,set,set_E,set_E,Qualitative categories may hide contested thresholds.,Document category definitions and affected interpretation.,"state boundaries, assumptions, domain, codomain, and consequences"
+warn_codomain,function,fn_square_restricted,Restricted square,Outputs outside codomain show the mapping is not valid as specified.,Revise codomain or restrict the domain.,"state boundaries, assumptions, domain, codomain, and consequences"
+warn_missing_input,function,fn_partial_inverse,Partial inverse,A missing input means this is not a total function on the stated domain.,Add mapping for every domain element or label as partial.,"state boundaries, assumptions, domain, codomain, and consequences"
+warn_category_score,function,fn_label,Score label,Score labels may appear objective while encoding design choices.,State how labels are defined and validate consequences.,"state boundaries, assumptions, domain, codomain, and consequences"
+warn_multivalued,relation,rel_not_function,rel_not_function,A relation with multiple outputs for one input is not a function.,Represent as relation or restrict outputs.,"state boundaries, assumptions, domain, codomain, and consequences"

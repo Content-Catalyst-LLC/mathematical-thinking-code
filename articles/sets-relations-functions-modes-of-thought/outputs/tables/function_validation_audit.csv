@@ -1,0 +1,5 @@
+function_id,name,domain_set_id,codomain_set_id,mapping_rule,is_valid_total_function,validation_message,interpretation
+fn_double,Doubling,set_A,set_B,f(x)=2x,True,valid total function on stated domain and codomain,domain and codomain are part of the function definition
+fn_square_restricted,Restricted square,set_A,set_D,f(x)=x^2 when output is in divisor domain,False,output 9 is outside codomain,domain and codomain are part of the function definition
+fn_label,Score label,set_A,set_E,score category mapping,True,valid total function on stated domain and codomain,domain and codomain are part of the function definition
+fn_partial_inverse,Partial inverse,set_B,set_A,f(y)=y/2,False,domain input 8 has no output,domain and codomain are part of the function definition

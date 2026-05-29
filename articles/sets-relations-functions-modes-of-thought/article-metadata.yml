@@ -1,0 +1,28 @@
+title: "Sets, Relations, and Functions as Modes of Thought"
+slug: "sets-relations-functions-modes-of-thought"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/sets-relations-functions-modes-of-thought"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/sets-relations-functions-modes-of-thought"
+description: "Companion computational scaffold for sets, relations, functions, equivalence classes, partial orders, domain/codomain validation, Haskell typed modeling, SQL schemas, and responsible mapping interpretation."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - set theory
+  - relations
+  - functions
+  - discrete mathematics
+  - equivalence relations
+  - partial orders
+  - typed systems
+  - mathematical modeling
+created_for_article: true

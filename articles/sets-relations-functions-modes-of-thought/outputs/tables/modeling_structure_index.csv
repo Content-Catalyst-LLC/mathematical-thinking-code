@@ -1,0 +1,5 @@
+model_id,name,object_set,relation,functions,assumption_note,mathematical_architecture
+model_network,Toy network,nodes A B C D,edge relation,centrality scoring function,layout may not represent metric distance,model = objects + relations + mappings + assumptions
+model_prediction,Toy prediction system,records 1 2 3 4,similarity relation,feature-to-label function,training domain must match application domain,model = objects + relations + mappings + assumptions
+model_order,Divisibility order,1 2 3 4 6 12,divides relation,rank/depth function,partial order does not compare every pair,model = objects + relations + mappings + assumptions
+model_equivalence,Residue classifier,integers 1 through 8,same remainder modulo 3,residue mapping,equivalence classes depend on chosen modulus,model = objects + relations + mappings + assumptions

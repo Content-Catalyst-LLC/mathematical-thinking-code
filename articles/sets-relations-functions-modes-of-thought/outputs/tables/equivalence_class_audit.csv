@@ -1,0 +1,4 @@
+equivalence_rule,class_label,members,interpretation
+same remainder modulo 3,residue_0,3 6,equivalence relation partitions the domain into disjoint classes
+same remainder modulo 3,residue_1,1 4 7,equivalence relation partitions the domain into disjoint classes
+same remainder modulo 3,residue_2,2 5 8,equivalence relation partitions the domain into disjoint classes

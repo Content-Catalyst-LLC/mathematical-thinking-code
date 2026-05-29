@@ -1,0 +1,3 @@
+relation_id,reflexive,symmetric,transitive,antisymmetric,equivalence_relation,partial_order,interpretation
+rel_mod2,True,True,True,False,True,False,relation properties determine whether the structure supports equivalence classes or order
+rel_divides,True,False,True,True,False,True,relation properties determine whether the structure supports equivalence classes or order

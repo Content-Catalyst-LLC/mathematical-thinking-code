@@ -1,0 +1,5 @@
+function_id,name,domain_set_id,codomain_set_id,mapping_rule,domain_elements,codomain_elements,mapping_pairs,validation_note
+fn_double,Doubling,set_A,set_B,"f(x)=2x","1 2 3 4","2 4 6 8","1:2 2:4 3:6 4:8","valid total function from set_A to set_B"
+fn_square_restricted,Restricted square,set_A,set_D,"f(x)=x^2 when output is in divisor domain","1 2 3 4","1 2 3 4 6 12","1:1 2:4 3:9 4:16","invalid because outputs 9 and 16 are outside codomain"
+fn_label,Score label,set_A,set_E,"score category mapping","1 2 3 4","low medium high","1:low 2:medium 3:high 4:high","valid but categorical meaning requires context"
+fn_partial_inverse,Partial inverse,set_B,set_A,"f(y)=y/2","2 4 6 8","1 2 3 4","2:1 4:2 6:3","invalid total function because input 8 is missing"

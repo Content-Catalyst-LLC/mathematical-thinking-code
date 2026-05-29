@@ -1,0 +1,5 @@
+input,after_double,after_label,composition,interpretation
+1,2,low,label(double(x)),composition chains mappings; category thresholds should be documented
+2,4,medium,label(double(x)),composition chains mappings; category thresholds should be documented
+3,6,medium,label(double(x)),composition chains mappings; category thresholds should be documented
+4,8,high,label(double(x)),composition chains mappings; category thresholds should be documented

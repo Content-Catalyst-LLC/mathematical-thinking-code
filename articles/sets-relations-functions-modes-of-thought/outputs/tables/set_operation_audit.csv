@@ -1,0 +1,6 @@
+operation_id,result,interpretation
+A_union_D,1 2 3 4 6 12,union of two finite sets
+A_intersection_D,1 2 3 4,intersection of two finite sets
+D_minus_A,6 12,relative complement of A in D
+A_image_double,2 4 6 8,image of A under doubling function
+B_subset_D,False,whether B is a subset of D
