@@ -1,0 +1,7 @@
+misconception_id,name,description,diagnostic_signal,intervention
+mis_equal_sign_answer,Equal sign as answer signal,"Treating equals as meaning the answer comes next.","student rejects 8+4=10+2","use relational true-false equations and balance models"
+mis_variable_unknown_only,Variable as unknown only,"Treating every variable as a value to solve for.","student tries to solve a+b=b+a","compare unknown generalized number parameter and input roles"
+mis_cancel_invalid,Invalid cancellation,"Canceling symbols without preserving equivalence.","student cancels x in x+2 over x+3","use numerical tests and domain-aware transformation rules"
+mis_examples_proof,Examples as proof,"Treating checked cases as proof of an identity.","student says it works for five values so always true","introduce counterexamples and symbolic proof"
+mis_extraneous_solutions,Extraneous solutions,"Accepting candidates introduced by non-equivalent transformations.","student squares both sides and does not check","require substitution into original equation"
+mis_expression_equation_confusion,Expression-equation confusion,"Confusing simplifying an expression with solving an equation.","student tries to solve 2x+6 without condition","separate expression evaluation transformation and equation solving"

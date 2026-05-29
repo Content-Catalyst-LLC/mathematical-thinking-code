@@ -1,0 +1,6 @@
+equation_id,equation_text,equation_type,interpretation,verification_method
+eq_linear_solve,"3x+2=17",conditional_equation,"Find x values satisfying the condition.","substitute candidate into original equation"
+eq_identity_square,"(x+1)^2=x^2+2x+1",identity,"True for all x in the polynomial domain.","expand or compare coefficients"
+eq_circle,"x^2+y^2=1",geometric_relation,"Defines the unit circle in the plane.","check point satisfies relation"
+eq_function,"y=3x+2",function_relation,"Defines dependence of y on x.","evaluate inputs and compare outputs"
+eq_model,"C=50+12n",model_equation,"Represents fixed cost plus variable cost.","check units assumptions and context"

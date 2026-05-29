@@ -1,0 +1,8 @@
+role_id,symbol,role_type,example,interpretation
+role_unknown,x,unknown,"x+3=10","x is a value to be determined."
+role_generalized_number,n,generalized_number,"n+n=2n","n represents an arbitrary number in a domain."
+role_input,x,function_input,"f(x)=3x+2","x is an input value for a function."
+role_output,y,function_output,"y=3x+2","y depends on x through a rule."
+role_parameter,m,parameter,"y=mx+b","m controls slope in a family of lines."
+role_index,n,index,"a_n=2n+1","n marks position in a sequence."
+role_coefficient,a,coefficient,"ax^2+bx+c","a controls the quadratic term."

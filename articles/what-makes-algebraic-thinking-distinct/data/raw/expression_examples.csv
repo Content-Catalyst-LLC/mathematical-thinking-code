@@ -1,0 +1,8 @@
+expression_id,expression_text,form_type,variables,structure_note
+expr_linear_expanded,"2x+6",expanded,"x","term structure visible"
+expr_linear_factored,"2(x+3)",factored,"x","factor and grouping visible"
+expr_quadratic_expanded,"x^2+5x+6",expanded,"x","coefficient structure visible"
+expr_quadratic_factored,"(x+2)(x+3)",factored,"x","zeros and multiplicative structure visible"
+expr_completed_square,"(x+3)^2-4",completed_square,"x","vertex and nonnegative-square structure visible"
+expr_function,"f(x)=3x+2",functional,"x","input-output dependence visible"
+expr_recursive,"a_{n+1}=a_n+3",recursive,"n a_n","step dependence visible"

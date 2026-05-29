@@ -1,0 +1,8 @@
+audit_id,candidate,relation,residual,passes_check,interpretation
+linear_equation_3x_plus_2_equals_17,4.0,3x+2=17,-3.0,False,candidate solution should be checked in original equation
+linear_equation_3x_plus_2_equals_17,5.0,3x+2=17,0.0,True,candidate solution should be checked in original equation
+linear_equation_3x_plus_2_equals_17,6.0,3x+2=17,3.0,False,candidate solution should be checked in original equation
+unit_circle_relation,"(1.0,0.0)",x^2+y^2=1,0.0,True,geometric equation defines a relation checked by substitution
+unit_circle_relation,"(0.0,1.0)",x^2+y^2=1,0.0,True,geometric equation defines a relation checked by substitution
+unit_circle_relation,"(0.5,0.5)",x^2+y^2=1,-0.5,False,geometric equation defines a relation checked by substitution
+unit_circle_relation,"(0.6,0.8)",x^2+y^2=1,0.0,True,geometric equation defines a relation checked by substitution

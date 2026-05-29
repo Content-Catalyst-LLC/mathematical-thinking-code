@@ -1,0 +1,28 @@
+title: "What Makes Algebraic Thinking Distinct?"
+slug: "what-makes-algebraic-thinking-distinct"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/what-makes-algebraic-thinking-distinct"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/what-makes-algebraic-thinking-distinct"
+description: "Companion computational scaffold for algebraic expression trees, variable roles, equivalence transformations, equation audits, function dependence, Haskell algebraic data types, and symbolic verification."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - algebraic thinking
+  - algebra education
+  - symbolic computation
+  - expression trees
+  - equations
+  - functions
+  - equivalence
+  - mathematical reasoning
+created_for_article: true

@@ -1,0 +1,7 @@
+rule_id,name,source_form,target_form,preserved_meaning,risk_note,risk_category
+rule_expand,Expand,2(x+3),2x+6,expression value for all x in the domain,expanded form may hide factors,meaning-preserving when assumptions hold
+rule_factor,Factor,x^2+5x+6,(x+2)(x+3),expression value and zeros when domain is appropriate,factorization depends on coefficient domain,domain-sensitive transformation
+rule_add_both_sides,Add to both sides,x-4=8,x=12,solution set under standard equality operations,usually safe in standard algebraic systems,meaning-preserving when assumptions hold
+rule_divide_expression,Divide by expression,x(x-1)=0,x-1=0,conditional implication only if divided expression nonzero,can lose solutions when divisor may be zero,can lose solutions
+rule_square_both_sides,Square both sides,x=3,x^2=9,truth of original implies transformed equation,can introduce extraneous solutions,can introduce extra solutions
+rule_complete_square,Complete the square,x^2+6x+5,(x+3)^2-4,expression value for all x,may obscure roots unless interpreted,meaning-preserving when assumptions hold

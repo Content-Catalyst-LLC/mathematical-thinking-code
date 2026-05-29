@@ -1,0 +1,6 @@
+function_id,representation_type,representation_text,preserved_structure,possible_limitation
+f_linear,verbal_rule,"start at 2 and add 3 for each increase in x","process and rate of change","less compact for algebraic manipulation"
+f_linear,table,"(0,2) (1,5) (2,8) (3,11)","sampled input-output pairs","finite sample does not establish full rule"
+f_linear,formula,"f(x)=3x+2","general symbolic rule","domain and codomain may be hidden"
+f_linear,graph,"line with slope 3 and intercept 2","shape and rate of change","scale may distort visual interpretation"
+f_linear,code,"lambda x: 3*x+2","executable rule","implementation must match mathematical definition"

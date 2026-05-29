@@ -1,0 +1,5 @@
+expression_id,form_type,rendered_expression,tree_size,value_at_x_4,structure_note
+expr_linear_factored,factored,(2 * (x + 3)),5,14.0,expression tree makes algebraic grouping and operations explicit
+expr_linear_expanded,expanded,((2 * x) + 6),5,14.0,expression tree makes algebraic grouping and operations explicit
+expr_quadratic_factored,factored,((x + 2) * (x + 3)),7,42.0,expression tree makes algebraic grouping and operations explicit
+expr_quadratic_expanded,expanded,(((x^2) + (5 * x)) + 6),8,42.0,expression tree makes algebraic grouping and operations explicit
