@@ -1,0 +1,5 @@
+evidence_id,claim_id,evidence_type,range_checked,interpretation
+ev_sum_100,thm_sum_first_n,finite_case_check,1..100,"supports the conjecture but does not replace induction"
+ev_even_square_50,lemma_even_square,finite_case_check,-50..50,"supports the lemma but does not replace direct proof"
+ev_bounded_alt_20,claim_bounded_converges,counterexample_trace,0..20,"shows oscillation in a bounded sequence"
+ev_degree_sequence_small,claim_degree_sequence_iso,structural_search,small_graph_catalog,"shows why degree sequence alone should be treated cautiously"

@@ -1,0 +1,8 @@
+claim_id,title,claim_type,proof_status,finite_evidence_records,counterexample_records,interpretation
+def_even,Even Integer Definition,definition,definition,0,0,requires proof-status review
+lemma_even_square,Even Square Lemma,lemma,proved,1,1,refuted or refined by counterexample
+thm_sum_first_n,Sum of First n Positive Integers,theorem,proved_by_induction,1,1,refuted or refined by counterexample
+claim_bounded_converges,Bounded Sequence Convergence Claim,false_conjecture,refuted,1,1,refuted or refined by counterexample
+claim_degree_sequence_iso,Degree Sequence Isomorphism Claim,false_conjecture,refuted,1,1,refuted or refined by counterexample
+rule_modus_ponens,Modus Ponens,inference_rule,accepted_rule,0,0,inference rule or accepted proof principle
+rule_induction,Mathematical Induction,inference_rule,accepted_rule,0,0,inference rule or accepted proof principle

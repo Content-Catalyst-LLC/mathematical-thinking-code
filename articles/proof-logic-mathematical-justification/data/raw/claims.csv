@@ -1,0 +1,8 @@
+claim_id,title,claim_type,statement,domain,proof_status
+def_even,Even Integer Definition,definition,"An integer n is even iff n=2k for some integer k.",number theory,definition
+lemma_even_square,Even Square Lemma,lemma,"If n is even, then n^2 is even.",number theory,proved
+thm_sum_first_n,Sum of First n Positive Integers,theorem,"For every positive integer n, 1+2+...+n=n(n+1)/2.",discrete mathematics,proved_by_induction
+claim_bounded_converges,Bounded Sequence Convergence Claim,false_conjecture,"Every bounded real sequence converges.",analysis,refuted
+claim_degree_sequence_iso,Degree Sequence Isomorphism Claim,false_conjecture,"Finite graphs with the same degree sequence are isomorphic.",graph theory,refuted
+rule_modus_ponens,Modus Ponens,inference_rule,"From A implies B and A, infer B.",logic,accepted_rule
+rule_induction,Mathematical Induction,inference_rule,"A base case and successor-preservation establish a natural-number statement.",logic,accepted_rule

@@ -1,0 +1,10 @@
+digraph proof_dependency_graph {
+  graph [rankdir="LR"];
+  node [shape="box"];
+  "def_even" -> "lemma_even_square" [label="supports:3"];
+  "lemma_even_square" -> "thm_sum_first_n" [label="illustrative_parallel:1"];
+  "rule_induction" -> "thm_sum_first_n" [label="justifies_method:3"];
+  "rule_modus_ponens" -> "lemma_even_square" [label="background_inference:1"];
+  "rule_modus_ponens" -> "thm_sum_first_n" [label="background_inference:1"];
+  "claim_bounded_converges" -> "claim_degree_sequence_iso" [label="shares_false_generalization_pattern:1"];
+}

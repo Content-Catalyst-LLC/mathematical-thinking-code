@@ -1,0 +1,5 @@
+counterexample_id,claim_id,object_description,failure_mode,lesson
+ce_bounded_alt,claim_bounded_converges,"The sequence (-1)^n is bounded but does not converge.","boundedness alone is insufficient","A stronger theorem may require monotonicity or compactness conditions."
+ce_degree_sequence,claim_degree_sequence_iso,"Two non-isomorphic finite graphs can share the same degree sequence.","degree sequence is an incomplete invariant","Invariants may distinguish some objects without fully classifying them."
+ce_finite_cases,thm_sum_first_n,"Checking the first 100 cases does not prove the formula for all n.","finite evidence is not universal proof","Induction supplies the missing general mechanism."
+ce_diagram,lemma_even_square,"A convincing diagram may suggest evenness but not establish it.","visual intuition is not proof","Definitions and algebra carry the logical burden."

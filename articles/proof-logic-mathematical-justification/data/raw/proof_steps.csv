@@ -1,0 +1,10 @@
+proof_step_id,claim_id,step_order,statement,justification
+ps_even_1,lemma_even_square,1,"Let n be even.","Hypothesis."
+ps_even_2,lemma_even_square,2,"Then n=2k for some integer k.","Definition of even."
+ps_even_3,lemma_even_square,3,"Then n^2=(2k)^2=4k^2=2(2k^2).","Algebra."
+ps_even_4,lemma_even_square,4,"Therefore n^2 is even.","Definition of even."
+ps_sum_1,thm_sum_first_n,1,"The formula holds for n=1.","Both sides equal 1."
+ps_sum_2,thm_sum_first_n,2,"Assume the formula holds for n.","Induction hypothesis."
+ps_sum_3,thm_sum_first_n,3,"Add n+1 to both sides.","Inductive construction."
+ps_sum_4,thm_sum_first_n,4,"The result simplifies to (n+1)(n+2)/2.","Algebra."
+ps_sum_5,thm_sum_first_n,5,"Therefore the formula holds for all positive integers n.","Mathematical induction."

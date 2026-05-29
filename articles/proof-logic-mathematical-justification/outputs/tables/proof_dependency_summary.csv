@@ -1,0 +1,8 @@
+claim_id,direct_dependencies_out,transitive_reach,has_cycle_in_graph
+claim_bounded_converges,1,1,False
+claim_degree_sequence_iso,0,0,False
+def_even,1,2,False
+lemma_even_square,1,1,False
+rule_induction,1,1,False
+rule_modus_ponens,2,2,False
+thm_sum_first_n,0,0,False

@@ -1,0 +1,6 @@
+rule_id,name,formal_pattern,description,accepted_context
+rule_modus_ponens,Modus Ponens,"A->B; A; therefore B","Applies an implication when the antecedent is established.",classical and constructive logic
+rule_contradiction,Proof by Contradiction,"not C -> contradiction; therefore C","Establishes C by showing its negation is impossible.",classical logic
+rule_induction,Mathematical Induction,"P(0); forall n P(n)->P(n+1); therefore forall n P(n)","Propagates truth across natural numbers.",arithmetic and recursive structures
+rule_counterexample,Counterexample,"exists x not P(x); therefore not forall x P(x)","Refutes a universal claim with one failing instance.",standard first-order reasoning
+rule_construction,Constructive Existence,"construct x with P(x); therefore exists x P(x)","Establishes existence by building a witness.",constructive and classical mathematics

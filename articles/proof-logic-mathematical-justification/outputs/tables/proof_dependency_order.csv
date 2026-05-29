@@ -1,0 +1,8 @@
+rank,claim_id,title,claim_type,proof_status
+1,claim_bounded_converges,Bounded Sequence Convergence Claim,false_conjecture,refuted
+2,def_even,Even Integer Definition,definition,definition
+3,rule_induction,Mathematical Induction,inference_rule,accepted_rule
+4,rule_modus_ponens,Modus Ponens,inference_rule,accepted_rule
+5,claim_degree_sequence_iso,Degree Sequence Isomorphism Claim,false_conjecture,refuted
+6,lemma_even_square,Even Square Lemma,lemma,proved
+7,thm_sum_first_n,Sum of First n Positive Integers,theorem,proved_by_induction

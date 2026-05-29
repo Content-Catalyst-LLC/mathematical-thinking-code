@@ -1,0 +1,9 @@
+assumption_id,claim_id,statement,assumption_type
+asm_even_integer,lemma_even_square,"n is an even integer.",hypothesis
+asm_positive_integer,thm_sum_first_n,"n is a positive integer.",domain
+asm_real_sequence,claim_bounded_converges,"The sequence is a bounded real sequence.",hypothesis
+asm_finite_graph,claim_degree_sequence_iso,"The objects are finite simple graphs.",domain
+asm_implication,rule_modus_ponens,"A implies B.",premise
+asm_antecedent,rule_modus_ponens,"A holds.",premise
+asm_base_case,rule_induction,"P(0) or P(1) holds.",premise
+asm_successor_step,rule_induction,"For arbitrary n, P(n) implies P(n+1).",premise
