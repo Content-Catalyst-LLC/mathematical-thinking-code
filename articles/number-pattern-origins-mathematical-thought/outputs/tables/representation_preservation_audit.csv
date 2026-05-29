@@ -1,0 +1,7 @@
+practice_id,origin_id,representation_type,example,preserved_structure,omitted_detail,interpretation
+rep_tally,origin_counting,tally_mark,||||,one-to-one count,object identity and context,mathematical representations preserve selected structure while omitting other context
+rep_token,origin_accounting,token,grain token,unit equivalence,individual variation,mathematical representations preserve selected structure while omitting other context
+rep_numeral,origin_number,numeral,7,quantity name,collection context,mathematical representations preserve selected structure while omitting other context
+rep_diagram,origin_geometry,diagram,triangle drawing,spatial relation,exact proof and scale,mathematical representations preserve selected structure while omitting other context
+rep_formula,origin_pattern,formula,a_n=n(n+1)/2,general relation,derivation and proof history,mathematical representations preserve selected structure while omitting other context
+rep_code,origin_computation,program,"mod(n,7)",executable recurrence or cycle,human meaning and cultural context,mathematical representations preserve selected structure while omitting other context

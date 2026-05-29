@@ -1,0 +1,7 @@
+origin_id,name,origin_type,description
+origin_number_sense,Number sense,cognitive,"Approximate quantity comparison and small-number recognition before formal counting."
+origin_counting,Counting,practice,"Exact quantity through ordered count words or marks and one-to-one correspondence."
+origin_pattern,Pattern recognition,cognitive_practice,"Recognition of repetition, growth, symmetry, recurrence, and order."
+origin_geometry,Spatial reasoning,cognitive_practice,"Reasoning about shape, boundary, distance, orientation, and construction."
+origin_symbol,Symbolic representation,cultural_tool,"External marks, tokens, numerals, diagrams, and formulas that stabilize thought."
+origin_computation,Computation,formal_tool,"Executable procedures for counting, transforming, searching, and testing patterns."

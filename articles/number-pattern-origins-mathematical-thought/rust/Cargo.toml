@@ -1,0 +1,7 @@
+[package]
+name = "number_pattern_origins_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line sequence and finite-difference audit scaffold."
+
+[dependencies]

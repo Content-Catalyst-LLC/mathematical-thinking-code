@@ -1,0 +1,11 @@
+object_id,collection_id,object_type,context,note
+stone_a,stones,stone,tally_demo,unit object for correspondence
+stone_b,stones,stone,tally_demo,unit object for correspondence
+stone_c,stones,stone,tally_demo,unit object for correspondence
+stone_d,stones,stone,tally_demo,unit object for correspondence
+grain_a,grain_units,grain,accounting_demo,unit object for record keeping
+grain_b,grain_units,grain,accounting_demo,unit object for record keeping
+grain_c,grain_units,grain,accounting_demo,unit object for record keeping
+step_a,steps,step,rhythm_demo,embodied counting unit
+step_b,steps,step,rhythm_demo,embodied counting unit
+step_c,steps,step,rhythm_demo,embodied counting unit

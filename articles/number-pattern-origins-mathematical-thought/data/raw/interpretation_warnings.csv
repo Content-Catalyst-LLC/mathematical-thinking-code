@@ -1,0 +1,6 @@
+warning_id,pattern_id,warning,mitigation
+warn_finite_evidence,pat_triangular,"Finite agreement suggests a rule but does not prove it.","Use induction or another proof strategy."
+warn_false_prefix,pat_false,"A finite prefix may imitate a familiar sequence before failing.","Search for counterexamples and state proof status."
+warn_context_loss,pat_tally,"Counting preserves quantity but may omit object differences and context.","Document what is counted and what is excluded."
+warn_spurious_pattern,pat_visual,"A visual or statistical pattern may be accidental or overinterpreted.","Define the rule and test against alternatives."
+warn_cycle_assumption,pat_rhythm,"A cycle may be imposed by representation rather than observed structure.","State period, starting point, and evidence."

@@ -1,0 +1,7 @@
+practice_id,origin_id,representation_type,example,preserved_structure,omitted_detail
+rep_tally,origin_counting,tally_mark,"||||","one-to-one count","object identity and context"
+rep_token,origin_accounting,token,"grain token","unit equivalence","individual variation"
+rep_numeral,origin_number,numeral,"7","quantity name","collection context"
+rep_diagram,origin_geometry,diagram,"triangle drawing","spatial relation","exact proof and scale"
+rep_formula,origin_pattern,formula,"a_n=n(n+1)/2","general relation","derivation and proof history"
+rep_code,origin_computation,program,"mod(n,7)","executable recurrence or cycle","human meaning and cultural context"

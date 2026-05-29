@@ -1,0 +1,8 @@
+sequence_id,name,values,expected_pattern,heuristic_classification,classification_matches_expected,first_differences,second_differences,possible_rule,proof_status,interpretation
+seq_even,Even numbers,2 4 6 8 10 12 14,arithmetic,arithmetic,True,2 2 2 2 2 2,0 0 0 0 0,a_n=2n,proved_by_definition,finite pattern detection suggests structure but must be proof-status labeled
+seq_triangular,Triangular numbers,1 3 6 10 15 21 28,quadratic,quadratic,True,2 3 4 5 6 7,1 1 1 1 1,a_n=n(n+1)/2,proved_by_induction,finite pattern detection suggests structure but must be proof-status labeled
+seq_squares,Square numbers,1 4 9 16 25 36 49,quadratic,quadratic,True,3 5 7 9 11 13,2 2 2 2 2,a_n=n^2,proved_by_definition,finite pattern detection suggests structure but must be proof-status labeled
+seq_powers_two,Powers of two,1 2 4 8 16 32 64,geometric,geometric,True,1 2 4 8 16 32,1 2 4 8 16,a_n=2^(n-1),proved_by_recursion,finite pattern detection suggests structure but must be proof-status labeled
+seq_fibonacci,Fibonacci numbers,0 1 1 2 3 5 8 13,recursive,cyclic_or_repeating,False,1 0 1 1 2 3 5,-1 1 0 1 1 2,a_n=a_(n-1)+a_(n-2),definition_or_induction,finite pattern detection suggests structure but must be proof-status labeled
+seq_false_prefix,False finite pattern,1 2 4 8 16 31 64,misleading,undetermined finite pattern,False,1 2 4 8 15 33,1 2 4 7 18,not powers of two,refuted_by_counterexample,finite pattern detection suggests structure but must be proof-status labeled
+seq_calendar_week,Weekday cycle,0 1 2 3 4 5 6 0 1 2,cyclic,cyclic_or_repeating,True,1 1 1 1 1 1 -6 1 1,0 0 0 0 0 -7 7 0,a_n=n mod 7,proved_by_modular_definition,finite pattern detection suggests structure but must be proof-status labeled

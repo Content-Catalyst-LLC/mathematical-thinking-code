@@ -1,0 +1,11 @@
+collection_id,object_id,mark,one_to_one_index,correspondence_note
+stones,stone_a,|,1,one object corresponds to one mark
+stones,stone_b,|,2,one object corresponds to one mark
+stones,stone_c,|,3,one object corresponds to one mark
+stones,stone_d,|,4,one object corresponds to one mark
+grain_units,grain_a,|,1,one object corresponds to one mark
+grain_units,grain_b,|,2,one object corresponds to one mark
+grain_units,grain_c,|,3,one object corresponds to one mark
+steps,step_a,|,1,one object corresponds to one mark
+steps,step_b,|,2,one object corresponds to one mark
+steps,step_c,|,3,one object corresponds to one mark

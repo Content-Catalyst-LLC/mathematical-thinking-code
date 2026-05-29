@@ -1,0 +1,6 @@
+number_pattern_origins_demo
+*.hi
+*.o
+.stack-work/
+dist/
+dist-newstyle/
