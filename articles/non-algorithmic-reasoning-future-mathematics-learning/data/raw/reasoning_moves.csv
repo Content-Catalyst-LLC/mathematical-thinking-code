@@ -1,0 +1,8 @@
+move_id,stage,guiding_question,mathematical_role,evidence_of_learning
+notice_pattern,notice,"What pattern or structure appears?","initiates conjecture and exploration","student identifies regularity or anomaly"
+frame_problem,frame,"What is the mathematical problem?","turns a situation into a mathematical task","student states object goal constraints and assumptions"
+choose_representation,represent,"Which representation makes the structure visible?","supports strategy selection and transfer","student justifies equation graph table diagram code or proof tree"
+check_assumptions,justify,"What conditions does this method require?","prevents invalid procedure use","student names domain constraints and hypotheses"
+verify_output,justify,"Does the answer satisfy the original problem?","connects procedure output to validation","student checks residuals substitution units or theorem conditions"
+search_counterexample,reason,"Can the claim fail in a boundary case?","tests generality and sharpens statements","student constructs or searches for failing cases"
+reflect_transfer,reflect,"What does this problem teach for future problems?","builds metacognitive transfer","student names principle method or limitation"

@@ -1,0 +1,5 @@
+ai_output_id,task_id,claim_or_answer,known_issue,verification_needed,verification_status,responsible_learning_note
+ai_quad_ok,task_quadratic_roots,roots are 2 and 3,mostly correct but needs residual verification,substitute roots into original equation,requires residual verification,"AI output should be checked, interpreted, and justified before acceptance"
+ai_square_bad,task_false_generalization,checking many square numbers proves the rule,confuses finite evidence with proof,distinguish sample evidence from universal proof,must be labeled as evidence not proof,"AI output should be checked, interpreted, and justified before acceptance"
+ai_domain_bad,task_function_representation,f(x)=sqrt(x) works for all real x,ignores real-domain restriction,state domain x >= 0 for real-valued function,requires domain check,"AI output should be checked, interpreted, and justified before acceptance"
+ai_proof_gap,task_proof_strategy,therefore the theorem is true by examples,examples do not prove universal theorem,provide proof or label as conjecture,proof gap,"AI output should be checked, interpreted, and justified before acceptance"

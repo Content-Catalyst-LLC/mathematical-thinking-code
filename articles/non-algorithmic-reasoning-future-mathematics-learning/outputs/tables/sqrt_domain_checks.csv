@@ -1,0 +1,6 @@
+input_value,real_sqrt_domain_valid,interpretation
+-4,False,domain check prevents invalid real-valued formula use
+-1,False,domain check prevents invalid real-valued formula use
+0,True,domain check prevents invalid real-valued formula use
+1,True,domain check prevents invalid real-valued formula use
+4,True,domain check prevents invalid real-valued formula use

@@ -1,0 +1,7 @@
+audit_id,task_id,student_id,method_used,framing_score,representation_score,strategy_score,assumption_score,justification_score,reflection_score,comment
+audit_a1,task_quadratic_roots,A,"quadratic formula",3,2,2,2,3,1,"correct computation with partial interpretation"
+audit_b1,task_quadratic_roots,B,"quadratic formula",1,1,1,0,1,0,"answer-focused with no assumption or residual check"
+audit_c1,task_quadratic_roots,C,"factoring and verification",3,3,3,3,4,2,"strong reasoning and verification"
+audit_a2,task_false_generalization,A,"counterexample search",2,2,2,2,3,1,"found example but explanation needs precision"
+audit_b2,task_false_generalization,B,"finite testing",1,1,1,0,1,0,"mistook finite evidence for proof"
+audit_c2,task_false_generalization,C,"constructed boundary case",3,2,3,3,4,2,"explained why counterexample refutes universal claim"

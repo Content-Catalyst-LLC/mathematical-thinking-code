@@ -1,0 +1,7 @@
+dimension_id,name,description,evidence_of_learning,max_score
+dim_framing,Problem framing,"identifies object goal constraints assumptions and domain","clear statement of what is being solved and why",3
+dim_representation,Representation choice,"selects and justifies a useful mathematical representation","representation is appropriate and limitations are noted",3
+dim_strategy,Strategy explanation,"explains why a method applies","strategy is linked to structure not only template",3
+dim_assumptions,Assumption checking,"checks conditions domains and hidden requirements","assumptions are named and verified",3
+dim_justification,Justification,"shows why conclusion follows","proof explanation verification or residual check is present",4
+dim_reflection,Reflection,"connects task to transfer limitations or alternative strategies","student articulates learning beyond answer",2

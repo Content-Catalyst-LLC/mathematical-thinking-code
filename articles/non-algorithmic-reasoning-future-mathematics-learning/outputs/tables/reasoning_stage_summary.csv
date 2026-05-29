@@ -1,0 +1,7 @@
+stage,move_count,move_ids,interpretation
+frame,1,frame_problem,stage represents a visible component of non-algorithmic mathematical reasoning
+justify,2,check_assumptions verify_output,stage represents a visible component of non-algorithmic mathematical reasoning
+notice,1,notice_pattern,stage represents a visible component of non-algorithmic mathematical reasoning
+reason,1,search_counterexample,stage represents a visible component of non-algorithmic mathematical reasoning
+reflect,1,reflect_transfer,stage represents a visible component of non-algorithmic mathematical reasoning
+represent,1,choose_representation,stage represents a visible component of non-algorithmic mathematical reasoning

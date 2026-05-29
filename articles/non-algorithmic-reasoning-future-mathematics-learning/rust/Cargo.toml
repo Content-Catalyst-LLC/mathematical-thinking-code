@@ -1,0 +1,7 @@
+[package]
+name = "non_algorithmic_reasoning_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line reasoning move and solution-audit scaffold."
+
+[dependencies]

@@ -1,0 +1,4 @@
+root_candidate,residual,passes_residual_check,interpretation
+2.0,0.0,True,procedure output should be verified against original equation
+3.0,0.0,True,procedure output should be verified against original equation
+4.0,2.0,False,procedure output should be verified against original equation

@@ -1,0 +1,5 @@
+ai_output_id,task_id,claim_or_answer,method_summary,known_issue,verification_needed
+ai_quad_ok,task_quadratic_roots,"roots are 2 and 3","uses quadratic formula","mostly correct but needs residual verification","substitute roots into original equation"
+ai_square_bad,task_false_generalization,"checking many square numbers proves the rule","finite examples","confuses finite evidence with proof","distinguish sample evidence from universal proof"
+ai_domain_bad,task_function_representation,"f(x)=sqrt(x) works for all real x","formula statement","ignores real-domain restriction","state domain x >= 0 for real-valued function"
+ai_proof_gap,task_proof_strategy,"therefore the theorem is true by examples","example-based explanation","examples do not prove universal theorem","provide proof or label as conjecture"

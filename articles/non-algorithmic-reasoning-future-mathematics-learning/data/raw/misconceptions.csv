@@ -1,0 +1,6 @@
+misconception_id,name,description,diagnostic_signal,intervention
+mis_examples_as_proof,Examples as proof,"treating many examples as proof of a universal claim","student says checked cases prove all cases","introduce counterexample logic and quantifier negation"
+mis_domain_omission,Domain omission,"using formulas without domain conditions","student applies method outside allowed domain","require domain and assumption check"
+mis_answer_only,Answer-only reasoning,"reporting result without interpretation or verification","student gives number but no meaning","add residual checks and explanation prompts"
+mis_symbol_manipulation,Symbol manipulation without meaning,"performing algebraic moves without equivalence awareness","extraneous solution or invalid operation appears","teach transformation validity and substitution checks"
+mis_tool_trust,Uncritical tool trust,"accepting calculator AI or CAS output without review","student cannot explain or verify output","require verification and interpretation workflow"

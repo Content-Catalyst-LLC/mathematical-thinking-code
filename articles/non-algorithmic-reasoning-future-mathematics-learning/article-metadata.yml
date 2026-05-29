@@ -1,0 +1,28 @@
+title: "Non-Algorithmic Reasoning and the Future of Mathematics Learning"
+slug: "non-algorithmic-reasoning-future-mathematics-learning"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/non-algorithmic-reasoning-future-mathematics-learning"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/non-algorithmic-reasoning-future-mathematics-learning"
+description: "Companion computational scaffold for non-algorithmic reasoning, mathematics-learning assessment, strategy selection, representation choice, proof judgment, Haskell algebraic data types, and AI-output verification."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - mathematical thinking
+  - mathematics education
+  - non-algorithmic reasoning
+  - proof literacy
+  - representation choice
+  - metacognition
+  - assessment
+  - AI-assisted learning
+created_for_article: true

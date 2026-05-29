@@ -1,0 +1,7 @@
+task_id,title,task_type,algorithmic_component,non_algorithmic_component
+task_quadratic_roots,Quadratic roots and verification,procedural_plus_verification,"apply quadratic formula","check roots by substitution and interpret discriminant"
+task_function_representation,Represent a function three ways,representation_choice,"evaluate formula values","compare table graph equation and domain meaning"
+task_false_generalization,Find a counterexample to a universal claim,counterexample,"test cases","explain why one counterexample refutes the universal statement"
+task_proof_strategy,Choose a proof strategy,proof_judgment,"apply inference rules","decide direct proof induction contradiction or construction"
+task_ai_solution_audit,Audit an AI-generated solution,ai_verification,"parse generated steps","identify assumptions errors missing justification and interpretation"
+task_model_framing,Frame an applied modeling problem,modeling,"set up equations","state assumptions units variables limitations and interpretation"

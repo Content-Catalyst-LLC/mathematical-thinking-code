@@ -1,0 +1,6 @@
+misconception_id,name,diagnostic_signal,intervention,reasoning_dimension
+mis_examples_as_proof,Examples as proof,student says checked cases prove all cases,introduce counterexample logic and quantifier negation,justification
+mis_domain_omission,Domain omission,student applies method outside allowed domain,require domain and assumption check,assumption checking
+mis_answer_only,Answer-only reasoning,student gives number but no meaning,add residual checks and explanation prompts,interpretation
+mis_symbol_manipulation,Symbol manipulation without meaning,extraneous solution or invalid operation appears,teach transformation validity and substitution checks,conceptual understanding
+mis_tool_trust,Uncritical tool trust,student cannot explain or verify output,require verification and interpretation workflow,verification
