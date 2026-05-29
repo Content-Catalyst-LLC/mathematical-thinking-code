@@ -1,0 +1,12 @@
+representation_id,object_id,representation_type,notation_or_format,preserved_structure,omitted_detail
+rep_fraction_half,obj_rational_half,fraction,"1/2","ratio of integers","decimal expansion and percentage framing"
+rep_decimal_half,obj_rational_half,decimal,"0.5","base-ten magnitude","rational numerator-denominator structure"
+rep_percent_half,obj_rational_half,percentage,"50%","proportion out of one hundred","exact fractional form"
+rep_formula_quadratic,obj_quadratic_function,formula,"f(x)=x^2","input-output symbolic rule","domain codomain and numerical implementation"
+rep_table_quadratic,obj_quadratic_function,table,"sampled x and f(x) values","finite behavior on selected inputs","full infinite-domain behavior"
+rep_graph_edges_c4,obj_cycle_graph,edge_list,"a-b b-c c-d d-a","adjacency relation","visual geometry and matrix algebra"
+rep_matrix_c4,obj_cycle_graph,adjacency_matrix,"4x4 binary matrix","adjacency relation and algebraic operations","edge labels as named pairs"
+rep_prose_theorem,obj_even_square_theorem,prose,"If n is even then n^2 is even","human-readable statement","formal proof dependencies"
+rep_formal_theorem,obj_even_square_theorem,formal_logic,"forall n even(n) -> even(n^2)","quantifier and implication structure","motivation and explanatory prose"
+rep_matrix_linear_system,obj_linear_system,matrix_equation,"Ax=b","linear operator structure","original verbal equation context"
+rep_epsilon_delta,obj_continuity_definition,formal_definition,"forall epsilon exists delta","quantifier dependency","intuitive visual continuity"

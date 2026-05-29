@@ -1,0 +1,12 @@
+graph_id,vertex_order,row_label,matrix_row,interpretation
+cycle4,a b c d,a,0 1 0 1,adjacency matrix preserves edge relation after vertex order is fixed
+cycle4,a b c d,b,1 0 1 0,adjacency matrix preserves edge relation after vertex order is fixed
+cycle4,a b c d,c,0 1 0 1,adjacency matrix preserves edge relation after vertex order is fixed
+cycle4,a b c d,d,1 0 1 0,adjacency matrix preserves edge relation after vertex order is fixed
+path4,a b c d,a,0 1 0 0,adjacency matrix preserves edge relation after vertex order is fixed
+path4,a b c d,b,1 0 1 0,adjacency matrix preserves edge relation after vertex order is fixed
+path4,a b c d,c,0 1 0 1,adjacency matrix preserves edge relation after vertex order is fixed
+path4,a b c d,d,0 0 1 0,adjacency matrix preserves edge relation after vertex order is fixed
+triangle,a b c,a,0 1 1,adjacency matrix preserves edge relation after vertex order is fixed
+triangle,a b c,b,1 0 1,adjacency matrix preserves edge relation after vertex order is fixed
+triangle,a b c,c,1 1 0,adjacency matrix preserves edge relation after vertex order is fixed

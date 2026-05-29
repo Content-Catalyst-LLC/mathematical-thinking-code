@@ -1,0 +1,11 @@
+graph_id,source,target
+cycle4,a,b
+cycle4,b,c
+cycle4,c,d
+cycle4,d,a
+path4,a,b
+path4,b,c
+path4,c,d
+triangle,a,b
+triangle,b,c
+triangle,c,a

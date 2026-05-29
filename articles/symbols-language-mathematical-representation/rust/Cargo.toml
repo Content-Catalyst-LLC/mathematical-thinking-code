@@ -1,0 +1,7 @@
+[package]
+name = "symbolic_representation_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line symbolic expression and representation-audit scaffold."
+
+[dependencies]

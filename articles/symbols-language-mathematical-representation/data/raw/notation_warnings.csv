@@ -1,0 +1,7 @@
+warning_id,representation_id,warning,mitigation
+warn_formula_domain,rep_formula_quadratic,"Formula alone may hide domain and codomain.","Record f:X->Y and define X and Y."
+warn_table_finite,rep_table_quadratic,"Finite table does not establish full functional equality.","Use proof or symbolic reasoning for universal equality."
+warn_graph_layout,rep_graph_edges_c4,"Graph representation preserves adjacency but not visual distance.","Document edge semantics and representation type."
+warn_inverse_symbol,rep_matrix_linear_system,"Inverse notation may imply invertibility that may not hold.","Check rank determinant or solvability conditions."
+warn_formal_statement,rep_formal_theorem,"Formal statement may fail to capture intended theorem.","Audit definitions and domain before formalization."
+warn_metric_reality,rep_epsilon_delta,"Formal precision can obscure intuitive interpretation for learners.","Pair formal definition with visual and verbal explanation."

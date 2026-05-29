@@ -1,0 +1,6 @@
+expression_id,expression_text,representation_type,variables,interpretation
+expr_linear,"x + 2",infix_expression,"x","simple linear expression"
+expr_product,"(x + 2) * y",expression_tree,"x y","tree with addition nested inside multiplication"
+expr_quadratic,"x^2 + 2x + 1",polynomial,"x","quadratic symbolic expression"
+expr_implication,"P -> Q",logical_formula,"P Q","propositional implication"
+expr_contrapositive,"not Q -> not P",logical_formula,"P Q","contrapositive representation"

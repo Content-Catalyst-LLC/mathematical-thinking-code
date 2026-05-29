@@ -1,0 +1,4 @@
+expression_id,rendered_expression,tree_size,evaluation_environment,evaluated_value,derivative_with_respect_to_x,derivative_value_at_environment,interpretation
+linear,(x + 2),3,{'x': 3.0},5.0,(1 + 0),1.0,"expression tree preserves symbolic structure for rendering, evaluation, and transformation"
+product,((x + 2) * y),5,"{'x': 3.0, 'y': 4.0}",20.0,(((1 + 0) * y) + ((x + 2) * 0)),4.0,"expression tree preserves symbolic structure for rendering, evaluation, and transformation"
+quadratic,((x^2) + ((2 * x) + 1)),8,{'x': 3.0},16.0,((2 * ((x^1) * 1)) + (((0 * x) + (2 * 1)) + 0)),8.0,"expression tree preserves symbolic structure for rendering, evaluation, and transformation"

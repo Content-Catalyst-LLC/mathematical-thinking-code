@@ -1,0 +1,7 @@
+translation_id,source_representation_id,target_representation_id,translation_rule,validity_condition
+tr_fraction_decimal,rep_fraction_half,rep_decimal_half,"divide numerator by denominator","denominator nonzero and decimal representation accepted"
+tr_decimal_percent,rep_decimal_half,rep_percent_half,"multiply by 100 and append percent symbol","base-ten decimal interpretation"
+tr_formula_table,rep_formula_quadratic,rep_table_quadratic,"evaluate formula on finite sample domain","sample domain explicitly recorded"
+tr_edges_matrix,rep_graph_edges_c4,rep_matrix_c4,"map vertices to indices and mark adjacency entries","vertex ordering fixed and graph treated as undirected"
+tr_prose_formal,rep_prose_theorem,rep_formal_theorem,"translate theorem into predicate logic","domain and predicate definitions specified"
+tr_system_matrix,rep_matrix_linear_system,rep_matrix_linear_system,"identity representation for matrix equation","coefficient matrix and vector dimensions compatible"

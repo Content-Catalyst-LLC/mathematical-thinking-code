@@ -1,0 +1,12 @@
+representation_id,object_name,object_type,representation_type,notation_or_format,preserved_structure,omitted_detail,translation_targets,warnings
+rep_fraction_half,Rational one half,number,fraction,1/2,ratio of integers,decimal expansion and percentage framing,rep_decimal_half,
+rep_decimal_half,Rational one half,number,decimal,0.5,base-ten magnitude,rational numerator-denominator structure,rep_percent_half,
+rep_percent_half,Rational one half,number,percentage,50%,proportion out of one hundred,exact fractional form,,
+rep_formula_quadratic,Quadratic function,function,formula,f(x)=x^2,input-output symbolic rule,domain codomain and numerical implementation,rep_table_quadratic,Formula alone may hide domain and codomain. Mitigation: Record f:X->Y and define X and Y.
+rep_table_quadratic,Quadratic function,function,table,sampled x and f(x) values,finite behavior on selected inputs,full infinite-domain behavior,,Finite table does not establish full functional equality. Mitigation: Use proof or symbolic reasoning for universal equality.
+rep_graph_edges_c4,Cycle graph C4,graph,edge_list,a-b b-c c-d d-a,adjacency relation,visual geometry and matrix algebra,rep_matrix_c4,Graph representation preserves adjacency but not visual distance. Mitigation: Document edge semantics and representation type.
+rep_matrix_c4,Cycle graph C4,graph,adjacency_matrix,4x4 binary matrix,adjacency relation and algebraic operations,edge labels as named pairs,,
+rep_prose_theorem,Even-square theorem,theorem,prose,If n is even then n^2 is even,human-readable statement,formal proof dependencies,rep_formal_theorem,
+rep_formal_theorem,Even-square theorem,theorem,formal_logic,forall n even(n) -> even(n^2),quantifier and implication structure,motivation and explanatory prose,,Formal statement may fail to capture intended theorem. Mitigation: Audit definitions and domain before formalization.
+rep_matrix_linear_system,Linear system,system,matrix_equation,Ax=b,linear operator structure,original verbal equation context,rep_matrix_linear_system,Inverse notation may imply invertibility that may not hold. Mitigation: Check rank determinant or solvability conditions.
+rep_epsilon_delta,Continuity definition,definition,formal_definition,forall epsilon exists delta,quantifier dependency,intuitive visual continuity,,Formal precision can obscure intuitive interpretation for learners. Mitigation: Pair formal definition with visual and verbal explanation.

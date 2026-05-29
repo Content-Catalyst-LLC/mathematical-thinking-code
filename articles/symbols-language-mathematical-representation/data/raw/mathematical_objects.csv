@@ -1,0 +1,7 @@
+object_id,name,object_type,description
+obj_rational_half,Rational one half,number,"A rational value represented by different fractions decimals and percentages."
+obj_quadratic_function,Quadratic function,function,"The mapping x -> x^2 over a specified numerical domain."
+obj_cycle_graph,Cycle graph C4,graph,"A four-vertex cycle represented as an edge list matrix and drawing."
+obj_even_square_theorem,Even-square theorem,theorem,"If n is even then n squared is even."
+obj_linear_system,Linear system,system,"A set of linear equations represented as Ax=b."
+obj_continuity_definition,Continuity definition,definition,"Epsilon-delta representation of continuity at a point."
