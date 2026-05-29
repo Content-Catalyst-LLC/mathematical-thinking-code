@@ -1,0 +1,5 @@
+case_id,name,method,computed_count,interpretation
+comb_choose_5_2,Choose 2 from 5,combination,10,order does not matter
+perm_arrange_5_2,Arrange 2 from 5,permutation,20,order matters
+binary_strings_8,Binary strings length 8,multiplication_principle,256,two choices at each position
+inclusion_2_or_3,Multiples of 2 or 3 through 100,inclusion_exclusion,67,subtract overlap to avoid double counting

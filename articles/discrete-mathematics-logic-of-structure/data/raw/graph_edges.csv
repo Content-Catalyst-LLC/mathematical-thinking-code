@@ -1,0 +1,9 @@
+edge_id,source,target,graph_id,directed,relation_type,interpretation
+edge_AB,A,B,graph_main,false,adjacency,"A is adjacent to B"
+edge_AC,A,C,graph_main,false,adjacency,"A is adjacent to C"
+edge_BD,B,D,graph_main,false,adjacency,"B is adjacent to D"
+edge_cycle_12,1,2,graph_cycle,true,transition,"directed cycle transition"
+edge_cycle_23,2,3,graph_cycle,true,transition,"directed cycle transition"
+edge_cycle_31,3,1,graph_cycle,true,transition,"directed cycle transition"
+edge_dep_logic,definitions,lemma,proof_dependency,true,dependency,"definitions support lemma"
+edge_dep_lemma,lemma,theorem,proof_dependency,true,dependency,"lemma supports theorem"

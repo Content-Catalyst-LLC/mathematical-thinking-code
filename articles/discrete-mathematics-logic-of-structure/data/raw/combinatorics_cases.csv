@@ -1,0 +1,5 @@
+case_id,name,n,k,method,formula,interpretation
+comb_choose_5_2,Choose 2 from 5,5,2,combination,"n!/(k!(n-k)!)","order does not matter"
+perm_arrange_5_2,Arrange 2 from 5,5,2,permutation,"n!/(n-k)!","order matters"
+binary_strings_8,Binary strings length 8,8,NA,multiplication_principle,"2^n","two choices at each position"
+inclusion_2_or_3,Multiples of 2 or 3 through 100,100,NA,inclusion_exclusion,"floor(n/2)+floor(n/3)-floor(n/6)","subtract overlap to avoid double counting"

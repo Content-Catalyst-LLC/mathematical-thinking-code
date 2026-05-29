@@ -1,0 +1,52 @@
+audit_type,index,value,rule,interpretation
+fibonacci,0,0,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,1,1,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,2,1,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,3,2,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,4,3,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,5,5,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,6,8,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,7,13,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,8,21,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,9,34,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,10,55,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,11,89,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,12,144,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,13,233,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,14,377,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,15,610,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,16,987,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,17,1597,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,18,2584,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,19,4181,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+fibonacci,20,6765,F_n=F_(n-1)+F_(n-2),recurrence defines each term from earlier terms
+residue_mod_7,0,0,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,1,1,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,2,2,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,3,3,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,4,4,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,5,5,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,6,6,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,7,0,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,8,1,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,9,2,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,10,3,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,11,4,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,12,5,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,13,6,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,14,0,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,15,1,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,16,2,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,17,3,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,18,4,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,19,5,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,20,6,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,21,0,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,22,1,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,23,2,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,24,3,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,25,4,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,26,5,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,27,6,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,28,0,n mod 7,modular arithmetic formalizes cyclic discrete structure
+residue_mod_7,29,1,n mod 7,modular arithmetic formalizes cyclic discrete structure

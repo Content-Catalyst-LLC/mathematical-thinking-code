@@ -1,0 +1,6 @@
+algorithm_id,name,input_structure,output_structure,invariant_note,complexity_note,audit_question
+alg_bfs,Breadth-first search,graph and start vertex,reachable component,visited set only grows and contains reached vertices,O(V+E),Does the procedure preserve its invariant and terminate under stated input assumptions?
+alg_inclusion_exclusion,Inclusion-exclusion,finite overlapping sets,count of union,overlap is subtracted once,constant for two sets; grows by subset count,Does the procedure preserve its invariant and terminate under stated input assumptions?
+alg_mod_residue,Residue computation,integer and modulus,remainder class,output is in range 0 to modulus-1,O(1) arithmetic model,Does the procedure preserve its invariant and terminate under stated input assumptions?
+alg_rec_fib_iter,Iterative Fibonacci,natural number,F_n,current and previous track adjacent Fibonacci terms,O(n) time O(1) memory,Does the procedure preserve its invariant and terminate under stated input assumptions?
+alg_tree_size,Tree size,rooted tree,node count,each node counted once,O(n),Does the procedure preserve its invariant and terminate under stated input assumptions?

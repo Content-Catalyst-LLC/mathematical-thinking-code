@@ -1,0 +1,5 @@
+case_id,P,Q,not_P,P_and_Q,P_or_Q,P_implies_Q,P_xor_Q
+case_00,false,false,true,false,false,true,false
+case_01,false,true,true,false,true,true,true
+case_10,true,false,false,false,true,false,true
+case_11,true,true,false,true,true,true,false

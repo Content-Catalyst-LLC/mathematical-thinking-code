@@ -1,0 +1,7 @@
+warning_id,structure_type,structure_id,warning,mitigation,responsible_interpretation_note
+warn_graph_layout,graph,graph_main,Graph drawing layout may imply distances that are not part of the graph.,State whether layout is aesthetic or metric.,discrete representations preserve selected structure while omitting other context
+warn_category_boundary,category,label_system,Discrete categories may erase boundary cases and context.,Document category rules and review edge cases.,discrete representations preserve selected structure while omitting other context
+warn_boolean_binary,boolean_rule,case_table,Boolean rules may force binary decisions on ambiguous contexts.,Add review pathways and contextual safeguards.,discrete representations preserve selected structure while omitting other context
+warn_algorithm_assumption,algorithm,alg_bfs,Correct algorithmic output may still reflect incomplete input structure.,Validate input data and relation definitions.,discrete representations preserve selected structure while omitting other context
+warn_finite_examples,proof,proof_induction,Finite examples do not prove universal discrete claims.,"Use induction, exhaustive proof, or formal verification.",discrete representations preserve selected structure while omitting other context
+warn_double_counting,counting,inclusion_2_or_3,Overlapping cases can be counted more than once.,Use inclusion-exclusion or disjoint case design.,discrete representations preserve selected structure while omitting other context

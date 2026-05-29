@@ -1,0 +1,7 @@
+[package]
+name = "discrete_structure_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line graph, recurrence, modular, and combinatorial audit scaffold."
+
+[dependencies]

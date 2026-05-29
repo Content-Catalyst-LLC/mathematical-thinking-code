@@ -1,0 +1,8 @@
+graph graph_main {
+  graph [rankdir="LR"];
+  "A" -- "B";
+  "A" -- "C";
+  "B" -- "D";
+  "E";
+  note [shape=box, label="Graph layout is visual; adjacency is the discrete structure"];
+}

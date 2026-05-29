@@ -1,0 +1,7 @@
+proof_id,name,discrete_use,required_structure,risk_note,validation_note
+proof_direct,Direct proof,unfold definitions and derive conclusion,premises and definitions,may skip hidden assumptions,proof status should be distinguished from finite evidence or visual plausibility
+proof_cases,Proof by cases,exhaust finite possibilities,complete case partition,may omit edge cases,proof status should be distinguished from finite evidence or visual plausibility
+proof_contrapositive,Contrapositive,prove implication through reversed negation,logical equivalence,requires correct negation,proof status should be distinguished from finite evidence or visual plausibility
+proof_induction,Induction,prove statement over natural numbers,base case and inductive step,weak induction step invalidates proof,proof status should be distinguished from finite evidence or visual plausibility
+proof_bijection,Bijection,show equal finite counts,one-to-one and onto pairing,must prove both directions,proof status should be distinguished from finite evidence or visual plausibility
+proof_invariant,Invariant proof,show property preserved by algorithm or transition,state transition relation,must prove initialization and preservation,proof status should be distinguished from finite evidence or visual plausibility

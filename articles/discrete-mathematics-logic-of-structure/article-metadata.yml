@@ -1,0 +1,28 @@
+title: "Discrete Mathematics and the Logic of Structure"
+slug: "discrete-mathematics-logic-of-structure"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/discrete-mathematics-logic-of-structure"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/discrete-mathematics-logic-of-structure"
+description: "Companion computational scaffold for finite sets, logic, proof patterns, combinatorics, recurrence, graphs, trees, modular arithmetic, Boolean systems, algorithmic invariants, Haskell typed modeling, SQL schemas, and responsible discrete-structure interpretation."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - discrete mathematics
+  - logic
+  - combinatorics
+  - graph theory
+  - recurrence
+  - modular arithmetic
+  - Boolean logic
+  - algorithms
+created_for_article: true

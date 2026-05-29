@@ -1,0 +1,5 @@
+P,Q,not_P,P_and_Q,P_or_Q,P_implies_Q,P_xor_Q,interpretation
+false,false,true,false,false,true,false,Boolean structure formalizes discrete truth conditions
+false,true,true,false,true,true,true,Boolean structure formalizes discrete truth conditions
+true,false,false,false,true,false,true,Boolean structure formalizes discrete truth conditions
+true,true,false,true,true,true,false,Boolean structure formalizes discrete truth conditions

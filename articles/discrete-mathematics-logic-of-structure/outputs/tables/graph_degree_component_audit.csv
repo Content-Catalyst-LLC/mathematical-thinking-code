@@ -1,0 +1,6 @@
+vertex,degree,component_from_vertex,component_size,interpretation
+A,2,A B C D,4,"graph structure is defined by vertices and edges, not by drawing layout"
+B,2,A B C D,4,"graph structure is defined by vertices and edges, not by drawing layout"
+C,1,A B C D,4,"graph structure is defined by vertices and edges, not by drawing layout"
+D,1,A B C D,4,"graph structure is defined by vertices and edges, not by drawing layout"
+E,0,E,1,"graph structure is defined by vertices and edges, not by drawing layout"

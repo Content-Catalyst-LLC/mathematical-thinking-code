@@ -1,0 +1,11 @@
+object_id,name,object_type,description
+obj_A,Vertex A,vertex,"A graph vertex in the main connected component."
+obj_B,Vertex B,vertex,"A graph vertex connected to A and D."
+obj_C,Vertex C,vertex,"A graph vertex connected to A."
+obj_D,Vertex D,vertex,"A graph vertex connected to B."
+obj_E,Vertex E,vertex,"An isolated graph vertex."
+prop_P,Proposition P,proposition,"A Boolean proposition used in truth-table examples."
+prop_Q,Proposition Q,proposition,"A Boolean proposition used in truth-table examples."
+state_0,State 0,state,"Initial finite-state example."
+state_1,State 1,state,"Intermediate finite-state example."
+state_2,State 2,state,"Terminal finite-state example."
