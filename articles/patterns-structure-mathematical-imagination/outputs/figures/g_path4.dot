@@ -1,0 +1,6 @@
+graph g_path4 {
+  graph [layout="neato"];
+  "a" -- "b";
+  "b" -- "c";
+  "c" -- "d";
+}

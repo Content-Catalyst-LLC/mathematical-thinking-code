@@ -1,0 +1,5 @@
+analogy_id,source_domain,target_domain,structural_correspondence,risk
+ana_sequence_dynamics,sequences,dynamical systems,"Iteration and state update under a recurrence rule","Discrete behavior may be overinterpreted as continuous dynamics"
+ana_proof_graph,proofs,graphs,"Proof dependencies can be represented as directed edges among claims","Edge labels may hide explanatory meaning"
+ana_symmetry_group,geometry,algebra,"Transformations preserving shape can form algebraic groups","Visual resemblance is weaker than structural equivalence"
+ana_model_world,models,empirical systems,"Selected relations in reality can be represented mathematically","The model may omit ethically or empirically important factors"

@@ -1,0 +1,7 @@
+invariant_id,name,applies_to,description
+inv_degree_sequence,Degree Sequence,graph,"Sorted multiset of vertex degrees."
+inv_edge_count,Edge Count,graph,"Number of edges in a graph."
+inv_vertex_count,Vertex Count,graph,"Number of vertices in a graph."
+inv_connected_components,Connected Components,graph,"Number of connected components."
+inv_parity_pattern,Parity Pattern,sequence,"Remainder pattern modulo 2."
+inv_periodicity,Observed Periodicity,sequence,"Repeated residue or value pattern over an index range."

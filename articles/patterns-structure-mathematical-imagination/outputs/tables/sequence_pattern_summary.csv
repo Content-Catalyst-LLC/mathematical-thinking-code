@@ -1,0 +1,6 @@
+sequence_id,name,pattern_type,structural_interpretation,length,mod2_observed_period,mod3_observed_period,first_difference_prefix
+seq_odd_sum_squares,Odd Sum Squares,figurate identity,sum of first n odd numbers equals n^2,7,2,3,3 5 7 9 11 13
+seq_triangular,Triangular Numbers,figurate number,T_n=n(n+1)/2,7,,3,2 3 4 5 6 7
+seq_fibonacci,Fibonacci,linear recurrence,F_n=F_{n-1}+F_{n-2},8,3,,1 0 1 1 2 3 5
+seq_powers_two,Powers of Two,exponential growth,a_n=2^n,7,,2,1 2 4 8 16 32
+seq_alternating,Alternating Signs,periodic sequence,a_n=(-1)^n,7,1,2,-2 2 -2 2 -2 2

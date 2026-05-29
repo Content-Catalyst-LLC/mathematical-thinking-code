@@ -1,0 +1,5 @@
+counterexample_id,claim,object,lesson
+ce_early_pattern,"A pattern observed in early cases must continue.","Finite initial segment with later failure.","Observed pattern is not proof."
+ce_diagram_proof,"A convincing diagram proves a geometric claim.","Diagram with hidden degeneracy.","Visual intuition needs formal justification."
+ce_same_degree_sequence,"Graphs with the same degree sequence are isomorphic.","Non-isomorphic graphs sharing a degree sequence.","An invariant may distinguish some objects but not fully classify them."
+ce_computation_proof,"Checking many cases proves a universal theorem.","Large finite sample without exhaustive argument.","Computation suggests conjecture but does not always establish proof."

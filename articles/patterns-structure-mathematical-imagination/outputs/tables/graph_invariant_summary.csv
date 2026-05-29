@@ -1,0 +1,6 @@
+object_id,name,vertex_count,edge_count,degree_sequence,connected_components,cycle_rank
+g_cycle4,Cycle on Four Vertices,4,4,2 2 2 2,1,1
+g_path4,Path on Four Vertices,4,3,2 2 1 1,1,0
+g_star4,Star on Four Leaves,5,4,4 1 1 1 1,1,0
+g_triangle,Triangle Graph,3,3,2 2 2,1,1
+g_square_diagonal,Square with One Diagonal,4,5,3 3 2 2,1,2

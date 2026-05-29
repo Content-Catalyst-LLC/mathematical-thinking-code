@@ -1,0 +1,7 @@
+[package]
+name = "invariant_inspector"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line scaffold for inspecting graph pattern and invariant data."
+
+[dependencies]

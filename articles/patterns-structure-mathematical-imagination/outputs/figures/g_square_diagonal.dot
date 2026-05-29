@@ -1,0 +1,8 @@
+graph g_square_diagonal {
+  graph [layout="neato"];
+  "a" -- "b";
+  "b" -- "c";
+  "c" -- "d";
+  "d" -- "a";
+  "a" -- "c";
+}

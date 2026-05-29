@@ -1,0 +1,6 @@
+graph g_triangle {
+  graph [layout="neato"];
+  "a" -- "b";
+  "b" -- "c";
+  "c" -- "a";
+}

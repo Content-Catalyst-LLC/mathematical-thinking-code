@@ -1,0 +1,7 @@
+graph g_cycle4 {
+  graph [layout="neato"];
+  "a" -- "b";
+  "b" -- "c";
+  "c" -- "d";
+  "d" -- "a";
+}

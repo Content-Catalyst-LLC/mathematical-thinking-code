@@ -1,0 +1,7 @@
+graph g_star4 {
+  graph [layout="neato"];
+  "o" -- "a";
+  "o" -- "b";
+  "o" -- "c";
+  "o" -- "d";
+}

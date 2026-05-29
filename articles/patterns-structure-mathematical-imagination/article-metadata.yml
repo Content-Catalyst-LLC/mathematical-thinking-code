@@ -1,0 +1,27 @@
+title: "Patterns, Structure, and the Mathematical Imagination"
+slug: "patterns-structure-mathematical-imagination"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/patterns-structure-mathematical-imagination"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/patterns-structure-mathematical-imagination"
+description: "Companion computational scaffold for studying mathematical pattern, structure, invariance, transformation, analogy, and counterexample search."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - mathematical reasoning
+  - graph theory
+  - invariants
+  - symmetry
+  - recurrence relations
+  - mathematical representation
+  - proof architecture
+  - counterexample analysis
+created_for_article: true

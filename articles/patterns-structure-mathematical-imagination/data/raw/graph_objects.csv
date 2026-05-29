@@ -1,0 +1,6 @@
+object_id,name,object_type,description
+g_cycle4,Cycle on Four Vertices,graph,"A four-vertex cycle graph with all vertices degree 2."
+g_path4,Path on Four Vertices,graph,"A four-vertex path graph with degree sequence 2,2,1,1."
+g_star4,Star on Four Leaves,graph,"A central vertex connected to four leaf vertices."
+g_triangle,Triangle Graph,graph,"A complete graph on three vertices."
+g_square_diagonal,Square with One Diagonal,graph,"A four-vertex cycle with one added diagonal edge."
