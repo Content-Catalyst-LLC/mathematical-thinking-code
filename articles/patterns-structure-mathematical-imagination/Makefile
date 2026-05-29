@@ -22,3 +22,7 @@ c:
 clean:
 	rm -f outputs/tables/*.csv outputs/tables/*.sqlite outputs/figures/*.dot
 	rm -f cpp/graph_invariants c/graph_sequence_features
+
+haskell:
+	$(MAKE) -C haskell run
+

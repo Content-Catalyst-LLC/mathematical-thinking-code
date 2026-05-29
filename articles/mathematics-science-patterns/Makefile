@@ -22,3 +22,7 @@ c:
 clean:
 	rm -f outputs/tables/*.csv outputs/tables/*.sqlite outputs/figures/*.dot
 	rm -f cpp/pattern_invariants c/sequence_pattern_features
+
+haskell:
+	$(MAKE) -C haskell run
+

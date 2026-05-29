@@ -22,3 +22,7 @@ c:
 clean:
 	rm -f outputs/tables/*.csv outputs/tables/*.sqlite outputs/figures/*.dot
 	rm -f cpp/formal_inference c/logic_connectives
+
+haskell:
+	$(MAKE) -C haskell run
+

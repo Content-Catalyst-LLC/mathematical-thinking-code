@@ -12,6 +12,7 @@ python/   sequence classification, graph invariants, dynamic/probabilistic patte
 r/        finite-pattern audits, sequence summaries, and probabilistic regularity workflows
 julia/    dynamic systems, recurrence exploration, and invariant checks
 sql/      pattern, structure, invariant, proof-status, and counterexample schemas
+haskell/  algebraic data types, formal inference, proof trees, recursion, type-structured examples
 rust/     command-line pattern classifier and sequence audit scaffold
 go/       graph and pattern metadata analysis scaffold
 cpp/      efficient sequence and graph-invariant examples

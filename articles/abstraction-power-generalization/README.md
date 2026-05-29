@@ -12,6 +12,7 @@ python/   equivalence classes, invariant preservation, graph isomorphism feature
 r/        generalization testing, finite-case audits, and pattern-summary workflows
 julia/    structure-preserving maps, modular arithmetic, and high-performance abstraction experiments
 sql/      abstraction, generalization, invariant, mapping, proof-status, and counterexample schemas
+haskell/  algebraic data types, formal inference, proof trees, recursion, type-structured examples
 rust/     command-line equivalence-class and invariant-inspection utility scaffold
 go/       graph and mapping analysis scaffold
 cpp/      efficient graph-invariant and equivalence examples

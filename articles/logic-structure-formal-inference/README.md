@@ -12,6 +12,7 @@ python/   truth tables, inference-rule audits, derivation graphs, and quantifier
 r/        finite-domain quantifier audits and implication/counterexample checks
 julia/    formal inference demonstrations and truth-functional equivalence checks
 sql/      proposition, inference-rule, derivation, proof-system, and counterexample schemas
+haskell/  algebraic data types, formal inference, proof trees, recursion, type-structured examples
 rust/     command-line inference-rule and truth-table utility scaffold
 go/       derivation graph and inference metadata analysis scaffold
 cpp/      efficient truth-table and derivation examples

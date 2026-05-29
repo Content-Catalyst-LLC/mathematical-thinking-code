@@ -13,6 +13,7 @@ python/   sequence, recursion, proof-graph, and graph-reasoning examples
 r/        sequence pattern analysis and generalization workflows
 julia/    recurrence and high-performance mathematical exploration
 sql/      theorem, proof-step, concept, and example metadata schemas
+haskell/  algebraic data types, formal inference, proof trees, recursion, type-structured examples
 rust/     command-line proof-pattern utility scaffold
 go/       graph and pathway analysis scaffold
 cpp/      efficient discrete-structure examples

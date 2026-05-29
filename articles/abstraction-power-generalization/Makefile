@@ -22,3 +22,7 @@ c:
 clean:
 	rm -f outputs/tables/*.csv outputs/tables/*.sqlite outputs/figures/*.dot
 	rm -f cpp/abstraction_invariants c/equivalence_invariants
+
+haskell:
+	$(MAKE) -C haskell run
+

@@ -12,6 +12,7 @@ python/   pattern, invariant, graph, and transformation analysis
 r/        sequence feature tables and pattern generalization workflows
 julia/    high-performance invariant and transformation exploration
 sql/      pattern, structure, invariant, analogy, and counterexample schemas
+haskell/  algebraic data types, formal inference, proof trees, recursion, type-structured examples
 rust/     command-line invariant inspection utility scaffold
 go/       graph, pathway, and structural-feature scaffold
 cpp/      efficient discrete-structure and graph-invariant examples

@@ -22,3 +22,7 @@ c:
 clean:
 	rm -f outputs/tables/*.csv outputs/tables/*.sqlite outputs/figures/*.dot
 	rm -f cpp/proof_graph_induction c/proof_audit
+
+haskell:
+	$(MAKE) -C haskell run
+

@@ -12,6 +12,7 @@ python/   proof dependency graphs, inference audits, induction checks, and count
 r/        finite evidence vs proof-status audits and induction-summary workflows
 julia/    induction-style property tests and inference-rule demonstrations
 sql/      claim, assumption, proof-step, dependency, theorem, and counterexample schemas
+haskell/  algebraic data types, formal inference, proof trees, recursion, type-structured examples
 rust/     command-line proof-dependency and inference-rule utility scaffold
 go/       proof graph and dependency analysis scaffold
 cpp/      efficient proof-graph and induction examples

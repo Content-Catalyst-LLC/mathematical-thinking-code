@@ -10,6 +10,7 @@ languages:
   - R
   - Julia
   - SQL
+  - Haskell
   - Rust
   - Go
   - C++
