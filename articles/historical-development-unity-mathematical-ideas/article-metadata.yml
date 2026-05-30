@@ -1,0 +1,30 @@
+title: "Historical Development and the Unity of Mathematical Ideas"
+slug: "historical-development-unity-mathematical-ideas"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/historical-development-unity-mathematical-ideas"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/historical-development-unity-mathematical-ideas"
+description: "Companion computational scaffold for historical idea networks, cross-field concept mapping, transformation and invariance catalogs, proof/algorithm/model connections, Haskell typed unity models, SQL schemas, graph-based dependency maps, and responsible mathematical generalization audits."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - history of mathematics
+  - mathematical unity
+  - mathematical structures
+  - mathematical abstraction
+  - proof
+  - algorithms
+  - models
+  - invariance
+  - computation
+  - formal verification
+created_for_article: true

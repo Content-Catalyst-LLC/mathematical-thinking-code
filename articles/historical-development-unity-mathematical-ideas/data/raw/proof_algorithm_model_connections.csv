@@ -1,0 +1,6 @@
+connection_id,mathematical_form,core_question,evidence_standard,risk_if_confused,responsible_distinction
+pam_proof,proof,What follows from assumptions?,valid inference or formal derivation,treating proof as real-world adequacy,proof establishes a claim within assumptions
+pam_algorithm,algorithm,What procedure transforms input to output?,"correctness, termination, complexity, specification satisfaction",treating working code as mathematical proof or ethical adequacy,algorithm is procedure and must be specified and validated
+pam_model,model,What formal structure represents a target system?,"fit, validation, interpretability, domain assumptions",treating formal similarity as contextual sameness,model requires interpretation and validation
+pam_simulation,simulation,What behavior appears under modeled dynamics?,"numerical stability, reproducibility, sensitivity checks",treating simulation output as proof,simulation is exploration under assumptions
+pam_formal_verification,formal verification,Does a formal derivation or system satisfy a specification?,machine-checked derivation or verified specification,treating specification correctness as real-world adequacy,verification depends on specification quality

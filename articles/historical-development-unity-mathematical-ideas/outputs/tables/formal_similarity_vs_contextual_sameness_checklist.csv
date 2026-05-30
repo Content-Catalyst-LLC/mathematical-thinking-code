@@ -1,0 +1,6 @@
+check_id,question,risk,mitigation
+check_01,What structure is actually preserved across the two contexts?,false equivalence,"state the preserved relation, operation, invariant, or evidence standard"
+check_02,What changes when the idea moves from one field to another?,context erasure,"document domain assumptions, interpretation, data, and consequences"
+check_03,"Is the transfer a proof, analogy, model, algorithm, or heuristic?",evidence confusion,separate proof standards from model validation and computational exploration
+check_04,Who or what may be affected if the generalization is applied?,optimization or model harm,include ethical and stakeholder review when mathematical ideas guide decisions
+check_05,"Does the historical framing preserve the original tradition's terms, media, and purposes?",historical flattening,distinguish modern reconstruction from historical practice

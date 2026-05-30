@@ -1,0 +1,13 @@
+digraph mathematical_idea_network {
+  graph [rankdir="LR"];
+  node [shape=box];
+  "proportion" -> "slope" [label="historical and conceptual generalization"];
+  "curve" -> "equation" [label="representation translation"];
+  "derivative" -> "optimization" [label="method migration"];
+  "group" -> "symmetry" [label="structural identification"];
+  "graph" -> "network model" [label="model interpretation"];
+  "integral" -> "expectation" [label="analytic unification"];
+  "formal logic" -> "programming language theory" [label="formal correspondence"];
+  "proof" -> "formal verification" [label="medium transformation"];
+  note [shape=note, label="Synthetic teaching graph: idea migration does not imply contextual sameness."];
+}

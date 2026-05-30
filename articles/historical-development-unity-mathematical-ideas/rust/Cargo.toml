@@ -1,0 +1,7 @@
+[package]
+name = "historical_development_unity_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line mathematical idea metadata audit scaffold."
+
+[dependencies]

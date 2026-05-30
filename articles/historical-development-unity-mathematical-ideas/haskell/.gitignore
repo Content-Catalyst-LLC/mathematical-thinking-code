@@ -1,0 +1,6 @@
+historical_development_unity_demo
+*.hi
+*.o
+.stack-work/
+dist/
+dist-newstyle/
