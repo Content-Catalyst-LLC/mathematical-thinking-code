@@ -1,0 +1,7 @@
+map_id,source_structure,target_structure,map_type,what_is_preserved,interpretation_note
+map_group_hom,Group,Group,homomorphism,group operation,structure-preserving maps let different group representations be compared
+map_linear,Vector space,Vector space,linear map,addition and scalar multiplication,linear maps preserve linear combination structure
+map_continuous,Topological space,Topological space,continuous map,topological nearness and open-set behavior,continuity preserves qualitative spatial structure
+map_graph,Graph,Graph,graph morphism,adjacency or incidence structure,graph maps preserve relation patterns depending on definition
+map_functor,Category,Category,functor,"objects, morphisms, identities, composition",functors compare whole structured mathematical worlds
+map_formal_translation,Formal system,Formal system,formal translation,derivability or interpretation conditions,formal translations reveal relationships between systems of proof

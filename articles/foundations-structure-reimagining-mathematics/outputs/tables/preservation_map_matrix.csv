@@ -1,0 +1,7 @@
+map_type,structure_pairs,interpretation
+continuous map,Topological space -> Topological space,preservation maps reveal what counts as sameness or transformation within a structural view
+formal translation,Formal system -> Formal system,preservation maps reveal what counts as sameness or transformation within a structural view
+functor,Category -> Category,preservation maps reveal what counts as sameness or transformation within a structural view
+graph morphism,Graph -> Graph,preservation maps reveal what counts as sameness or transformation within a structural view
+homomorphism,Group -> Group,preservation maps reveal what counts as sameness or transformation within a structural view
+linear map,Vector space -> Vector space,preservation maps reveal what counts as sameness or transformation within a structural view

@@ -1,0 +1,11 @@
+digraph structure_transformation_graph {
+  graph [rankdir="LR"];
+  node [shape=box];
+  "Group" -> "Group" [label="homomorphism: group operation"];
+  "Vector space" -> "Vector space" [label="linear map: addition and scalar multiplication"];
+  "Topological space" -> "Topological space" [label="continuous map: topological nearness and open-set behavior"];
+  "Graph" -> "Graph" [label="graph morphism: adjacency or incidence structure"];
+  "Category" -> "Category" [label="functor: objects, morphisms, identities, composition"];
+  "Formal system" -> "Formal system" [label="formal translation: derivability or interpretation conditions"];
+  note [shape=note, label="Synthetic teaching graph: maps indicate preservation, not total sameness."];
+}

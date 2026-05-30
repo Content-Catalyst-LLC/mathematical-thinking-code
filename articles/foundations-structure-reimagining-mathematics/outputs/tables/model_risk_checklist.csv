@@ -1,0 +1,6 @@
+model_id,formal_structure,assumption_risk,responsible_question,recommended_review
+model_graph,graph,edges may not mean the same thing across domains,"What does an edge mean, and what relation is omitted?","review interpretation, domain, data, assumptions, stakeholder consequences, and validation evidence"
+model_differential_equation,differential equation,variables and parameters may omit important causal factors,"Which dynamics are included, simplified, or excluded?","review interpretation, domain, data, assumptions, stakeholder consequences, and validation evidence"
+model_probability,probability distribution,probability interpretation may be ambiguous,What kind of uncertainty is being modeled?,"review interpretation, domain, data, assumptions, stakeholder consequences, and validation evidence"
+model_optimization,optimization problem,objective function may encode narrow or harmful priorities,Should this objective be optimized at all?,"review interpretation, domain, data, assumptions, stakeholder consequences, and validation evidence"
+model_matrix,matrix,"rows, columns, dimensions, and entries require context","What do entries represent, and what assumptions govern operations?","review interpretation, domain, data, assumptions, stakeholder consequences, and validation evidence"

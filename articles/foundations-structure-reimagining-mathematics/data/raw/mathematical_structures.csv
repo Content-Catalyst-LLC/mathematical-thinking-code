@@ -1,0 +1,7 @@
+structure_id,name,objects,relations_or_operations,laws_or_axioms,preserved_by,interpretation_note
+struct_group,Group,"elements such as symmetries, permutations, transformations, or numbers",one binary operation,"closure, associativity, identity, inverses",group homomorphism,"the structure is defined by operation laws, not by the visual appearance of elements"
+struct_vector_space,Vector space,"vectors, functions, signals, states, or data points",vector addition and scalar multiplication,linear combination laws over a field,linear map,"linear structure appears across geometry, analysis, physics, economics, and data science"
+struct_topological_space,Topological space,points and open sets,"openness, continuity, nearness, deformation",open set axioms,continuous map,topology studies qualitative structure rather than exact measurement
+struct_graph,Graph,vertices and edges,"adjacency, incidence, paths, connectivity",relation structure between nodes,graph morphism,graphs model relations but the meaning of an edge depends on context
+struct_category,Category,objects and morphisms,composition and identity morphisms,associativity of composition and identity laws,functor,category-level thinking centers transformations and their preservation
+struct_formal_system,Formal system,"symbols, formulas, axioms, proofs",inference rules and derivability,"syntax, axioms, and proof rules",formal translation or interpretation,formal systems make proof inspectable but depend on chosen language and axioms

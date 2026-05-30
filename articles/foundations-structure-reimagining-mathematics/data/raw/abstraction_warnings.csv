@@ -1,0 +1,7 @@
+warning_id,topic,warning,mitigation
+warn_hidden_assumptions,modeling,Formal clarity can conceal modeling choices and exclusions.,"State assumptions, domains, constraints, and omitted variables explicitly."
+warn_metric_reduction,measurement,Complex values can be reduced to narrow measurable proxies.,Audit what the metric omits and who is affected by the reduction.
+warn_optimization_harm,optimization,A mathematically solved system can optimize the wrong objective.,Interrogate objectives before solving and include ethical review.
+warn_formal_overconfidence,proof and verification,Proof or verification can be mistaken for full adequacy.,"Distinguish specification, proof, interpretation, and consequence."
+warn_access_barrier,education and access,Abstraction can exclude learners or marginalized communities.,"Teach examples, history, notation, meaning, and applications alongside form."
+warn_category_opacity,high abstraction,Category-level abstraction can become opaque without motivating examples.,Connect objects and morphisms to concrete cases before generalizing.

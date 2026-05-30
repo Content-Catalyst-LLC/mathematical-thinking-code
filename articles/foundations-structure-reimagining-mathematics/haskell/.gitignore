@@ -1,0 +1,6 @@
+foundations_structure_demo
+*.hi
+*.o
+.stack-work/
+dist/
+dist-newstyle/

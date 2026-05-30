@@ -1,0 +1,29 @@
+title: "Foundations, Structure, and the Reimagining of Mathematics"
+slug: "foundations-structure-reimagining-mathematics"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/foundations-structure-reimagining-mathematics"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/foundations-structure-reimagining-mathematics"
+description: "Companion computational scaffold for foundations of mathematics, structural abstraction, formal systems, category-style transformations, model interpretation, proof assistants, Haskell typed structures, SQL schemas, and responsible abstraction audits."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - foundations of mathematics
+  - philosophy of mathematics
+  - mathematical logic
+  - set theory
+  - structuralism
+  - abstract algebra
+  - category theory
+  - formal verification
+  - mathematical modeling
+created_for_article: true

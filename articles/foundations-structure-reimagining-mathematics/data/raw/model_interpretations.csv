@@ -1,0 +1,6 @@
+model_id,formal_structure,possible_interpretations,assumption_risk,responsible_question
+model_graph,graph,"social network, road network, citation network, dependency graph, neural architecture",edges may not mean the same thing across domains,"What does an edge mean, and what relation is omitted?"
+model_differential_equation,differential equation,"motion, population growth, infection spread, chemical reaction, climate process",variables and parameters may omit important causal factors,"Which dynamics are included, simplified, or excluded?"
+model_probability,probability distribution,"frequency, uncertainty, risk, belief, noise, variation",probability interpretation may be ambiguous,What kind of uncertainty is being modeled?
+model_optimization,optimization problem,"efficiency, cost, welfare, loss, performance, allocation",objective function may encode narrow or harmful priorities,Should this objective be optimized at all?
+model_matrix,matrix,"linear transformation, dataset, adjacency matrix, covariance matrix, constraint system","rows, columns, dimensions, and entries require context","What do entries represent, and what assumptions govern operations?"

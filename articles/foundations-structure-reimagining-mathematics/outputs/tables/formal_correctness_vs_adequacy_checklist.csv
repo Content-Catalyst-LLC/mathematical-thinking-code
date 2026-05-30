@@ -1,0 +1,6 @@
+check_id,question,risk,mitigation
+check_01,Is the formal statement actually the intended informal claim?,formal statement mismatch,"review definitions, theorem statement, and informal meaning together"
+check_02,Are all axioms and imported library assumptions acceptable?,hidden foundation assumptions,"document axioms, imports, and trust boundary"
+check_03,Does the proof establish only internal correctness or also model adequacy?,formal overconfidence,"distinguish proof, specification, and real-world interpretation"
+check_04,Is an optimization objective ethically and institutionally acceptable?,optimization harm,review objectives before solving
+check_05,"Who is excluded by the abstraction, notation, or model?",access barrier,"include examples, history, explanation, and affected-community review when relevant"

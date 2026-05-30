@@ -1,0 +1,6 @@
+system_id,language,axioms,inference_rules,intended_use,limitation_note
+sys_euclidean,"geometric definitions, postulates, diagrams, propositions",geometric postulates and common notions,geometric construction and deductive reasoning,organizing geometry as demonstration,diagrammatic assumptions may remain implicit
+sys_set_theory,"membership, equality, logical formulas",axioms governing sets and membership,first-order logical inference,broad foundational language for mathematics,foundation does not automatically explain mathematical practice
+sys_arithmetic,"numbers, successor, addition, multiplication, quantifiers",Peano-style axioms or related arithmetic systems,logical inference plus induction,formal study of arithmetic,sufficiently strong systems raise incompleteness issues
+sys_type_theory,"types, terms, functions, propositions-as-types","type formation, introduction, elimination, computation rules",type checking and derivation rules,constructive mathematics and proof assistants,formalization choices shape the resulting mathematics
+sys_proof_assistant,"formal statements, definitions, tactics, libraries",kernel foundations and imported library assumptions,machine-checked derivation rules,formal verification of mathematical proofs,verified derivation does not replace interpretation of why the theorem matters
