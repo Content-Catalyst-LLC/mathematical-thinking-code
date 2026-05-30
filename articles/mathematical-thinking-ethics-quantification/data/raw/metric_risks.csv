@@ -1,0 +1,9 @@
+risk_id,metric_id,risk_name,problem,mitigation
+risk_test_proxy,met_test_score,Proxy substitution,test score substitutes for learning itself,"pair test data with classroom, contextual, qualitative, and longitudinal evidence"
+risk_test_goodhart,met_test_score,Goodhart distortion,teaching narrows to tested content when the metric becomes target,use plural assessment and monitor curriculum narrowing
+risk_citation_context,met_citation_count,Context erasure,"citation norms differ by field, language, publication type, and career stage","use field-normalized, qualitative, and portfolio-based review"
+risk_ai_benchmark,met_ai_benchmark,Benchmark overfitting,systems optimize benchmark performance without real-world reliability,"use stress tests, deployment-context evaluation, red-teaming, and monitoring"
+risk_sustainability_flattening,met_sustainability_score,Value flattening,ecological and social values are collapsed into one score,"show component metrics, tradeoffs, uncertainty, and justice impacts"
+risk_credit_disadvantage,met_credit_score,Quantified disadvantage,historical exclusion may be converted into numerical risk,"audit subgroup effects, data quality, explainability, and appeal mechanisms"
+risk_rank_instability,met_institution_rank,Ranking instability,small methodological changes can alter rank order,"report rank bands, component scores, and sensitivity to weighting"
+risk_safety_underreporting,met_safety_incident_rate,Underreporting incentive,low incident count may reflect suppressed reporting rather than safety,"monitor reporting culture, near misses, audits, and worker voice"

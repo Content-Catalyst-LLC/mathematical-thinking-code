@@ -1,0 +1,7 @@
+[package]
+name = "quantification_ethics_audit_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line quantification ethics metadata audit scaffold."
+
+[dependencies]

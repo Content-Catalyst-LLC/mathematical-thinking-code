@@ -1,0 +1,7 @@
+metric_id,metric_name,metric_type,target_concept,proxy_or_method,review_question
+met_test_score,Student test score,proxy,learning,standardized assessment,How strong is the relationship between this proxy or method and the target concept?
+met_citation_count,Research citation count,indicator,research influence or scholarly attention,citation database count,How strong is the relationship between this proxy or method and the target concept?
+met_ai_benchmark,AI benchmark score,benchmark,model capability or reliability,standardized evaluation dataset,How strong is the relationship between this proxy or method and the target concept?
+met_sustainability_score,Composite sustainability score,score,sustainability performance,weighted environmental and social indicators,How strong is the relationship between this proxy or method and the target concept?
+met_credit_score,Credit risk score,risk_score,loan repayment risk,financial history and credit behavior model,How strong is the relationship between this proxy or method and the target concept?
+met_safety_incident_rate,Reported safety incident rate,indicator,workplace or institutional safety,reported incidents per exposure unit,How strong is the relationship between this proxy or method and the target concept?

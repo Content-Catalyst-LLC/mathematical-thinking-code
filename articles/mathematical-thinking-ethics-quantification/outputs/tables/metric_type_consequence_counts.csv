@@ -1,0 +1,9 @@
+summary_type,name,count,interpretation
+metric_type,benchmark,1,"metric type clarifies whether a number is a measure, proxy, score, ranking, risk score, indicator, or benchmark"
+metric_type,indicator,2,"metric type clarifies whether a number is a measure, proxy, score, ranking, risk score, indicator, or benchmark"
+metric_type,proxy,1,"metric type clarifies whether a number is a measure, proxy, score, ranking, risk score, indicator, or benchmark"
+metric_type,ranking,1,"metric type clarifies whether a number is a measure, proxy, score, ranking, risk score, indicator, or benchmark"
+metric_type,risk_score,1,"metric type clarifies whether a number is a measure, proxy, score, ranking, risk score, indicator, or benchmark"
+metric_type,score,1,"metric type clarifies whether a number is a measure, proxy, score, ranking, risk score, indicator, or benchmark"
+consequence_level,high_stakes,5,"consequence level determines the required strength of validity, governance, and contestability"
+consequence_level,moderate_stakes,2,"consequence level determines the required strength of validity, governance, and contestability"

@@ -1,0 +1,5 @@
+justice_id,metric_id,recognition_question,distribution_question,voice_question,harm_question
+justice_test,met_test_score,which forms of learning are visible or invisible?,does the metric distribute opportunity or punishment unequally?,"can students, families, and educators contest interpretation?",could the score restrict access to opportunity?
+justice_credit,met_credit_score,whose financial history is visible to the system?,does the score amplify historical exclusion?,can affected people understand and correct errors?,"could the score deny housing, credit, employment, or stability?"
+justice_ai,met_ai_benchmark,"which languages, communities, domains, and harms are included?",does performance vary for vulnerable users?,can users report failures and contest automated decisions?,could benchmark claims mask deployment harms?
+justice_sustainability,met_sustainability_score,which ecological and community harms are visible?,who bears environmental costs and who receives benefits?,can affected communities review the metric?,could the score greenwash or displace harm?

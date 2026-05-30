@@ -1,0 +1,20 @@
+digraph quantification_ethics_workflow {
+  graph [rankdir="LR"];
+  node [shape=box];
+  "Define" -> "Measure" -> "Contextualize" -> "Govern" -> "Justice";
+  "Student test score" -> "learning" [label="claims to represent"];
+  "Student test score" -> "proxy" [label="type"];
+  "Research citation count" -> "research influence or scholarly attention" [label="claims to represent"];
+  "Research citation count" -> "indicator" [label="type"];
+  "AI benchmark score" -> "model capability or reliability" [label="claims to represent"];
+  "AI benchmark score" -> "benchmark" [label="type"];
+  "Composite sustainability score" -> "sustainability performance" [label="claims to represent"];
+  "Composite sustainability score" -> "score" [label="type"];
+  "Credit risk score" -> "loan repayment risk" [label="claims to represent"];
+  "Credit risk score" -> "risk_score" [label="type"];
+  "Institution ranking" -> "comparative institutional performance" [label="claims to represent"];
+  "Institution ranking" -> "ranking" [label="type"];
+  "Reported safety incident rate" -> "workplace or institutional safety" [label="claims to represent"];
+  "Reported safety incident rate" -> "indicator" [label="type"];
+  note [shape=note, label="Synthetic teaching graph: responsible quantification defines, measures, contextualizes, governs, and reviews justice."];
+}

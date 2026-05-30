@@ -1,0 +1,30 @@
+title: "Mathematical Thinking and the Ethics of Quantification"
+slug: "mathematical-thinking-ethics-quantification"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/mathematical-thinking-ethics-quantification"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/mathematical-thinking-ethics-quantification"
+description: "Companion computational scaffold for quantification ethics audit workflows, metric metadata records, proxy-target validity tables, Goodhart risk checks, ranking and aggregation review tools, uncertainty and false-precision summaries, Haskell typed metric records, SQL metric-governance schemas, and responsible quantification checklists."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - quantification ethics
+  - measurement
+  - indicators
+  - metrics
+  - rankings
+  - risk scores
+  - uncertainty
+  - Goodhart effects
+  - responsible data governance
+  - justice and accountability
+created_for_article: true

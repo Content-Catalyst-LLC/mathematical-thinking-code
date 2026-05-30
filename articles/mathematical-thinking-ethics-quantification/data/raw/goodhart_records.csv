@@ -1,0 +1,5 @@
+goodhart_id,metric_id,target_goal,optimization_pressure,distortion_mechanism,countermeasure
+gh_test,met_test_score,learning,high,teaching to the test and narrowing curriculum,plural assessment and curriculum-quality review
+gh_citation,met_citation_count,research contribution,moderate,publication strategy and citation chasing,portfolio assessment and responsible research evaluation principles
+gh_ai,met_ai_benchmark,real system capability and safety,high,benchmark-specific optimization and contamination,"held-out tests, adversarial evaluation, and deployment monitoring"
+gh_safety,met_safety_incident_rate,actual safety,high,suppressed reporting or incident reclassification,"near-miss monitoring, anonymous reporting, and independent audits"
