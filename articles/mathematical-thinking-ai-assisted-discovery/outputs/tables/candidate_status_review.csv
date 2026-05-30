@@ -1,0 +1,4 @@
+current_status,candidate_count,recommended_review
+machine_check_required,1,run proof assistant and audit formal statement
+tested_on_examples,3,search counterexamples and attempt proof
+untested,2,"begin definition checks, example tests, and proof review"

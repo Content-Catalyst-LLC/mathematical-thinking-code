@@ -1,0 +1,28 @@
+title: "Mathematical Thinking and AI-Assisted Discovery"
+slug: "mathematical-thinking-ai-assisted-discovery"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/mathematical-thinking-ai-assisted-discovery"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/mathematical-thinking-ai-assisted-discovery"
+description: "Companion computational scaffold for AI-assisted discovery audits, conjecture-generation records, evaluator design notes, candidate-program testing workflows, formalization review tables, proof-status classification, Haskell typed discovery models, SQL discovery schemas, and responsible AI-mathematics checklists."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - AI-assisted mathematical discovery
+  - conjecture generation
+  - program search
+  - evaluator design
+  - proof verification
+  - formalization
+  - counterexample search
+  - mathematical ethics
+created_for_article: true

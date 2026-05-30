@@ -1,0 +1,7 @@
+status_id,status_name,meaning,promotion_requirement
+status_untested,untested,generated candidate has not been checked,"definition check, examples, tests, or proof attempt"
+status_tested,tested_on_examples,candidate survived finite or computational tests,"counterexample search, proof, or formal verification"
+status_counterexample,counterexample_found,candidate fails under at least one valid case,reject or refine hypotheses
+status_informal_proof,proved_informally,human-readable proof has been produced,expert review or formalization where appropriate
+status_machine_checked,machine_checked,formal derivation accepted by proof assistant,formal statement review and interpretation
+status_rejected,rejected,"candidate is false, irrelevant, or unsupported",document reason for rejection

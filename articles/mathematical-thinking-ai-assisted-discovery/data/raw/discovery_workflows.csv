@@ -1,0 +1,5 @@
+workflow_id,stage,ai_role,evaluator_role,human_role,risk,mitigation
+wf_generate,Generate,"generate candidate examples, conjectures, code, proof sketches, or formal statements",none or preliminary filter,frame search space and define what counts as relevant,irrelevant or fluent but false output,classify output type and do not treat it as proof
+wf_test,Test,suggest tests or write test code,"run finite checks, objective scoring, symbolic checks, or counterexample search",design meaningful edge cases and interpret results,overfitting to narrow evaluator,use multiple evaluators and held-out cases
+wf_prove,Prove,"suggest lemmas, proof strategies, or formal proof scripts","proof assistant, theorem prover, or expert proof review",verify each inference and review formal statement,proof gap or formal mismatch,formalize or independently prove each step
+wf_interpret,Interpret,"summarize, compare, or explain candidate results","literature review, expert review, and reproducibility review","judge significance, novelty, credit, and scope",generated novelty without mathematical significance,document workflow and place result within existing mathematics

@@ -1,0 +1,7 @@
+interpretation_id,candidate_id,novelty_review,significance_review,proof_status,credit_and_workflow_note
+interp_graph,cand_graph_invariant,requires literature review in graph theory and invariant bounds,possibly useful if it generalizes and connects to known invariants,not proved,"record prompts, search space, evaluator, and human refinement"
+interp_program,cand_combinatorial_program,requires comparison against known constructions,significant only if construction is explainable and general,tested but not proved,"record generated code, evaluator, tests, and human analysis"
+interp_outline,cand_proof_outline,not a discovery unless proof strategy is genuinely useful,useful as heuristic only,unverified,identify AI role as proposal generation
+interp_formal_statement,cand_formal_statement,requires theorem database and literature review,depends on theorem scope and relation to existing formal library,statement only,record formal environment and human statement review
+interp_geometry,cand_geometry_auxiliary,compare with known olympiad geometry solution methods,valuable if it reveals a transferable construction pattern,symbolically checked candidate,"record diagram encoding, generated construction, and checked derivation"
+interp_script,cand_formal_script,requires checking whether theorem already exists in library,depends on theorem importance and proof maintainability,machine check required,"record model, prompt, proof assistant version, imports, and human review"

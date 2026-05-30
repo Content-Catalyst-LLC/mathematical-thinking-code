@@ -1,0 +1,8 @@
+risk_name,mitigation
+Fluent falsehood,"check every inference against definitions, examples, and proof obligations"
+False conjecture,"search for counterexamples, refine hypotheses, and prove or disprove"
+Evaluator overfitting,"use multiple evaluators, held-out cases, human interpretation, and theoretical analysis"
+Formal mismatch,translate formal statement back into prose and review hypotheses
+False novelty,"perform literature search, terminology review, and expert consultation"
+Credit distortion,"document tools, prompts, datasets, evaluators, formal libraries, proof labor, and human roles"
+Uninterpretable candidate,"require explanation, proof attempt, ablation, simplification, or structural analysis"

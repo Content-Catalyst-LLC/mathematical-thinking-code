@@ -1,0 +1,7 @@
+verification_id,candidate_id,verification_method,evidence_standard,result_summary,remaining_question
+ver_graph,cand_graph_invariant,counterexample search plus proof attempt,finite evidence until theorem is proved,no counterexample in tested range,what theorem and hypotheses would make the pattern true?
+ver_program,cand_combinatorial_program,"code review, tests, and mathematical explanation",program correctness plus mathematical proof of construction,candidate improves objective in synthetic tests,can the program behavior be converted into a theorem?
+ver_outline,cand_proof_outline,line-by-line proof check,valid inference under definitions and lemmas,requires independent verification,which steps are gaps?
+ver_formal_statement,cand_formal_statement,formal statement review and proof assistant workflow,formal proof required for theorem status,statement candidate requires proof,does the statement match the intended theorem?
+ver_geometry,cand_geometry_auxiliary,symbolic derivation plus human geometric explanation,derivable relation and readable proof,auxiliary construction candidate passes symbolic checks,can the construction be explained elegantly?
+ver_formal_script,cand_formal_script,proof assistant acceptance plus theorem statement audit,machine-checked derivation and intended-meaning review,requires local proof assistant check,"what axioms, imports, and formal statement were used?"

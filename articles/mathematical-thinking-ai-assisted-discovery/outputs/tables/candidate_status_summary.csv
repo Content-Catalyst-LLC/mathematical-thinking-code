@@ -1,0 +1,10 @@
+summary_type,name,count,interpretation
+current_status,machine_check_required,1,"status counts support workflow review, not mathematical authority"
+current_status,tested_on_examples,3,"status counts support workflow review, not mathematical authority"
+current_status,untested,2,"status counts support workflow review, not mathematical authority"
+output_type,conjecture,1,output types require different evidence standards
+output_type,example,1,output types require different evidence standards
+output_type,formal_proof_script,1,output types require different evidence standards
+output_type,formal_statement,1,output types require different evidence standards
+output_type,program,1,output types require different evidence standards
+output_type,proof_sketch,1,output types require different evidence standards

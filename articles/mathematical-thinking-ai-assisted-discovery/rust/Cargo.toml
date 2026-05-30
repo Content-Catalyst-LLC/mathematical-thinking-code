@@ -1,0 +1,7 @@
+[package]
+name = "ai_discovery_audit_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line AI-assisted discovery candidate metadata audit scaffold."
+
+[dependencies]

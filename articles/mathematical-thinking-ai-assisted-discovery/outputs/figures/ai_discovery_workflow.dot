@@ -1,0 +1,18 @@
+digraph ai_discovery_workflow {
+  graph [rankdir="LR"];
+  node [shape=box];
+  "Generate" -> "Test" -> "Prove" -> "Interpret";
+  "Possible graph invariant bound" -> "conjecture" [label="output type"];
+  "conjecture" -> "tested_on_examples" [label="current status"];
+  "Candidate combinatorial construction" -> "program" [label="output type"];
+  "program" -> "tested_on_examples" [label="current status"];
+  "AI-generated proof outline" -> "proof_sketch" [label="output type"];
+  "proof_sketch" -> "untested" [label="current status"];
+  "Formalized lemma candidate" -> "formal_statement" [label="output type"];
+  "formal_statement" -> "untested" [label="current status"];
+  "Auxiliary construction for geometry problem" -> "example" [label="output type"];
+  "example" -> "tested_on_examples" [label="current status"];
+  "Generated formal proof script" -> "formal_proof_script" [label="output type"];
+  "formal_proof_script" -> "machine_check_required" [label="current status"];
+  note [shape=note, label="Synthetic teaching graph: AI output is candidate material until tested, proved, and interpreted."];
+}
