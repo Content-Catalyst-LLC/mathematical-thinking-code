@@ -1,0 +1,6 @@
+visual_proof_demo
+*.hi
+*.o
+.stack-work/
+dist/
+dist-newstyle/

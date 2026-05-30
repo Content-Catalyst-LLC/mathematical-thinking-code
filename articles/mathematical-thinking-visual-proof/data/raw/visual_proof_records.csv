@@ -1,0 +1,7 @@
+record_id,title,domain,visual_role,visible_structure,proof_status,generalization_question
+vis_odd_square_layers,Sum of odd numbers as square layers,combinatorics,diagrammatic_argument,successive odd layers build a square,informally_justified,Does the layer pattern hold for arbitrary n?
+vis_binomial_square,Area model for binomial square,algebra,diagrammatic_argument,large square decomposes into two squares and two rectangles,informally_justified,Are side lengths arbitrary quantities under the model?
+vis_dynamic_invariant,Dynamic geometry invariant,geometry,heuristic,angle appears constant under dragging,needs_generalization,What construction forces the angle relation?
+vis_graph_connectivity,Graph drawing of connected network,graph_theory,evidence,vertices appear clustered and connected,needs_generalization,Is the property about the abstract graph or this drawing?
+vis_calculus_secants,Derivative as limiting secant slope,calculus,heuristic,secant lines approach tangent line,needs_formal_limit,Can the visual motion be expressed as a limit?
+vis_category_square,Commutative square diagram,category_diagram,formal_diagrammatic_proof,two paths of arrows have equal composition,formally_expressible,Which compositions are equal by diagram commutativity?

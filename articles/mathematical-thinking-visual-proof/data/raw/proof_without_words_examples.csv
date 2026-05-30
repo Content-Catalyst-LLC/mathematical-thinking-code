@@ -1,0 +1,5 @@
+example_id,title,visual_device,mathematical_idea,missing_words_prompt
+pww_odd_sums,Odd sums form squares,successive square layers,sum of first n odd numbers equals n squared,Explain why each added layer has odd size and why the total shape is a square.
+pww_binomial_square,Square of a sum,area decomposition,binomial square identity,Explain why the two cross rectangles both have area ab.
+pww_binomial_symmetry,Choosing k or leaving n-k,complementary selection,binomial coefficient symmetry,Explain why choosing included objects determines excluded objects.
+pww_pythagorean_dissection,Pythagorean dissection,area-preserving rearrangement,square on hypotenuse equals sum of squares on legs,Explain why the rearrangement preserves area and covers without overlap.

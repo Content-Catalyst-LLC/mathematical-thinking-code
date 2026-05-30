@@ -1,0 +1,8 @@
+risk_id,risk_name,problem,mitigation,responsible_note
+risk_special_case,Special case,diagram represents only one configuration,vary the case and identify invariant relations,"visual proof requires generality review, proof discipline, and accessible explanation"
+risk_scale_illusion,Scale illusion,graph or figure distorts relation through scale,"check axes, units, and numerical values","visual proof requires generality review, proof discipline, and accessible explanation"
+risk_hidden_assumption,Hidden assumption,argument depends on unstated condition,list hypotheses and exceptional cases,"visual proof requires generality review, proof discipline, and accessible explanation"
+risk_accidental_alignment,Accidental alignment,points or lines appear related because of drawing choices,derive relation from construction,"visual proof requires generality review, proof discipline, and accessible explanation"
+risk_finite_pattern,Finite pattern overreach,early examples suggest false generalization,search counterexamples and prove general structure,"visual proof requires generality review, proof discipline, and accessible explanation"
+risk_accessibility_gap,Accessibility gap,visual argument is not available in nonvisual form,"provide verbal, symbolic, and structural description","visual proof requires generality review, proof discipline, and accessible explanation"
+risk_decorative_diagram,Decorative diagram,image appears mathematical but carries no argument,explain what relation the diagram establishes,"visual proof requires generality review, proof discipline, and accessible explanation"

@@ -1,0 +1,5 @@
+workflow_id,stage,question,failure_mode,mitigation,review_note
+wf_see,See,"What pattern, relation, or structure is visible?",noticing only a special case,identify what appears invariant under variation,"visual proof becomes rigorous when seeing moves through abstraction, proof, and interpretation"
+wf_abstract,Abstract,What is essential and what is accidental?,confusing drawing features with theorem conditions,separate representation from mathematical structure,"visual proof becomes rigorous when seeing moves through abstraction, proof, and interpretation"
+wf_prove,Prove,Why does the relation hold generally?,visual plausibility without justification,"translate visual relation into verbal, symbolic, or formal proof","visual proof becomes rigorous when seeing moves through abstraction, proof, and interpretation"
+wf_interpret,Interpret,What does the proof reveal and how should it be communicated?,diagram treated as decoration rather than reasoning,"explain meaning, scope, limits, and accessibility requirements","visual proof becomes rigorous when seeing moves through abstraction, proof, and interpretation"

@@ -1,0 +1,18 @@
+digraph visual_proof_workflow {
+  graph [rankdir="LR"];
+  node [shape=box];
+  "See" -> "Abstract" -> "Prove" -> "Interpret";
+  "Sum of odd numbers as square layers" -> "diagrammatic_argument" [label="role"];
+  "diagrammatic_argument" -> "informally_justified" [label="status"];
+  "Area model for binomial square" -> "diagrammatic_argument" [label="role"];
+  "diagrammatic_argument" -> "informally_justified" [label="status"];
+  "Dynamic geometry invariant" -> "heuristic" [label="role"];
+  "heuristic" -> "needs_generalization" [label="status"];
+  "Graph drawing of connected network" -> "evidence" [label="role"];
+  "evidence" -> "needs_generalization" [label="status"];
+  "Derivative as limiting secant slope" -> "heuristic" [label="role"];
+  "heuristic" -> "needs_formal_limit" [label="status"];
+  "Commutative square diagram" -> "formal_diagrammatic_proof" [label="role"];
+  "formal_diagrammatic_proof" -> "formally_expressible" [label="status"];
+  note [shape=note, label="Synthetic teaching graph: visual insight becomes proof through abstraction and justification."];
+}

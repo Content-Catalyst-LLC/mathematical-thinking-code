@@ -1,0 +1,15 @@
+summary_type,name,count,interpretation
+visual_role,diagrammatic_argument,2,"visual role distinguishes illustration, evidence, heuristic, argument, and formal diagrammatic proof"
+visual_role,evidence,1,"visual role distinguishes illustration, evidence, heuristic, argument, and formal diagrammatic proof"
+visual_role,formal_diagrammatic_proof,1,"visual role distinguishes illustration, evidence, heuristic, argument, and formal diagrammatic proof"
+visual_role,heuristic,2,"visual role distinguishes illustration, evidence, heuristic, argument, and formal diagrammatic proof"
+proof_status,formally_expressible,1,proof status clarifies what remains to be justified
+proof_status,informally_justified,2,proof status clarifies what remains to be justified
+proof_status,needs_formal_limit,1,proof status clarifies what remains to be justified
+proof_status,needs_generalization,2,proof status clarifies what remains to be justified
+domain,algebra,1,"domain counts support coverage review, not ranking"
+domain,calculus,1,"domain counts support coverage review, not ranking"
+domain,category_diagram,1,"domain counts support coverage review, not ranking"
+domain,combinatorics,1,"domain counts support coverage review, not ranking"
+domain,geometry,1,"domain counts support coverage review, not ranking"
+domain,graph_theory,1,"domain counts support coverage review, not ranking"
