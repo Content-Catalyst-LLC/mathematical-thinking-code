@@ -1,0 +1,2 @@
+input,output,is_sorted,same_multiset,postcondition_holds
+5 2 8 1 3 2,1 2 2 3 5 8,True,True,True

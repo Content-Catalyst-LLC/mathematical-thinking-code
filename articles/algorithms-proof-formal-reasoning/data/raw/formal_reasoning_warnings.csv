@@ -1,0 +1,7 @@
+warning_id,algorithm_id,warning,mitigation
+warn_wrong_spec,alg_insertion_sort,An algorithm can be correct relative to a harmful or incomplete specification.,"Audit objective, postcondition, and downstream use."
+warn_hidden_precondition,alg_binary_search,A hidden precondition can invalidate the proof in production.,Document and check preconditions explicitly.
+warn_edge_weight,alg_dijkstra,Shortest path depends entirely on edge-weight meaning.,"Document whether weight means distance, time, cost, risk, or priority."
+warn_testing_only,alg_merge_sort,Passing tests may be mistaken for proof.,Distinguish test evidence from correctness argument.
+warn_formal_model,alg_bfs,A formally correct graph algorithm may be applied to a poorly modeled network.,"Audit graph construction, edge semantics, and missing data."
+warn_priority_value,alg_heap_insert,Priority ordering can encode questionable values while preserving heap correctness.,Review priority criteria and affected stakeholders.

@@ -1,0 +1,6 @@
+start,node,distance,algorithm_assumption,proof_obligation,interpretive_warning
+A,A,0,unweighted graph,BFS discovers vertices by nondecreasing distance layers,"edge count is not automatically time, cost, risk, or social distance"
+A,B,1,unweighted graph,BFS discovers vertices by nondecreasing distance layers,"edge count is not automatically time, cost, risk, or social distance"
+A,C,1,unweighted graph,BFS discovers vertices by nondecreasing distance layers,"edge count is not automatically time, cost, risk, or social distance"
+A,D,2,unweighted graph,BFS discovers vertices by nondecreasing distance layers,"edge count is not automatically time, cost, risk, or social distance"
+A,E,3,unweighted graph,BFS discovers vertices by nondecreasing distance layers,"edge count is not automatically time, cost, risk, or social distance"

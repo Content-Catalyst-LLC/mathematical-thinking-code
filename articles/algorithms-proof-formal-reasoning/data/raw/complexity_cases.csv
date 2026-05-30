@@ -1,0 +1,7 @@
+case_id,algorithm_id,growth_class,dominant_source,interpretation
+cx_insert,alg_insertion_sort,O(n^2),nested shifting/comparison in worst case,quadratic growth can be acceptable for small data but costly at scale
+cx_binary,alg_binary_search,O(log n),repeated halving,logarithmic search depends on sorted input
+cx_merge,alg_merge_sort,O(n log n),divide-and-conquer levels with linear merge work,efficient comparison sorting at scale
+cx_bfs,alg_bfs,O(V+E),visit each vertex and edge once,linear in graph representation size
+cx_dijkstra,alg_dijkstra,O((V+E) log V),priority queue updates,implementation and graph density matter
+cx_heap,alg_heap_insert,O(log n),height of heap,tree height controls insertion cost

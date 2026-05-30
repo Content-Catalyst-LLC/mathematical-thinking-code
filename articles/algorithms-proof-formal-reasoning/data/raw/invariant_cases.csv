@@ -1,0 +1,6 @@
+invariant_id,algorithm_id,location,invariant,initialization_note,preservation_note,termination_use
+inv_insert_prefix,alg_insertion_sort,outer loop,prefix before index i is sorted and contains original prefix elements,single-element prefix is sorted,inner loop inserts key into sorted prefix,"when i reaches length, full list is sorted"
+inv_binary_interval,alg_binary_search,while loop,target if present is within low/high search interval,full sequence is active interval,comparison discards impossible half,empty interval implies target absent
+inv_bfs_queue,alg_bfs,queue processing,discovered vertices have assigned shortest known unweighted distance,start vertex has distance zero,neighbors are discovered one layer beyond current vertex,all reachable vertices have distances
+inv_dijkstra_settled,alg_dijkstra,settling step,settled vertices have final shortest distances,source distance is zero,nonnegative weights prevent later shorter route to settled vertex,all settled vertices have final distances
+inv_heap_property,alg_heap_insert,bubble-up loop,"all heap violations, if any, are along inserted node path",new item appended at leaf,swapping with parent moves violation upward,root reached or parent order satisfied

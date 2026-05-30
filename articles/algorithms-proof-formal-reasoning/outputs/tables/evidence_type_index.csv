@@ -1,0 +1,6 @@
+evidence_id,name,strength,limitation,best_use,audit_note
+ev_unit_test,Unit test,checks selected examples,does not prove all cases,catch local defects and regressions,strong systems use multiple forms of evidence rather than treating one method as complete
+ev_property_test,Property-based test,generates many cases from stated properties,depends on quality of property and generator,explore broader input space,strong systems use multiple forms of evidence rather than treating one method as complete
+ev_proof,Proof,establishes general claim under assumptions,may prove wrong or incomplete specification,correctness and safety-critical reasoning,strong systems use multiple forms of evidence rather than treating one method as complete
+ev_static_analysis,Static analysis,finds classes of defects before runtime,may be conservative or incomplete,bug detection and compliance checks,strong systems use multiple forms of evidence rather than treating one method as complete
+ev_monitoring,Runtime monitoring,observes deployed behavior,detects after deployment,operational feedback and drift detection,strong systems use multiple forms of evidence rather than treating one method as complete

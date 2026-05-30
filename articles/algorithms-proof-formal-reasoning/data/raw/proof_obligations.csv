@@ -1,0 +1,7 @@
+proof_id,algorithm_id,proof_type,claim,invariant_or_measure,proof_status,risk_note
+proof_insert_sorted,alg_insertion_sort,loop invariant,processed prefix is sorted and contains exactly the processed input elements,sorted prefix grows by one element per outer loop,demonstration scaffold,tests can miss multiset preservation bugs
+proof_binary_interval,alg_binary_search,loop invariant,if target exists then it remains inside the active interval,active interval length decreases,demonstration scaffold,unsorted input invalidates proof
+proof_merge_induction,alg_merge_sort,structural induction,merge sort returns sorted permutation of input,subproblem size decreases recursively,demonstration scaffold,comparison relation must be consistent
+proof_bfs_layers,alg_bfs,induction on distance,BFS discovers vertices in nondecreasing graph distance,queue stores frontier by distance layer,demonstration scaffold,weighted edges require a different shortest-path algorithm
+proof_dijkstra_greedy,alg_dijkstra,greedy invariant,settled vertices have final shortest-path distances,minimum unsettled tentative distance is final under nonnegative weights,demonstration scaffold,negative weights break guarantee
+proof_heap_bubble,alg_heap_insert,data-structure invariant,bubble-up restores heap property,violation can move only toward root,demonstration scaffold,array bounds and comparator semantics must also be valid

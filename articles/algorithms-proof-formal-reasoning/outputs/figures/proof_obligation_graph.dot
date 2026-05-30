@@ -1,0 +1,22 @@
+digraph proof_obligations {
+  graph [rankdir="LR"];
+  "alg_insertion_sort" [shape=box];
+  "proof_insert_sorted" [label="proof_insert_sorted\nloop invariant"];
+  "alg_insertion_sort" -> "proof_insert_sorted";
+  "alg_binary_search" [shape=box];
+  "proof_binary_interval" [label="proof_binary_interval\nloop invariant"];
+  "alg_binary_search" -> "proof_binary_interval";
+  "alg_merge_sort" [shape=box];
+  "proof_merge_induction" [label="proof_merge_induction\nstructural induction"];
+  "alg_merge_sort" -> "proof_merge_induction";
+  "alg_bfs" [shape=box];
+  "proof_bfs_layers" [label="proof_bfs_layers\ninduction on distance"];
+  "alg_bfs" -> "proof_bfs_layers";
+  "alg_dijkstra" [shape=box];
+  "proof_dijkstra_greedy" [label="proof_dijkstra_greedy\ngreedy invariant"];
+  "alg_dijkstra" -> "proof_dijkstra_greedy";
+  "alg_heap_insert" [shape=box];
+  "proof_heap_bubble" [label="proof_heap_bubble\ndata-structure invariant"];
+  "alg_heap_insert" -> "proof_heap_bubble";
+  note [shape=note, label="Proof graph links algorithms to proof obligations; formal proof still requires full argument."];
+}

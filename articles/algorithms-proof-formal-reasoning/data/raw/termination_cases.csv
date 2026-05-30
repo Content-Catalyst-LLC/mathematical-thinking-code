@@ -1,0 +1,6 @@
+termination_id,algorithm_id,decreasing_measure,lower_bound,termination_claim,failure_mode
+term_insert,alg_insertion_sort,unprocessed suffix length,0,outer loop eventually processes all indices,index update bug can prevent progress
+term_binary,alg_binary_search,active interval length,0,each iteration removes at least one candidate,midpoint or bound update bug can keep interval unchanged
+term_merge,alg_merge_sort,subproblem list length,1,recursive calls eventually reach singleton or empty lists,bad split can repeat same-size subproblem
+term_bfs,alg_bfs,undiscovered reachable vertices,0,visited set prevents repeated infinite traversal,missing visited set can loop in cyclic graphs
+term_heap,alg_heap_insert,node depth from root,0,bubble-up eventually reaches root or valid parent,invalid parent indexing can break progress

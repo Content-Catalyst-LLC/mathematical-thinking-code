@@ -1,0 +1,4 @@
+graph_case_id,algorithm_id,algorithm_name,graph_type,required_assumption,output_guarantee,interpretive_warning,audit_note
+graph_bfs,alg_bfs,Breadth-first search,unweighted graph,edges have uniform traversal cost,shortest paths by edge count,"edge count may not represent distance, time, risk, or harm","graph algorithm proof depends on graph type, edge semantics, and traversal invariant"
+graph_dijkstra,alg_dijkstra,Dijkstra shortest path,weighted graph,all weights are nonnegative,minimum total weight path,weight meaning must be documented,"graph algorithm proof depends on graph type, edge semantics, and traversal invariant"
+graph_dependency,alg_bfs,Breadth-first search,dependency graph,edge direction and meaning are explicit,reachable dependencies or dependents,reachability does not automatically imply causality or responsibility,"graph algorithm proof depends on graph type, edge semantics, and traversal invariant"

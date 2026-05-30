@@ -1,0 +1,7 @@
+case_id,algorithm_id,algorithm_name,growth_class,dominant_source,interpretation,audit_note
+cx_insert,alg_insertion_sort,Insertion sort,O(n^2),nested shifting/comparison in worst case,quadratic growth can be acceptable for small data but costly at scale,complexity claim should be tied to input model and dominant operation count
+cx_binary,alg_binary_search,Binary search,O(log n),repeated halving,logarithmic search depends on sorted input,complexity claim should be tied to input model and dominant operation count
+cx_merge,alg_merge_sort,Merge sort,O(n log n),divide-and-conquer levels with linear merge work,efficient comparison sorting at scale,complexity claim should be tied to input model and dominant operation count
+cx_bfs,alg_bfs,Breadth-first search,O(V+E),visit each vertex and edge once,linear in graph representation size,complexity claim should be tied to input model and dominant operation count
+cx_dijkstra,alg_dijkstra,Dijkstra shortest path,O((V+E) log V),priority queue updates,implementation and graph density matter,complexity claim should be tied to input model and dominant operation count
+cx_heap,alg_heap_insert,Heap insert,O(log n),height of heap,tree height controls insertion cost,complexity claim should be tied to input model and dominant operation count

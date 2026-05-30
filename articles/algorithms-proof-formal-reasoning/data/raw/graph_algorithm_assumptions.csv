@@ -1,0 +1,4 @@
+graph_case_id,algorithm_id,graph_type,required_assumption,output_guarantee,interpretive_warning
+graph_bfs,alg_bfs,unweighted graph,edges have uniform traversal cost,shortest paths by edge count,"edge count may not represent distance, time, risk, or harm"
+graph_dijkstra,alg_dijkstra,weighted graph,all weights are nonnegative,minimum total weight path,weight meaning must be documented
+graph_dependency,alg_bfs,dependency graph,edge direction and meaning are explicit,reachable dependencies or dependents,reachability does not automatically imply causality or responsibility

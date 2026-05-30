@@ -1,0 +1,29 @@
+title: "Algorithms, Proof, and Formal Reasoning"
+slug: "algorithms-proof-formal-reasoning"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/algorithms-proof-formal-reasoning"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/algorithms-proof-formal-reasoning"
+description: "Companion computational scaffold for algorithm specifications, proof obligations, invariants, termination arguments, complexity analysis, graph-algorithm assumptions, data-structure invariants, Haskell typed modeling, SQL proof schemas, and responsible formal-reasoning audits."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - algorithms
+  - proof
+  - formal reasoning
+  - program correctness
+  - loop invariants
+  - induction
+  - termination
+  - complexity analysis
+  - formal methods
+created_for_article: true

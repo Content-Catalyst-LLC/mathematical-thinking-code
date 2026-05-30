@@ -1,0 +1,6 @@
+algorithms_proof_formal_reasoning_demo
+*.hi
+*.o
+.stack-work/
+dist/
+dist-newstyle/
