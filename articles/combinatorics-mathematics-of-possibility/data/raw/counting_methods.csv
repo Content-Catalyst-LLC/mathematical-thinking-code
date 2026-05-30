@@ -1,0 +1,11 @@
+method_id,problem_id,method_name,formula,double_counting_risk,validation_note
+method_committee,prob_committee,combination,"C(n,k)","low if order ignored correctly","validate that membership is all that matters"
+method_ranked,prob_ranked_finalists,permutation,"P(n,k)=n!/(n-k)!","low if ranks are distinct","validate that order/position matters"
+method_binary,prob_binary_string_8,multiplication_principle,"2^n","low if choices independent by position","validate alphabet and length"
+method_password,prob_password_6,multiplication_principle,"36^6","low if repetition allowed","validate symbol set and repetition rule"
+method_no_repeat,prob_no_repeat_code,permutation,"P(10,4)","low if symbols cannot repeat","validate no repeated symbols"
+method_graph,prob_graph_simple_6,edge_subset_count,"2^C(n,2)","low for labeled simple graphs only","validate labeled vertices no loops no multiedges"
+method_inclusion,prob_multiples_2_or_3,inclusion_exclusion,"floor(n/2)+floor(n/3)-floor(n/6)","high if overlap not subtracted","validate overlap multiples of lcm"
+method_recurrence,prob_fibonacci_tilings,recurrence,"a_n=a_(n-1)+a_(n-2)","low if cases are disjoint","validate base cases and exhaustive first-tile casework"
+method_partition,prob_integer_partitions,dynamic_programming,"partition recurrence","medium if order counted accidentally","validate unordered positive sums"
+method_feature,prob_feature_selection,power_set,"2^n","medium if constraints or dependencies omitted","validate feature eligibility and interactions"

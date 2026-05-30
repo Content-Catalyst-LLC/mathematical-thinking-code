@@ -1,0 +1,5 @@
+recurrence_id,name,initial_values,recurrence,interpretation
+rec_fib_tilings,Fibonacci tilings,"1 1","a_n=a_(n-1)+a_(n-2)","tilings by first tile length 1 or 2"
+rec_subsets,All subsets,"1","a_n=2*a_(n-1)","include or exclude new element"
+rec_permutations,Permutations,"1","a_n=n*a_(n-1)","insert new element into n positions"
+rec_binary_strings,Binary strings,"1","a_n=2*a_(n-1)","two choices for next symbol"

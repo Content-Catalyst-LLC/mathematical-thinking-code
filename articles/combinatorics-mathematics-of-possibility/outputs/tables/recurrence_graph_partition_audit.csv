@@ -1,0 +1,52 @@
+audit_type,n,value,formula_or_rule,interpretation
+fibonacci_tilings,0,1,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,1,1,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,2,2,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,3,3,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,4,5,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,5,8,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,6,13,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,7,21,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,8,34,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,9,55,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,10,89,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,11,144,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,12,233,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,13,377,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,14,610,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,15,987,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,16,1597,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,17,2584,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,18,4181,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,19,6765,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+fibonacci_tilings,20,10946,a_n=a_(n-1)+a_(n-2),tilings by first tile of size 1 or 2
+integer_partitions,1,1,dynamic partition recurrence,unordered decompositions of integer n
+integer_partitions,2,2,dynamic partition recurrence,unordered decompositions of integer n
+integer_partitions,3,3,dynamic partition recurrence,unordered decompositions of integer n
+integer_partitions,4,5,dynamic partition recurrence,unordered decompositions of integer n
+integer_partitions,5,7,dynamic partition recurrence,unordered decompositions of integer n
+integer_partitions,6,11,dynamic partition recurrence,unordered decompositions of integer n
+integer_partitions,7,15,dynamic partition recurrence,unordered decompositions of integer n
+integer_partitions,8,22,dynamic partition recurrence,unordered decompositions of integer n
+integer_partitions,9,30,dynamic partition recurrence,unordered decompositions of integer n
+integer_partitions,10,42,dynamic partition recurrence,unordered decompositions of integer n
+integer_partitions,11,56,dynamic partition recurrence,unordered decompositions of integer n
+integer_partitions,12,77,dynamic partition recurrence,unordered decompositions of integer n
+integer_partitions,13,101,dynamic partition recurrence,unordered decompositions of integer n
+integer_partitions,14,135,dynamic partition recurrence,unordered decompositions of integer n
+integer_partitions,15,176,dynamic partition recurrence,unordered decompositions of integer n
+simple_labeled_graphs,1,1,"2^C(n,2)",each possible edge is present or absent
+simple_labeled_graphs,2,2,"2^C(n,2)",each possible edge is present or absent
+simple_labeled_graphs,3,8,"2^C(n,2)",each possible edge is present or absent
+simple_labeled_graphs,4,64,"2^C(n,2)",each possible edge is present or absent
+simple_labeled_graphs,5,1024,"2^C(n,2)",each possible edge is present or absent
+simple_labeled_graphs,6,32768,"2^C(n,2)",each possible edge is present or absent
+simple_labeled_graphs,7,2097152,"2^C(n,2)",each possible edge is present or absent
+simple_labeled_graphs,8,268435456,"2^C(n,2)",each possible edge is present or absent
+labeled_trees,2,1,n^(n-2),Cayley formula for labeled trees
+labeled_trees,3,3,n^(n-2),Cayley formula for labeled trees
+labeled_trees,4,16,n^(n-2),Cayley formula for labeled trees
+labeled_trees,5,125,n^(n-2),Cayley formula for labeled trees
+labeled_trees,6,1296,n^(n-2),Cayley formula for labeled trees
+labeled_trees,7,16807,n^(n-2),Cayley formula for labeled trees
+labeled_trees,8,262144,n^(n-2),Cayley formula for labeled trees

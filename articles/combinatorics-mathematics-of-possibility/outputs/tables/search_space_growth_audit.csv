@@ -1,0 +1,21 @@
+n,subsets_2_power_n,permutations_n_factorial,simple_graphs_2_choose_edges,interpretation
+1,2,1,1,combinatorial spaces grow rapidly under simple rules
+2,4,2,2,combinatorial spaces grow rapidly under simple rules
+3,8,6,8,combinatorial spaces grow rapidly under simple rules
+4,16,24,64,combinatorial spaces grow rapidly under simple rules
+5,32,120,1024,combinatorial spaces grow rapidly under simple rules
+6,64,720,32768,combinatorial spaces grow rapidly under simple rules
+7,128,5040,2097152,combinatorial spaces grow rapidly under simple rules
+8,256,40320,268435456,combinatorial spaces grow rapidly under simple rules
+9,512,362880,68719476736,combinatorial spaces grow rapidly under simple rules
+10,1024,3628800,35184372088832,combinatorial spaces grow rapidly under simple rules
+11,2048,39916800,36028797018963968,combinatorial spaces grow rapidly under simple rules
+12,4096,479001600,73786976294838206464,combinatorial spaces grow rapidly under simple rules
+13,8192,6227020800,302231454903657293676544,combinatorial spaces grow rapidly under simple rules
+14,16384,87178291200,2475880078570760549798248448,combinatorial spaces grow rapidly under simple rules
+15,32768,1307674368000,40564819207303340847894502572032,combinatorial spaces grow rapidly under simple rules
+16,65536,20922789888000,1329227995784915872903807060280344576,combinatorial spaces grow rapidly under simple rules
+17,131072,355687428096000,87112285931760246646623899502532662132736,combinatorial spaces grow rapidly under simple rules
+18,262144,6402373705728000,11417981541647679048466287755595961091061972992,combinatorial spaces grow rapidly under simple rules
+19,524288,121645100408832000,2993155353253689176481146537402947624255349848014848,combinatorial spaces grow rapidly under simple rules
+20,1048576,2432902008176640000,1569275433846670190958947355801916604025588861116008628224,combinatorial spaces grow rapidly under simple rules

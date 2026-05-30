@@ -1,0 +1,5 @@
+case_id,name,total_outcomes,favorable_outcomes,equally_likely,probability_if_equally_likely,interpretation,validation_note
+prob_die_even,Fair die even outcome,6,3,True,0.5,probability from favorable outcomes over equally likely sample space,combinatorial count becomes probability only when sample-space assumptions are valid
+prob_two_dice_sum_7,Two dice sum 7,36,6,True,0.16666666666666666,ordered dice pairs are equally likely,combinatorial count becomes probability only when sample-space assumptions are valid
+prob_cards_5_hand,Five-card poker hands,2598960,4,True,1.5390771693292702e-06,royal flush count over five-card hands,combinatorial count becomes probability only when sample-space assumptions are valid
+prob_bad_sum_assumption,Two dice sum categories,11,1,False,,sums are not equally likely; outcome space must be defined as ordered pairs,combinatorial count becomes probability only when sample-space assumptions are valid

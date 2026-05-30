@@ -1,0 +1,7 @@
+[package]
+name = "combinatorics_possibility_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line combinatorics and possibility-space audit scaffold."
+
+[dependencies]

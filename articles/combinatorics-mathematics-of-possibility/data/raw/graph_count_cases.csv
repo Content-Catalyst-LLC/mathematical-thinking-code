@@ -1,0 +1,8 @@
+case_id,name,n,graph_type,formula,interpretation
+graph_simple_3,Simple labeled graphs n=3,3,simple_labeled,"2^C(n,2)","each possible undirected edge is present or absent"
+graph_simple_4,Simple labeled graphs n=4,4,simple_labeled,"2^C(n,2)","labeled simple graph count"
+graph_simple_5,Simple labeled graphs n=5,5,simple_labeled,"2^C(n,2)","labeled simple graph count"
+graph_simple_6,Simple labeled graphs n=6,6,simple_labeled,"2^C(n,2)","labeled simple graph count"
+tree_labeled_4,Labeled trees n=4,4,labeled_tree,"n^(n-2)","Cayley formula for labeled trees"
+tree_labeled_5,Labeled trees n=5,5,labeled_tree,"n^(n-2)","Cayley formula for labeled trees"
+tree_labeled_6,Labeled trees n=6,6,labeled_tree,"n^(n-2)","Cayley formula for labeled trees"

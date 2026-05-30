@@ -1,0 +1,5 @@
+gf_id,name,series_form,coefficient_meaning,interpretation
+gf_subsets,Subset generating function,"(1+x)^n","coefficient of x^k counts k-element subsets","binomial theorem as counting structure"
+gf_unlimited_parts,Unlimited identical parts,"1/(1-x)","coefficient counts one way to choose any nonnegative quantity","basic ordinary generating factor"
+gf_fibonacci,Fibonacci recurrence,"1/(1-x-x^2)","coefficients satisfy Fibonacci recurrence","recurrence encoded algebraically"
+gf_even_parts,Even counts,"1/(1-x^2)","coefficient records even-numbered quantities","constraints encoded through exponents"

@@ -1,0 +1,14 @@
+digraph counting_decision_tree {
+  graph [rankdir="TB"];
+  start [label="What is being counted?"];
+  order [label="Does order matter?"];
+  repetition [label="Is repetition allowed?"];
+  overlap [label="Do cases overlap?"];
+  symmetry [label="Are symmetries identified?"];
+  method [label="Choose method: permutation, combination, recurrence, inclusion-exclusion, generating function"];
+  start -> order;
+  order -> repetition;
+  repetition -> overlap;
+  overlap -> symmetry;
+  symmetry -> method;
+}

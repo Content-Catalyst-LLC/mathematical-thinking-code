@@ -1,0 +1,8 @@
+warning_id,problem_id,warning,mitigation
+warn_order,prob_committee,"Order may be accidentally counted even when only membership matters.","State whether arrangements or selections are being counted."
+warn_repetition,prob_password_6,"Repetition rule strongly changes the size of the space.","Document whether symbols may repeat."
+warn_overlap,prob_multiples_2_or_3,"Overlapping categories cause double-counting.","Use inclusion-exclusion or disjoint case partitions."
+warn_graph_assumption,prob_graph_simple_6,"Graph count changes if vertices are unlabeled, loops allowed, or multiple edges allowed.","State graph convention before counting."
+warn_search_explosion,prob_feature_selection,"Power-set growth can make exhaustive search infeasible and hide omitted constraints.","Audit constraints, dependencies, and objective function."
+warn_probability,prob_binary_string_8,"Counting outcomes is not enough if outcomes are not equally likely.","Separate count from probability model."
+warn_scenario_boundary,prob_feature_selection,"A possibility space can omit important real-world cases.","Review boundaries with domain stakeholders."

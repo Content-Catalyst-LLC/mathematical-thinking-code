@@ -1,0 +1,11 @@
+problem_id,name,computed_count,counting_interpretation,assumption_summary,validation_note
+prob_committee,Committee selection,120,combination because order does not matter and repetition is not allowed,order_matters=false; repetition_allowed=false,count is meaningful only under the stated combinatorial assumptions
+prob_ranked_finalists,Ranked finalists,720,permutation because rank order matters,order_matters=true; repetition_allowed=false,count is meaningful only under the stated combinatorial assumptions
+prob_binary_string_8,Binary strings length 8,256,multiplication principle with two symbols per position,order_matters=true; repetition_allowed=true,count is meaningful only under the stated combinatorial assumptions
+prob_password_6,Password over 36 symbols length 6,2176782336,multiplication principle with repetition allowed,order_matters=true; repetition_allowed=true,count is meaningful only under the stated combinatorial assumptions
+prob_no_repeat_code,No-repeat code length 4 from 10 symbols,5040,ordered selection without repetition,order_matters=true; repetition_allowed=false,count is meaningful only under the stated combinatorial assumptions
+prob_graph_simple_6,Simple labeled graphs on 6 vertices,32768,each possible undirected edge is present or absent,order_matters=false; repetition_allowed=false,count is meaningful only under the stated combinatorial assumptions
+prob_multiples_2_or_3,Multiples of 2 or 3 through 100,67,inclusion-exclusion subtracts overlap,order_matters=false; repetition_allowed=false,count is meaningful only under the stated combinatorial assumptions
+prob_fibonacci_tilings,Fibonacci tilings length 12,233,recursive counting by first tile choice,order_matters=true; repetition_allowed=true,count is meaningful only under the stated combinatorial assumptions
+prob_integer_partitions,Partitions of integer 12,77,unordered integer partitions,order_matters=false; repetition_allowed=true,count is meaningful only under the stated combinatorial assumptions
+prob_feature_selection,Feature subset selection from 20 features,1048576,power set of possible feature subsets,order_matters=false; repetition_allowed=false,count is meaningful only under the stated combinatorial assumptions

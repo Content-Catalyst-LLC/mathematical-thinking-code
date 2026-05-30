@@ -1,0 +1,11 @@
+problem_id,name,object_count,selected_count,order_matters,repetition_allowed,constraint_note,interpretation
+prob_committee,Committee selection,10,3,false,false,"choose 3 people from 10","membership matters; order does not"
+prob_ranked_finalists,Ranked finalists,10,3,true,false,"choose and rank 3 people from 10","position matters"
+prob_binary_string_8,Binary strings length 8,8,8,true,true,"two symbols at each of 8 positions","multiplication principle"
+prob_password_6,Password over 36 symbols length 6,36,6,true,true,"36 choices per position","large search space from repeated choices"
+prob_no_repeat_code,No-repeat code length 4 from 10 symbols,10,4,true,false,"symbols cannot repeat","ordered selection without repetition"
+prob_graph_simple_6,Simple labeled graphs on 6 vertices,6,NA,false,false,"choose subset of possible edges","each edge is present or absent"
+prob_multiples_2_or_3,Multiples of 2 or 3 through 100,100,NA,false,false,"overlapping divisibility categories","inclusion-exclusion required"
+prob_fibonacci_tilings,Fibonacci tilings length 12,12,NA,true,true,"tiles of length 1 or 2","recursive construction"
+prob_integer_partitions,Partitions of integer 12,12,NA,false,true,"write integer as unordered positive sum","partition counting"
+prob_feature_selection,Feature subset selection from 20 features,20,NA,false,false,"choose any subset of features","2^n search space"

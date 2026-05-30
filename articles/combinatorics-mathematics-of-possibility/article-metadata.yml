@@ -1,0 +1,28 @@
+title: "Combinatorics and the Mathematics of Possibility"
+slug: "combinatorics-mathematics-of-possibility"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/combinatorics-mathematics-of-possibility"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/combinatorics-mathematics-of-possibility"
+description: "Companion computational scaffold for structured counting, permutations, combinations, binomial coefficients, inclusion-exclusion, recurrence, graph counting, integer partitions, generating-function coefficients, search-space growth, Haskell typed modeling, and responsible possibility-space interpretation."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - combinatorics
+  - enumeration
+  - permutations
+  - combinations
+  - recurrence
+  - graph counting
+  - probability
+  - algorithms
+created_for_article: true

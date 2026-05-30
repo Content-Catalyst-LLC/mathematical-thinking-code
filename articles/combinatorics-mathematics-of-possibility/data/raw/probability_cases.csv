@@ -1,0 +1,5 @@
+case_id,name,total_outcomes,favorable_outcomes,equally_likely,interpretation
+prob_die_even,Fair die even outcome,6,3,true,"probability from favorable outcomes over equally likely sample space"
+prob_two_dice_sum_7,Two dice sum 7,36,6,true,"ordered dice pairs are equally likely"
+prob_cards_5_hand,Five-card poker hands,2598960,4,true,"royal flush count over five-card hands"
+prob_bad_sum_assumption,Two dice sum categories,11,1,false,"sums are not equally likely; outcome space must be defined as ordered pairs"
