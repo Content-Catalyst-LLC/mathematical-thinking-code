@@ -1,0 +1,21 @@
+digraph recursive_tree_examples {
+  graph [rankdir="TB"];
+  "n0" [label="theorem\nroot"];
+  "n1" [label="lemma_1\ninternal"];
+  "n0" -> "n1";
+  "n2" [label="lemma_2\nleaf"];
+  "n0" -> "n2";
+  "n3" [label="definition\nleaf"];
+  "n1" -> "n3";
+  "n4" [label="case_analysis\nleaf"];
+  "n1" -> "n4";
+  "e0" [label="multiply\noperator"];
+  "e1" [label="add\noperator"];
+  "e0" -> "e1";
+  "e2" [label="5\nvalue"];
+  "e0" -> "e2";
+  "e3" [label="2\nvalue"];
+  "e1" -> "e3";
+  "e4" [label="3\nvalue"];
+  "e1" -> "e4";
+}

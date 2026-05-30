@@ -1,0 +1,6 @@
+model_id,name,initial_state,update_rule,stopping_condition,risk_note
+model_decay,Exponential decay,100,"x_next=0.85*x","time horizon or small threshold","rounding and model-form assumptions"
+model_feedback,Feedback score,1,"x_next=1.2*x+0.5","time horizon or cap","reinforcing loop can amplify values"
+model_classifier,Recursive classifier review,unlabeled,"label_next=review(label_previous,data)","stable label or human review","early errors can propagate"
+model_language,Autoregressive text generation,prompt,"token_next=F(previous_tokens)","length limit or stop token","ungrounded continuation can compound plausible errors"
+model_iteration,Fixed-point iteration,0.25,"x_next=cos(x)","difference below tolerance","convergence depends on update rule and starting point"

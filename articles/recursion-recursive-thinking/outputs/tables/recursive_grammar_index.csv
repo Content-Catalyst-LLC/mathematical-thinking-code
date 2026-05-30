@@ -1,0 +1,8 @@
+rule_id,nonterminal,production,rule_type,interpretation,audit_note
+g_expr_num,E,n,base,number is a base expression,recursive grammar rules generate nested structure from finite symbolic rules
+g_expr_add,E,(E+E),recursive,sum contains recursive subexpressions,recursive grammar rules generate nested structure from finite symbolic rules
+g_expr_mul,E,(E*E),recursive,product contains recursive subexpressions,recursive grammar rules generate nested structure from finite symbolic rules
+g_list_empty,L,empty,base,empty list is a base list,recursive grammar rules generate nested structure from finite symbolic rules
+g_list_cons,L,item:L,recursive,list can be item followed by smaller list,recursive grammar rules generate nested structure from finite symbolic rules
+g_tree_leaf,T,leaf,base,leaf is a base tree,recursive grammar rules generate nested structure from finite symbolic rules
+g_tree_node,T,"node(T,T)",recursive,node contains recursive subtrees,recursive grammar rules generate nested structure from finite symbolic rules

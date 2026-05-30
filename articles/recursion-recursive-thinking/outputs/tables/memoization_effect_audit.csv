@@ -1,0 +1,12 @@
+n,fibonacci_value,naive_call_count,unique_subproblems,interpretation
+0,0,1,1,memoization stores overlapping subproblems instead of recomputing them
+1,1,1,1,memoization stores overlapping subproblems instead of recomputing them
+2,1,3,3,memoization stores overlapping subproblems instead of recomputing them
+3,2,5,4,memoization stores overlapping subproblems instead of recomputing them
+4,3,9,5,memoization stores overlapping subproblems instead of recomputing them
+5,5,15,6,memoization stores overlapping subproblems instead of recomputing them
+6,8,25,7,memoization stores overlapping subproblems instead of recomputing them
+7,13,41,8,memoization stores overlapping subproblems instead of recomputing them
+8,21,67,9,memoization stores overlapping subproblems instead of recomputing them
+9,34,109,10,memoization stores overlapping subproblems instead of recomputing them
+10,55,177,11,memoization stores overlapping subproblems instead of recomputing them

@@ -1,0 +1,7 @@
+[package]
+name = "recursion_recursive_thinking_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line recurrence and recursive-structure audit scaffold."
+
+[dependencies]

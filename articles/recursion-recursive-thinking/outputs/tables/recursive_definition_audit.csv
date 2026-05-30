@@ -1,0 +1,8 @@
+definition_id,name,base_case,recursive_rule,termination_measure,has_base_case,has_recursive_rule,has_termination_measure,interpretation
+def_factorial,Factorial,0! = 1,n! = n*(n-1)!,n decreases by 1,True,True,True,product sequence generated from base case
+def_fibonacci,Fibonacci,F_0=0; F_1=1,F_n=F_(n-1)+F_(n-2),n decreases to 0 or 1,True,True,True,two-branch recurrence over previous terms
+def_tree_size,Tree size,empty tree or leaf,size(node)=1+sum(size(child)),tree height or node count decreases,True,True,True,structural recursion over nested tree
+def_merge_sort,Merge sort,list length <= 1,sort(left); sort(right); merge,list length halves,True,True,True,divide-and-conquer recursion
+def_binary_search,Binary search,empty interval or target found,search relevant half,interval length decreases,True,True,True,recursive search over ordered domain
+def_expression,Expression grammar,number,expression = number | expression + expression | expression * expression,parse tree depth decreases during evaluation,True,True,True,recursive formal grammar
+def_state_update,Recursive state update,initial state x_0,x_(t+1)=F(x_t),time horizon or convergence criterion,True,True,True,recursive model evolution

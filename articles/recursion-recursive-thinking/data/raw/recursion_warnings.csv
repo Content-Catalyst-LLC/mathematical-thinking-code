@@ -1,0 +1,8 @@
+warning_id,structure_type,structure_id,warning,mitigation
+warn_missing_base,definition,def_factorial,"A recursive definition without a base case can fail to terminate.","State a base case explicitly."
+warn_no_progress,definition,def_binary_search,"A recursive step that does not reduce problem size may loop indefinitely.","Track a decreasing size measure."
+warn_repeated_subproblem,algorithm,alg_factorial,"Some recursive algorithms repeat subproblems unnecessarily.","Use memoization or tabulation when overlap exists."
+warn_cycle_graph,algorithm,alg_dfs,"Recursive graph traversal can revisit cycles indefinitely.","Maintain a visited set."
+warn_error_amplification,model,model_feedback,"Recursive updates can amplify error, bias, or instability.","Validate against external data and monitor feedback."
+warn_stopping_condition,model,model_language,"Recursive generation can continue beyond meaningful grounding.","Use stopping conditions, verification, and review."
+warn_wrong_base,proof,proof_induction,"An incorrect base case invalidates an induction proof.","Check base cases and boundary values."

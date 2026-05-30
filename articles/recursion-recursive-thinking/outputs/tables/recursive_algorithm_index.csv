@@ -1,0 +1,7 @@
+algorithm_id,name,base_case,recursive_reduction,combination_rule,complexity_note,correctness_note,audit_question
+alg_factorial,Recursive factorial,n=0,n -> n-1,multiply by n,O(n) time stack depth O(n),prove by induction on n,Does the recursive reduction reach the base case and preserve correctness?
+alg_merge_sort,Merge sort,list length <= 1,split list into halves,merge sorted halves,O(n log n),prove sortedness and permutation preservation,Does the recursive reduction reach the base case and preserve correctness?
+alg_binary_search,Binary search,empty interval or match,choose relevant half,return found/missing result,O(log n),requires sorted input invariant,Does the recursive reduction reach the base case and preserve correctness?
+alg_tree_size,Tree size,empty/leaf,recurse over children,sum child sizes plus root,O(nodes),prove by structural induction,Does the recursive reduction reach the base case and preserve correctness?
+alg_dfs,Depth-first search,no unvisited neighbors,visit unvisited neighbor recursively,accumulate visited set,O(V+E),requires visited-set invariant for cycles,Does the recursive reduction reach the base case and preserve correctness?
+alg_parser,Recursive descent parser,terminal token,parse subexpressions,assemble parse tree,depends on grammar,requires grammar and token invariants,Does the recursive reduction reach the base case and preserve correctness?

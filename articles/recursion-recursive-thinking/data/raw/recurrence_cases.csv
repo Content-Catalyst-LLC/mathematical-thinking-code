@@ -1,0 +1,7 @@
+recurrence_id,name,initial_values,recurrence_rule,closed_form_note,proof_status,interpretation
+rec_factorial,Factorial,"1","a_n=n*a_(n-1)","n!","definition_or_induction","recursive product sequence"
+rec_fibonacci,Fibonacci,"0 1","F_n=F_(n-1)+F_(n-2)","Binet formula available but recurrence is structural","definition_or_induction","two previous terms define next term"
+rec_arithmetic,Arithmetic sequence,"3","a_n=a_(n-1)+5","a_n=3+5n","proved_by_induction","constant additive recursion"
+rec_geometric,Geometric sequence,"2","a_n=3*a_(n-1)","a_n=2*3^n","proved_by_induction","multiplicative recursion"
+rec_merge_sort,Merge sort cost,"1","T(n)=2T(n/2)+n","O(n log n)","master_theorem_or_recursion_tree","divide-and-conquer cost recurrence"
+rec_binary_search,Binary search cost,"1","T(n)=T(n/2)+1","O(log n)","recurrence_solution","recursive halving"

@@ -1,0 +1,11 @@
+node_id,parent_id,label,node_type,interpretation
+n0,,theorem,root,"root of proof tree"
+n1,n0,lemma_1,internal,"first supporting lemma"
+n2,n0,lemma_2,leaf,"second supporting lemma"
+n3,n1,definition,leaf,"definition supports lemma"
+n4,n1,case_analysis,leaf,"case analysis supports lemma"
+e0,,multiply,operator,"root of expression tree"
+e1,e0,add,operator,"left subexpression"
+e2,e0,5,value,"right value"
+e3,e1,2,value,"left value"
+e4,e1,3,value,"right value"

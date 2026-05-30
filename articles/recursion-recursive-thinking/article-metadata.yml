@@ -1,0 +1,28 @@
+title: "Recursion and Recursive Thinking"
+slug: "recursion-recursive-thinking"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/recursion-recursive-thinking"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/recursion-recursive-thinking"
+description: "Companion computational scaffold for recursive definitions, recurrence relations, induction, trees, divide-and-conquer algorithms, memoization, dynamic programming, recursive grammar, Haskell typed modeling, SQL schemas, and responsible recursive-system interpretation."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - recursion
+  - recurrence relations
+  - induction
+  - structural recursion
+  - dynamic programming
+  - algorithms
+  - formal grammar
+  - recursive data structures
+created_for_article: true
