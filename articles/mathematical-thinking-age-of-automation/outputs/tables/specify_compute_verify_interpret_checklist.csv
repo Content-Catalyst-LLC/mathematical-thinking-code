@@ -1,0 +1,5 @@
+stage,question,failure_mode,mitigation
+Specify,"What exactly is the problem, object, domain, and desired output?",wrong question answered precisely,"state variables, units, assumptions, domain, and purpose"
+Compute,"What procedure, system, model, or tool produced the output?",opaque automation,"record tool type, version when relevant, method, parameters, and data"
+Verify,"How do we know the result is correct, stable, valid, or adequate?",unchallenged output,"use independent checks, tests, formal verification, sensitivity analysis, or proof review"
+Interpret,What does the result mean in context and what should not be inferred?,formal correctness without meaning,"state scope, limitations, uncertainty, and consequences"

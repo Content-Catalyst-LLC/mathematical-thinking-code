@@ -1,0 +1,7 @@
+evidence_standard,task_ids,interpretation
+algebraic validity under stated domain,task_symbolic_simplification,automated outputs should be judged by the evidence standard appropriate to their output type
+arithmetic correctness plus dimensional sense,task_calculation_units,automated outputs should be judged by the evidence standard appropriate to their output type
+candidate solutions satisfy original equation,task_equation_solving,automated outputs should be judged by the evidence standard appropriate to their output type
+machine-checked derivation,task_formal_proof_check,automated outputs should be judged by the evidence standard appropriate to their output type
+model-based numerical adequacy,task_epidemic_simulation,automated outputs should be judged by the evidence standard appropriate to their output type
+valid inference or formal derivation,task_ai_proof_outline,automated outputs should be judged by the evidence standard appropriate to their output type

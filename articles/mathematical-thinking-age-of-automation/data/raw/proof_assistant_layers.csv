@@ -1,0 +1,6 @@
+layer_id,layer_name,human_role,machine_role,risk_or_limitation
+layer_concept,Concept,decide what mathematical idea matters,no independent mathematical purpose,important questions may be formalized poorly or not at all
+layer_definition,Definition,choose formal objects and assumptions,check syntax and type correctness,bad definitions can make a proof correct but unhelpful
+layer_statement,Theorem statement,translate informal claim into formal language,represent the proposition precisely,formal statement may not match intended informal meaning
+layer_proof,Proof construction,"guide strategy, structure, and decomposition",verify accepted inference steps,machine verification does not explain importance
+layer_interpretation,Interpretation,explain why the result matters,no social or philosophical judgment,formal correctness can be overextended into unwarranted authority

@@ -1,0 +1,6 @@
+layer_id,layer_name,human_role,machine_role,risk_or_limitation,audit_question
+layer_concept,Concept,decide what mathematical idea matters,no independent mathematical purpose,important questions may be formalized poorly or not at all,What remains a human responsibility at this layer of formalization?
+layer_definition,Definition,choose formal objects and assumptions,check syntax and type correctness,bad definitions can make a proof correct but unhelpful,What remains a human responsibility at this layer of formalization?
+layer_statement,Theorem statement,translate informal claim into formal language,represent the proposition precisely,formal statement may not match intended informal meaning,What remains a human responsibility at this layer of formalization?
+layer_proof,Proof construction,"guide strategy, structure, and decomposition",verify accepted inference steps,machine verification does not explain importance,What remains a human responsibility at this layer of formalization?
+layer_interpretation,Interpretation,explain why the result matters,no social or philosophical judgment,formal correctness can be overextended into unwarranted authority,What remains a human responsibility at this layer of formalization?

@@ -1,0 +1,18 @@
+digraph automation_verification_workflow {
+  graph [rankdir="LR"];
+  node [shape=box];
+  "Specify" -> "Compute" -> "Verify" -> "Interpret";
+  "Calculate physical quantity" -> "calculator" [label="uses"];
+  "calculator" -> "unit check, estimate, dimensional review" [label="requires"];
+  "Simplify sqrt(x^2)" -> "computer algebra system" [label="uses"];
+  "computer algebra system" -> "equivalence check under explicit assumptions" [label="requires"];
+  "Solve nonlinear equation" -> "computer algebra system or numerical solver" [label="uses"];
+  "computer algebra system or numerical solver" -> "substitution, residual check, missing/extraneous solution review" [label="requires"];
+  "Simulate epidemic curve" -> "numerical simulator" [label="uses"];
+  "numerical simulator" -> "sensitivity analysis, stability review, validation against data" [label="requires"];
+  "Generate proof outline" -> "AI assistant" [label="uses"];
+  "AI assistant" -> "step-by-step proof review or formalization" [label="requires"];
+  "Check theorem in proof assistant" -> "proof assistant" [label="uses"];
+  "proof assistant" -> "machine check plus informal statement review" [label="requires"];
+  note [shape=note, label="Synthetic teaching graph: automated output requires verification and interpretation."];
+}

@@ -1,0 +1,7 @@
+skill_id,skill_name,automation_context,why_it_matters,review_question
+skill_specification,Specification,"modeling, proof assistants, programming, AI prompts",automated systems need precise tasks,What exactly is being asked?
+skill_representation,Representation choice,"graphs, matrices, equations, algorithms, diagrams",different representations reveal different structures,Is this the right mathematical form?
+skill_assumptions,Assumption tracking,"symbolic computation, modeling, proof, statistics",automated outputs depend on hidden conditions,Which assumptions make the result valid?
+skill_counterexample,Counterexample thinking,"AI explanations, conjectures, symbolic rules, theorem statements",protects against overgeneralization,What case would break this claim?
+skill_interpretation,Interpretation,"simulation, statistics, optimization, verification",outputs need meaning and consequence review,What does this result mean in context?
+skill_communication,Communication,"education, research, policy, engineering",mathematics must remain understandable to humans,Can the result be explained clearly and responsibly?

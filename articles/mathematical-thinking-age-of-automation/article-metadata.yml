@@ -1,0 +1,28 @@
+title: "Mathematical Thinking in an Age of Automation"
+slug: "mathematical-thinking-age-of-automation"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/mathematical-thinking-age-of-automation"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/mathematical-thinking-age-of-automation"
+description: "Companion computational scaffold for automation audit workflows, symbolic-assumption checks, numerical simulation validation, proof-assistant metadata, AI-generated reasoning review, Haskell typed automation models, SQL schemas for verification records, and responsible mathematical automation checklists."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - mathematical automation
+  - symbolic computation
+  - numerical simulation
+  - proof assistants
+  - formal verification
+  - AI-assisted reasoning
+  - mathematical education
+  - responsible modeling
+created_for_article: true
