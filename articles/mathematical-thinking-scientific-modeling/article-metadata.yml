@@ -1,0 +1,30 @@
+title: "Mathematical Thinking and Scientific Modeling"
+slug: "mathematical-thinking-scientific-modeling"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/mathematical-thinking-scientific-modeling"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/mathematical-thinking-scientific-modeling"
+description: "Companion computational scaffold for scientific-modeling audit workflows, model assumption records, variable and parameter metadata, calibration and validation tables, uncertainty-source taxonomies, sensitivity-analysis examples, Haskell typed model records, SQL model-governance schemas, and responsible modeling checklists."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - scientific modeling
+  - mathematical modeling
+  - simulation
+  - calibration
+  - validation
+  - verification
+  - uncertainty quantification
+  - sensitivity analysis
+  - systems modeling
+  - responsible modeling
+created_for_article: true

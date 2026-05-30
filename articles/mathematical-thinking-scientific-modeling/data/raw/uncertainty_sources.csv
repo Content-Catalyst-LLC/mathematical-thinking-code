@@ -1,0 +1,8 @@
+uncertainty_id,model_id,source_type,description,mitigation
+unc_measurement_epi,mod_epidemic,measurement,cases and infections are imperfectly observed,model observation error and triangulate with hospitalization or serology
+unc_parameter_pred,mod_predator_prey,parameter,interaction rates are uncertain,use sensitivity analysis and parameter intervals
+unc_initial_climate,mod_climate_scenario,initial_condition,initial states affect trajectories and internal variability,use ensembles with varied initial conditions
+unc_structural_climate,mod_climate_scenario,structural,model structure and parameterizations differ,compare model ensembles and process diagnostics
+unc_scenario_climate,mod_climate_scenario,scenario,future emissions and policy choices are uncertain,report scenario assumptions rather than a single prediction
+unc_numerical_material,mod_material_failure,numerical,"mesh, discretization, and solver choices affect results",perform convergence and stability checks
+unc_distribution_surrogate,mod_ai_surrogate,distribution_shift,AI surrogate may see inputs unlike training simulations,use out-of-distribution detection and domain bounds

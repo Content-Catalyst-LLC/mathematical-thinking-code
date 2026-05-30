@@ -1,0 +1,6 @@
+scientific_modeling_demo
+*.hi
+*.o
+.stack-work/
+dist/
+dist-newstyle/

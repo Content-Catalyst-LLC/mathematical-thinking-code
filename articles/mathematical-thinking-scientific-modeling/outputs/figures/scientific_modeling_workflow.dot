@@ -1,0 +1,18 @@
+digraph scientific_modeling_workflow {
+  graph [rankdir="LR"];
+  node [shape=box];
+  "Represent" -> "Relate" -> "Test" -> "Revise" -> "Responsibility";
+  "Predator-prey population model" -> "mechanistic" [label="type"];
+  "Predator-prey population model" -> "understanding" [label="purpose"];
+  "Epidemic transmission model" -> "simulation" [label="type"];
+  "Epidemic transmission model" -> "decision_support" [label="purpose"];
+  "Climate scenario model" -> "hybrid" [label="type"];
+  "Climate scenario model" -> "scenario_analysis" [label="purpose"];
+  "Material failure model" -> "mechanistic_statistical" [label="type"];
+  "Material failure model" -> "prediction" [label="purpose"];
+  "Infrastructure resilience model" -> "systems" [label="type"];
+  "Infrastructure resilience model" -> "decision_support" [label="purpose"];
+  "AI surrogate simulation model" -> "machine_learning_hybrid" [label="type"];
+  "AI surrogate simulation model" -> "prediction" [label="purpose"];
+  note [shape=note, label="Synthetic teaching graph: scientific modeling represents, relates, tests, revises, and communicates limits."];
+}

@@ -1,0 +1,8 @@
+risk_id,risk_name,problem,mitigation
+risk_false_precision,False precision,numerical output appears more certain than it is,"report uncertainty, assumptions, and validity scope"
+risk_model_overreach,Model overreach,model is used beyond its intended domain,"state intended use, scope limits, and invalid use cases"
+risk_hidden_assumptions,Hidden assumptions,simplifications are buried inside technical form,document assumptions explicitly and test alternatives
+risk_data_bias,Data bias,input data misrepresent the target system,"audit measurement, sampling, exclusions, and missing data"
+risk_black_box_authority,Black-box authority,model cannot be inspected or explained,"require transparency, testing, interpretability, and independent review"
+risk_policy_misuse,Policy misuse,model is treated as decision rather than decision support,"separate model evidence from values, governance, and policy judgment"
+risk_visual_realism,Visual realism,simulation visuals make a model feel more faithful than evidence supports,"label simulation assumptions, uncertainty, and validation status"

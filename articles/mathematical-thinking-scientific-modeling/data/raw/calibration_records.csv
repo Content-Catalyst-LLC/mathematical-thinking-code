@@ -1,0 +1,6 @@
+calibration_id,model_id,calibration_method,data_used,risk,review_question
+cal_pred_rates,mod_predator_prey,fit interaction parameters to population time series,observed population counts,equifinality and ecological confounding,can different parameter sets produce similar cycles?
+cal_epi_cases,mod_epidemic,fit transmission parameters to case and hospitalization data,"reported cases, hospitalization, serology where available",reporting change and behavior feedback,are reporting biases and behavior change represented?
+cal_climate_history,mod_climate_scenario,evaluate historical simulation against observations,observed climate records and forcing history,historical fit may not resolve future structural uncertainty,"does validation cover relevant variables, scales, and extremes?"
+cal_material_tests,mod_material_failure,fit degradation parameters from laboratory tests,stress tests and failure observations,laboratory-field mismatch,do test conditions match field conditions?
+cal_surrogate_train,mod_ai_surrogate,train surrogate on simulation ensemble,simulation input-output pairs,overfitting or distribution shift,does validation cover held-out and stress-test regions?

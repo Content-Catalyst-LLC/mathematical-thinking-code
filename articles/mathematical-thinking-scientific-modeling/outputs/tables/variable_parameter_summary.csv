@@ -1,0 +1,9 @@
+record_id,model_id,name,role,unit,uncertainty_note,review_note
+var_pred_prey,mod_predator_prey,prey population,state variable,individuals or density,observational uncertainty and spatial heterogeneity,"variables and parameters should include role, unit, measurement basis, and uncertainty"
+par_pred_interaction,mod_predator_prey,interaction rate,parameter,rate,estimated from limited ecological data,"variables and parameters should include role, unit, measurement basis, and uncertainty"
+var_epi_infected,mod_epidemic,infected population,state variable,people,underreporting and testing bias,"variables and parameters should include role, unit, measurement basis, and uncertainty"
+par_epi_beta,mod_epidemic,transmission rate,parameter,rate per contact or period,"changes with behavior, immunity, variant, and intervention","variables and parameters should include role, unit, measurement basis, and uncertainty"
+var_climate_temp,mod_climate_scenario,temperature anomaly,output variable,degrees Celsius,ensemble spread and internal variability,"variables and parameters should include role, unit, measurement basis, and uncertainty"
+par_climate_feedback,mod_climate_scenario,feedback parameter,parameter,model-dependent,structural and parameter uncertainty,"variables and parameters should include role, unit, measurement basis, and uncertainty"
+var_infra_service,mod_infrastructure_resilience,service availability,state or output variable,percent or index,depends on network representation and recovery assumptions,"variables and parameters should include role, unit, measurement basis, and uncertainty"
+par_surrogate_latent,mod_ai_surrogate,learned latent representation,model component,dimensionless,interpretability and distribution shift concerns,"variables and parameters should include role, unit, measurement basis, and uncertainty"

@@ -1,0 +1,7 @@
+assumption_id,model_id,assumption_text,assumption_type,failure_consequence
+assump_pred_closed,mod_predator_prey,population changes are driven mainly by simplified predator-prey interaction rates,mechanistic simplification,external ecological drivers may dominate modeled dynamics
+assump_epi_contact,mod_epidemic,contact structure adequately represents transmission opportunity,network and behavior assumption,transmission estimates may be biased under behavior change or heterogeneity
+assump_climate_pathway,mod_climate_scenario,forcing pathway describes a plausible future scenario,scenario assumption,"outputs describe scenario consequences, not guaranteed predictions"
+assump_material_boundary,mod_material_failure,test conditions represent field stress conditions,boundary condition,failure risk may be underestimated outside tested regimes
+assump_infra_network,mod_infrastructure_resilience,network dependencies capture major interconnections,system boundary assumption,hidden dependencies may cause unmodeled cascading failures
+assump_surrogate_distribution,mod_ai_surrogate,training simulations cover the intended parameter domain,data coverage assumption,surrogate may extrapolate unreliably

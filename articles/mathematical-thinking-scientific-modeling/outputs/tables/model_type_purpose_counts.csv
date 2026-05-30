@@ -1,0 +1,11 @@
+summary_type,name,count,interpretation
+model_type,hybrid,1,model type clarifies what kind of scientific knowledge is being represented
+model_type,machine_learning_hybrid,1,model type clarifies what kind of scientific knowledge is being represented
+model_type,mechanistic,1,model type clarifies what kind of scientific knowledge is being represented
+model_type,mechanistic_statistical,1,model type clarifies what kind of scientific knowledge is being represented
+model_type,simulation,1,model type clarifies what kind of scientific knowledge is being represented
+model_type,systems,1,model type clarifies what kind of scientific knowledge is being represented
+purpose,decision_support,2,model purpose determines appropriate validation and interpretation standards
+purpose,prediction,2,model purpose determines appropriate validation and interpretation standards
+purpose,scenario_analysis,1,model purpose determines appropriate validation and interpretation standards
+purpose,understanding,1,model purpose determines appropriate validation and interpretation standards

@@ -1,0 +1,7 @@
+model_id,model_name,purpose,validation_type,credibility_note,review_question
+mod_predator_prey,Predator-prey population model,understanding,process and qualitative validation,"useful for understanding feedback, not full ecosystem prediction",Does the validation evidence match the model purpose and intended use?
+mod_epidemic,Epidemic transmission model,decision_support,out-of-sample and scenario validation,update model as evidence and conditions change,Does the validation evidence match the model purpose and intended use?
+mod_climate_scenario,Climate scenario model,scenario_analysis,historical simulation and ensemble comparison,interpret through ensembles and scenarios,Does the validation evidence match the model purpose and intended use?
+mod_material_failure,Material failure model,prediction,laboratory and field validation,combine tests with stress scenarios,Does the validation evidence match the model purpose and intended use?
+mod_infrastructure_resilience,Infrastructure resilience model,decision_support,stress testing and expert review,use as decision support rather than deterministic forecast,Does the validation evidence match the model purpose and intended use?
+mod_ai_surrogate,AI surrogate simulation model,prediction,held-out simulation validation,document parameter domain and extrapolation warnings,Does the validation evidence match the model purpose and intended use?
