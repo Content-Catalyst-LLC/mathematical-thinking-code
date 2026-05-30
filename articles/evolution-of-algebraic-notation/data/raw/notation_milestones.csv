@@ -1,0 +1,15 @@
+milestone_id,period,tradition_or_figure,style_id,contribution,interpretation_note
+ms_babylonian,ancient,Babylonian problem texts,style_procedural,worked methods for algebraic problem types,algebraic structure can exist before symbolic notation
+ms_egyptian,ancient,Egyptian mathematical papyri,style_procedural,"rules for arithmetic, measurement, area, and volume",procedural notation supports reliable calculation
+ms_diophantus,late antique,Diophantus,style_syncopated,abbreviations for unknowns and powers,recurring algebraic objects become compactly writable
+ms_indian,classical to early modern,Indian algebraic traditions,style_syncopated,"terms and abbreviations for unknowns, powers, zero, negative quantities, and indeterminate problems","notation develops through verse, rule, computation, and commentary"
+ms_islamic,medieval,Islamic algebra,style_rhetorical,classification and solution of equation types,algebra organized through verbal procedures and geometric justification
+ms_cossic,medieval to Renaissance,European cossic algebra,style_syncopated,abbreviations for the unknown and its powers,bridge from rhetorical expression to symbolic algebra
+ms_viete,early modern,François Viète,style_symbolic,systematic letters for unknowns and given quantities,parameterized generality becomes central
+ms_descartes,seventeenth century,René Descartes,style_symbolic,"modern-style unknowns, exponent notation, and equations for curves",algebra becomes a language for geometry
+ms_leibniz,seventeenth century,Gottfried Wilhelm Leibniz,style_symbolic,calculus notation for differentials and integrals,algebraic symbolism extends to variation and accumulation
+ms_euler,eighteenth century,Leonhard Euler,style_symbolic,standardization of function and analysis notation,notation becomes a stable language of analysis
+ms_boole,nineteenth century,George Boole and algebra of logic,style_logical,symbolic algebraic treatment of logical classes and propositions,algebraic notation expands into logic
+ms_matrices,nineteenth century,Matrix and vector notation,style_structural,compact representation of systems and transformations,large systems become manipulable symbolic objects
+ms_abstract,nineteenth to twentieth century,Abstract algebra,style_structural,"notation for groups, rings, fields, homomorphisms, and quotients",operations and structures become primary objects
+ms_cas,contemporary,Computer algebra systems,style_computational,symbolic expressions represented as parsable data structures,notation becomes computational infrastructure

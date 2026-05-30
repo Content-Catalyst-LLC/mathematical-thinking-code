@@ -1,0 +1,8 @@
+style_id,name,dominant_medium,mathematical_effect,limitation_note,historical_note
+style_procedural,Procedural,worked method or rule,transmits operations through examples,general symbolic structure may remain implicit,important in ancient mathematical problem traditions
+style_rhetorical,Rhetorical,ordinary language,describes relationships verbally,long expressions can obscure repeated form,common in early algebraic texts and equation classifications
+style_syncopated,Syncopated,abbreviations and partial symbols,compresses recurring algebraic objects,not yet a full symbolic system,associated with Diophantine and cossic abbreviation traditions
+style_symbolic,Symbolic,systematic algebraic signs,"supports manipulation, parameterization, and generality",requires learned conventions and hidden domain assumptions,"strongly associated with Viète, Descartes, and early modern algebra"
+style_structural,Structural,"operations, sets, mappings, laws",represents algebraic systems rather than only numbers,abstraction can obscure examples and access,central to nineteenth- and twentieth-century abstract algebra
+style_logical,Logical and set-theoretic,"quantifiers, predicates, membership, implication","formalizes claims, membership, relations, and inference",symbol density can hide meaning for learners,"important in algebra of logic, set theory, and foundations"
+style_computational,Computational,"expression trees, parser syntax, formal languages",turns symbols into data structures for computation,software syntax and mathematical notation can diverge,"central to computer algebra, programming languages, and proof assistants"

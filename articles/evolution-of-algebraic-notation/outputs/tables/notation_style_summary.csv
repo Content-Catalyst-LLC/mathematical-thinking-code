@@ -1,0 +1,8 @@
+style_id,style_name,milestone_count,dominant_medium,mathematical_effect,interpretation
+style_computational,Computational,1,"expression trees, parser syntax, formal languages",turns symbols into data structures for computation,"style count reflects synthetic teaching metadata, not historical prevalence"
+style_logical,Logical and set-theoretic,1,"quantifiers, predicates, membership, implication","formalizes claims, membership, relations, and inference","style count reflects synthetic teaching metadata, not historical prevalence"
+style_procedural,Procedural,2,worked method or rule,transmits operations through examples,"style count reflects synthetic teaching metadata, not historical prevalence"
+style_rhetorical,Rhetorical,1,ordinary language,describes relationships verbally,"style count reflects synthetic teaching metadata, not historical prevalence"
+style_structural,Structural,2,"operations, sets, mappings, laws",represents algebraic systems rather than only numbers,"style count reflects synthetic teaching metadata, not historical prevalence"
+style_symbolic,Symbolic,4,systematic algebraic signs,"supports manipulation, parameterization, and generality","style count reflects synthetic teaching metadata, not historical prevalence"
+style_syncopated,Syncopated,3,abbreviations and partial symbols,compresses recurring algebraic objects,"style count reflects synthetic teaching metadata, not historical prevalence"

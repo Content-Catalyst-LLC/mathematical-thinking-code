@@ -1,0 +1,7 @@
+rule_id,rule_name,input_pattern,output_pattern,mathematical_condition,interpretation_note
+rule_comm_add,commutativity of addition,a+b,b+a,addition is commutative,valid in many familiar algebraic systems but not every possible operation
+rule_assoc_add,associativity of addition,(a+b)+c,a+(b+c),addition is associative,grouping can be changed when law holds
+rule_distribute,distributive law,a*(b+c),a*b+a*c,multiplication distributes over addition,central to polynomial expansion
+rule_factor_square,perfect-square factoring,x^2+2*x+1,(x+1)^2,polynomial identity over valid coefficient domain,connects expanded and factored symbolic forms
+rule_solve_linear,linear equation solve,a*x+b=c,x=(c-b)/a,a is nonzero and operations are valid,symbolic solution exposes hidden nonzero assumption
+rule_matrix_system,linear system compression,multiple linear equations,A*x=b,coefficient matrix and vectors have compatible dimensions,matrix notation compresses system structure

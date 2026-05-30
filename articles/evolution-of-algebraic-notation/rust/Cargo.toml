@@ -1,0 +1,7 @@
+[package]
+name = "evolution_algebraic_notation_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line notation and symbol metadata audit scaffold."
+
+[dependencies]

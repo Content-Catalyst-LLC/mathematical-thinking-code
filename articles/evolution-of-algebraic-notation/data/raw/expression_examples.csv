@@ -1,0 +1,7 @@
+expression_id,expression_text,historical_layer,structure_type,tree_description,interpretation_note
+expr_linear,a*x+b=c,symbolic algebra,linear equation,equality between addition and constant,parameterized linear form
+expr_quadratic,a*x^2+b*x+c=0,symbolic algebra,quadratic equation,"sum of power, product, and constant terms",letters allow a family of equations
+expr_curve,y=x^2,analytic geometry,curve equation,equality between coordinate and power expression,algebraic equation represents geometric curve
+expr_function,f:A->B,function notation,mapping declaration,function symbol with domain and codomain,dependence and transformation become explicit
+expr_group_law,(a*b)*c=a*(b*c),abstract algebra,associative law,equality between two differently grouped products,operation law independent of number interpretation
+expr_factor,x^2+2*x+1=(x+1)^2,computer algebra,polynomial identity,expanded and factored forms connected by equality,symbolic transformation can be checked computationally

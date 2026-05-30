@@ -1,0 +1,16 @@
+digraph expression_history_graph {
+  graph [rankdir="LR"];
+  node [shape=box];
+  "expr_linear" [label="a*x+b=c\\nsymbolic algebra"];
+  "expr_quadratic" [label="a*x^2+b*x+c=0\\nsymbolic algebra"];
+  "expr_linear" -> "expr_quadratic" [label="notation evolves"];
+  "expr_curve" [label="y=x^2\\nanalytic geometry"];
+  "expr_quadratic" -> "expr_curve" [label="notation evolves"];
+  "expr_function" [label="f:A->B\\nfunction notation"];
+  "expr_curve" -> "expr_function" [label="notation evolves"];
+  "expr_group_law" [label="(a*b)*c=a*(b*c)\\nabstract algebra"];
+  "expr_function" -> "expr_group_law" [label="notation evolves"];
+  "expr_factor" [label="x^2+2*x+1=(x+1)^2\\ncomputer algebra"];
+  "expr_group_law" -> "expr_factor" [label="notation evolves"];
+  note [shape=note, label="Synthetic teaching graph: notation history is not a single linear path."];
+}

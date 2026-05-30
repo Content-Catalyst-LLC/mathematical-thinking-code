@@ -1,0 +1,27 @@
+title: "The Evolution of Algebraic Notation"
+slug: "evolution-of-algebraic-notation"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/evolution-of-algebraic-notation"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/evolution-of-algebraic-notation"
+description: "Companion computational scaffold for algebraic notation history, rhetorical-to-symbolic translation, expression trees, symbolic transformation rules, polynomial manipulation, Haskell typed expression models, SQL notation-history schemas, and responsible notation-access audits."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - algebra
+  - history of mathematics
+  - mathematical notation
+  - symbolic algebra
+  - abstract algebra
+  - computer algebra
+  - mathematical cognition
+created_for_article: true

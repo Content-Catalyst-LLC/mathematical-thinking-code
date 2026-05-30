@@ -1,0 +1,22 @@
+x,expanded_value,factored_value,identity_holds,interpretation
+-10,81,81,True,finite check illustrates but does not replace symbolic proof of identity
+-9,64,64,True,finite check illustrates but does not replace symbolic proof of identity
+-8,49,49,True,finite check illustrates but does not replace symbolic proof of identity
+-7,36,36,True,finite check illustrates but does not replace symbolic proof of identity
+-6,25,25,True,finite check illustrates but does not replace symbolic proof of identity
+-5,16,16,True,finite check illustrates but does not replace symbolic proof of identity
+-4,9,9,True,finite check illustrates but does not replace symbolic proof of identity
+-3,4,4,True,finite check illustrates but does not replace symbolic proof of identity
+-2,1,1,True,finite check illustrates but does not replace symbolic proof of identity
+-1,0,0,True,finite check illustrates but does not replace symbolic proof of identity
+0,1,1,True,finite check illustrates but does not replace symbolic proof of identity
+1,4,4,True,finite check illustrates but does not replace symbolic proof of identity
+2,9,9,True,finite check illustrates but does not replace symbolic proof of identity
+3,16,16,True,finite check illustrates but does not replace symbolic proof of identity
+4,25,25,True,finite check illustrates but does not replace symbolic proof of identity
+5,36,36,True,finite check illustrates but does not replace symbolic proof of identity
+6,49,49,True,finite check illustrates but does not replace symbolic proof of identity
+7,64,64,True,finite check illustrates but does not replace symbolic proof of identity
+8,81,81,True,finite check illustrates but does not replace symbolic proof of identity
+9,100,100,True,finite check illustrates but does not replace symbolic proof of identity
+10,121,121,True,finite check illustrates but does not replace symbolic proof of identity

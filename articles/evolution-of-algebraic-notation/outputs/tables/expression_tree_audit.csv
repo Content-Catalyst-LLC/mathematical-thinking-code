@@ -1,0 +1,7 @@
+expression_id,pretty_expression,node_count,tree_depth,interpretation
+expr_linear,((a * x) + b),5,3,symbolic notation can be represented as an expression tree
+expr_quadratic_left,(((a * (x)^2) + (b * x)) + c),11,5,symbolic notation can be represented as an expression tree
+expr_perfect_square_expanded,(((x)^2 + (2 * x)) + 1),9,4,symbolic notation can be represented as an expression tree
+expr_perfect_square_factored,((x + 1))^2,5,3,symbolic notation can be represented as an expression tree
+expr_associative_law_left,((a * b) * c),5,3,symbolic notation can be represented as an expression tree
+expr_associative_law_right,(a * (b * c)),5,3,symbolic notation can be represented as an expression tree
