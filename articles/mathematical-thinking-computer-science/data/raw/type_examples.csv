@@ -1,0 +1,6 @@
+type_id,name,type_kind,mathematical_analogy,programming_use,invariant_note
+type_bool,Bool,primitive,two-element set,conditions and predicates,value is true or false
+type_pair,Pair,product,cartesian product,combine fields,contains both components
+type_result,Result,sum,disjoint union,success or error,exactly one variant is present
+type_tree,Tree,recursive,initial algebra / recursive structure,"syntax, hierarchy, search",subtrees are also trees
+type_function,Function,mapping,domain to codomain,input-output transformation,valid input type maps to output type

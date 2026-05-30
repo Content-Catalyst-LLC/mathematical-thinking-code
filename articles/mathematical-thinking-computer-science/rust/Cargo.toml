@@ -1,0 +1,7 @@
+[package]
+name = "mathematical_thinking_cs_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line algorithm and complexity audit scaffold."
+
+[dependencies]

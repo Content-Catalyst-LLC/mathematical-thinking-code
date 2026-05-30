@@ -1,0 +1,6 @@
+mathematical_thinking_computer_science_demo
+*.hi
+*.o
+.stack-work/
+dist/
+dist-newstyle/

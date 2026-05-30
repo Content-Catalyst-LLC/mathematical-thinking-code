@@ -1,0 +1,7 @@
+digraph cs_dependency {
+  graph [rankdir="LR"];
+  "compile" -> "link";
+  "execute";
+  "link" -> "execute";
+  "parse" -> "compile";
+}

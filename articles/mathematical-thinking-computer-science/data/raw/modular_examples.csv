@@ -1,0 +1,5 @@
+example_id,name,modulus,operation,computer_science_use,interpretation
+mod_clock,Clock arithmetic,12,addition modulo 12,cyclic indexing,values wrap around finite cycle
+mod_hash,Hash bucket,10,hash(key) mod m,hash table bucket selection,modulus maps large key space into finite buckets
+mod_checksum,Checksum residue,97,sum mod 97,error detection scaffold,residue supports simple consistency checks
+mod_crypto,Cryptographic residue,prime,modular exponentiation,public-key cryptography scaffold,security depends on deeper number-theoretic assumptions

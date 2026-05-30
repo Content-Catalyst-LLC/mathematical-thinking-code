@@ -1,0 +1,6 @@
+proof_id,algorithm_id,proof_type,claim,method,risk_note
+proof_sort_perm,alg_insertion_sort,loop invariant,output is sorted and contains same multiset as input,"prove initialization, preservation, termination",tests on examples do not prove all cases
+proof_binary_interval,alg_binary_search,invariant,target remains in active interval if present,prove interval shrinks while preserving possibility,requires sorted input
+proof_bfs_distance,alg_bfs,induction on distance,BFS discovers shortest unweighted distances,prove by graph layers,edge weights invalidate unweighted-distance meaning
+proof_merge_sort,alg_merge_sort,structural induction,merge sort returns sorted permutation,induct on list length and prove merge correctness,comparison relation must be well-defined
+proof_dijkstra,alg_dijkstra,greedy invariant,settled distances are final shortest distances,use nonnegative weight condition,negative weights break guarantee

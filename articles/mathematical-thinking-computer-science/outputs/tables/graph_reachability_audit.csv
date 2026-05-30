@@ -1,0 +1,5 @@
+start_node,reachable_nodes,distances,degree,interpretation
+A,A B C D,A:0; B:1; C:1; D:2,2,graph traversal formalizes reachability over discrete relationships
+B,A B C D,A:1; B:0; C:2; D:1,2,graph traversal formalizes reachability over discrete relationships
+C,A B C D,A:1; B:2; C:0; D:3,1,graph traversal formalizes reachability over discrete relationships
+D,A B C D,A:2; B:1; C:3; D:0,1,graph traversal formalizes reachability over discrete relationships

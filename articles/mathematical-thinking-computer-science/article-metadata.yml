@@ -1,0 +1,31 @@
+title: "Mathematical Thinking for Computer Science"
+slug: "mathematical-thinking-computer-science"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/mathematical-thinking-computer-science"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/mathematical-thinking-computer-science"
+description: "Companion computational scaffold for discrete structures, logic, proof, algorithms, complexity, recursion, graphs, automata, computability, type systems, probability, linear algebra, modular arithmetic, data structures, Haskell typed modeling, SQL schemas, and responsible computational interpretation."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - computer science foundations
+  - algorithms
+  - complexity theory
+  - discrete mathematics
+  - graph theory
+  - automata theory
+  - type systems
+  - proof and correctness
+  - probability
+  - linear algebra
+  - modular arithmetic
+created_for_article: true

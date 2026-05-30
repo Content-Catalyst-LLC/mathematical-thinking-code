@@ -1,0 +1,4 @@
+case_id,name,sample_space,event,assumption_note,interpretation
+prob_hash_collision,Hash bucket collision,keys assigned to buckets,two keys share bucket,uniform hashing is an idealization,probabilistic assumptions affect collision analysis
+prob_randomized_algo,Randomized algorithm success,random choices during procedure,algorithm succeeds within bound,random source must match model,expected behavior is not a deterministic guarantee
+prob_model_score,Model score,possible labels or outcomes,predicted class,calibration and data distribution matter,score is not truth without validation

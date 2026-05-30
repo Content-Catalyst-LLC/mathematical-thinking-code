@@ -1,0 +1,7 @@
+case_id,name,growth_class,example_algorithm,interpretation
+cx_constant,Constant,O(1),array index access,resource use does not grow with input size under model assumptions
+cx_log,Logarithmic,O(log n),binary search,halving structure produces slow growth
+cx_linear,Linear,O(n),single scan,work grows proportionally to input length
+cx_nlogn,Near-linear,O(n log n),merge sort,divide-and-conquer sorting growth
+cx_quadratic,Quadratic,O(n^2),insertion sort worst case,nested comparisons produce square growth
+cx_exponential,Exponential,O(2^n),subset search,possibility spaces can become infeasible quickly

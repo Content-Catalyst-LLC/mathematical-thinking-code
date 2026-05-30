@@ -1,0 +1,7 @@
+edge_id,source,target,graph_id,directed,weight,relation_type,interpretation
+edge_AB,A,B,cs_graph,false,1.0,adjacency,synthetic graph edge
+edge_AC,A,C,cs_graph,false,1.0,adjacency,synthetic graph edge
+edge_BD,B,D,cs_graph,false,1.0,adjacency,synthetic graph edge
+dep_parse_compile,parse,compile,cs_dependency,true,1.0,depends_before,parse precedes compilation
+dep_compile_link,compile,link,cs_dependency,true,1.0,depends_before,compile precedes linking
+dep_link_execute,link,execute,cs_dependency,true,1.0,depends_before,link precedes execution

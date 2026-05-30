@@ -1,0 +1,5 @@
+example_id,name,object_type,formula,computer_science_use,interpretation
+la_vector,Feature vector,vector,x in R^n,data representation and embeddings,"vector encodes selected features, not full meaning"
+la_transform,Linear transform,matrix,y = A x,"graphics, ML layers, numerical computing",matrix operation transforms representation
+la_adjacency,Adjacency matrix,matrix,A_ij = 1 if edge i->j exists,graph representation and spectral methods,matrix encodes graph structure
+la_dot,Dot product similarity,operation,x dot y,retrieval and ranking,similarity metric depends on representation and normalization

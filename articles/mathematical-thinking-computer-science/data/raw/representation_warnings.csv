@@ -1,0 +1,8 @@
+warning_id,concept_id,warning,mitigation
+warn_spec,concept_algorithm,An algorithm can be correct relative to a harmful or incomplete specification.,"Audit objectives, constraints, and consequences."
+warn_graph_edge,concept_graph,"Graph edges can imply unsupported association, causation, suspicion, or influence.","Track edge meaning, evidence, provenance, and uncertainty."
+warn_type_boundary,concept_type,Types and categories can simplify or erase boundary cases.,Document category boundaries and failure cases.
+warn_complexity,concept_complexity,Small examples can hide explosive growth and exclusion at scale.,Audit complexity and scalability assumptions.
+warn_probability,concept_probability,Probabilistic outputs can be misread as truth or certainty.,"Document calibration, uncertainty, and validation limits."
+warn_embedding,concept_linear_algebra,Vector similarity can be mistaken for semantic or moral similarity.,"Validate representation, metric, and downstream use."
+warn_crypto,concept_modular,Correct modular arithmetic does not guarantee secure implementation.,Use expert cryptographic review and established protocols.

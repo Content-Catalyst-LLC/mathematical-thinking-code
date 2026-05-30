@@ -1,0 +1,9 @@
+automaton_id,input,final_state,accepted,interpretation
+dfa_even_ones,epsilon,even,True,finite-state memory tracks parity of 1 symbols
+dfa_even_ones,0,even,True,finite-state memory tracks parity of 1 symbols
+dfa_even_ones,1,odd,False,finite-state memory tracks parity of 1 symbols
+dfa_even_ones,11,even,True,finite-state memory tracks parity of 1 symbols
+dfa_even_ones,101,even,True,finite-state memory tracks parity of 1 symbols
+dfa_even_ones,1011,odd,False,finite-state memory tracks parity of 1 symbols
+dfa_even_ones,1111,even,True,finite-state memory tracks parity of 1 symbols
+dfa_even_ones,10010,even,True,finite-state memory tracks parity of 1 symbols

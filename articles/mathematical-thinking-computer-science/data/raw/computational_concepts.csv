@@ -1,0 +1,9 @@
+concept_id,name,concept_type,mathematical_structure,computer_science_use,interpretation
+concept_algorithm,Algorithm,procedure,finite rule-governed transformation,"sorting, searching, routing, parsing, inference",algorithmic behavior should be specified and proven under assumptions
+concept_graph,Graph,discrete structure,vertices and edges,"networks, dependencies, state spaces, knowledge graphs",edge meaning and direction must be explicit
+concept_type,Type,classification,"set, product, sum, or function-like constraint","program safety, abstraction, interface design",types constrain valid operations and document structure
+concept_automaton,Finite automaton,formal machine,"states, alphabet, transition function, start, accepting states","regular languages, parsing, protocols, state machines",formal machines recognize structured symbol sequences
+concept_complexity,Complexity,growth analysis,asymptotic function comparison,scalability and feasibility analysis,growth rate explains why some procedures become infeasible
+concept_probability,Probability,uncertainty model,"sample space, event, measure","randomized algorithms, ML, cryptography, reliability",probability requires valid assumptions about the sample space
+concept_linear_algebra,Linear algebra,vector-space structure,"vectors, matrices, transformations","ML, graphics, retrieval, numerical computing",vector representation is useful but not identical to meaning
+concept_modular,Modular arithmetic,number theory,congruence classes and remainders,"hashing, cryptography, cyclic buffers, checksums",finite arithmetic supports secure and efficient computation
