@@ -1,0 +1,6 @@
+node_id,degree,component,component_size,distances_from_node,interpretation
+A,2,A B C D,4,A:0; B:1; C:1; D:2,degree is local; component and distances reflect reachability structure
+B,2,A B C D,4,A:1; B:0; C:2; D:1,degree is local; component and distances reflect reachability structure
+C,1,A B C D,4,A:1; B:2; C:0; D:3,degree is local; component and distances reflect reachability structure
+D,1,A B C D,4,A:2; B:1; C:3; D:0,degree is local; component and distances reflect reachability structure
+E,0,E,1,E:0,degree is local; component and distances reflect reachability structure

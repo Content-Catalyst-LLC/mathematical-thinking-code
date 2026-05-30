@@ -1,0 +1,2 @@
+graph_id,topological_order,has_cycle,interpretation
+graph_dependency,A -> B -> C -> D -> E -> task_define -> task_traverse -> task_interpret,False,directed acyclic graphs support dependency-respecting order

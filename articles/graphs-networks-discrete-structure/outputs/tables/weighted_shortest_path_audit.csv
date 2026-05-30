@@ -1,0 +1,5 @@
+source,target,distance,weight_interpretation,audit_note
+A,A,0.0,synthetic route cost,shortest path is meaningful only relative to documented edge-weight semantics
+A,B,2.0,synthetic route cost,shortest path is meaningful only relative to documented edge-weight semantics
+A,C,5.0,synthetic route cost,shortest path is meaningful only relative to documented edge-weight semantics
+A,D,5.0,synthetic route cost,shortest path is meaningful only relative to documented edge-weight semantics

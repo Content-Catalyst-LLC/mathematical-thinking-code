@@ -1,0 +1,6 @@
+algorithm_id,name,graph_type,input_assumption,output,complexity_note,audit_note
+alg_bfs,Breadth-first search,unweighted graph,valid adjacency list and start vertex,reachable component and shortest unweighted distances,O(V+E),visited set prevents repeated traversal
+alg_dfs,Depth-first search,graph,valid adjacency list and start vertex,traversal order or component,O(V+E),visited set required for cycles
+alg_dijkstra,Dijkstra shortest path,weighted directed graph,nonnegative edge weights,minimum cost distances from source,implementation dependent,weight meaning must be documented
+alg_toposort,Topological sort,directed acyclic graph,no directed cycles,dependency-respecting order,O(V+E),cycle detection required
+alg_centrality,Degree centrality,simple graph,edge meaning is consistent,degree count by node,O(V+E),"centrality is structural summary, not moral value"

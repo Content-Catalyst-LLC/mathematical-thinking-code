@@ -1,0 +1,6 @@
+edge_id,left_node,right_node,left_type,right_type,relation_type,interpretation
+b1,worker_1,task_A,worker,task,can_perform,worker 1 can perform task A
+b2,worker_1,task_B,worker,task,can_perform,worker 1 can perform task B
+b3,worker_2,task_B,worker,task,can_perform,worker 2 can perform task B
+b4,worker_3,task_C,worker,task,can_perform,worker 3 can perform task C
+b5,worker_2,task_C,worker,task,can_perform,worker 2 can perform task C

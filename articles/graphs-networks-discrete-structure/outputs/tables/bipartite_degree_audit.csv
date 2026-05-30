@@ -1,0 +1,7 @@
+side,node,degree,interpretation
+left,worker_1,2,left-node affiliation count
+left,worker_2,2,left-node affiliation count
+left,worker_3,1,left-node affiliation count
+right,task_A,1,right-node affiliation count
+right,task_B,2,right-node affiliation count
+right,task_C,2,right-node affiliation count

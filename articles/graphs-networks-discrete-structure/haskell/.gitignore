@@ -1,0 +1,6 @@
+graphs_networks_demo
+*.hi
+*.o
+.stack-work/
+dist/
+dist-newstyle/

@@ -1,0 +1,11 @@
+edge_id,source_node_id,target_node_id,graph_id,directed,weight,relation_type,evidence_note,interpretation
+edge_AB,A,B,graph_main,false,1.0,adjacency,synthetic edge,A adjacent to B
+edge_AC,A,C,graph_main,false,1.0,adjacency,synthetic edge,A adjacent to C
+edge_BD,B,D,graph_main,false,1.0,adjacency,synthetic edge,B adjacent to D
+edge_AD_weighted,A,D,graph_weighted,true,7.0,route,synthetic weight,direct but costly route
+edge_AB_weighted,A,B,graph_weighted,true,2.0,route,synthetic weight,lower-cost route segment
+edge_BD_weighted,B,D,graph_weighted,true,3.0,route,synthetic weight,lower-cost route segment
+edge_AC_weighted,A,C,graph_weighted,true,5.0,route,synthetic weight,alternate route segment
+edge_CD_weighted,C,D,graph_weighted,true,1.0,route,synthetic weight,short final route segment
+edge_dep_1,task_define,task_traverse,graph_dependency,true,1.0,depends_before,synthetic dependency,definition precedes traversal
+edge_dep_2,task_traverse,task_interpret,graph_dependency,true,1.0,depends_before,synthetic dependency,traversal precedes interpretation

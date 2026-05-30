@@ -1,0 +1,7 @@
+[package]
+name = "graphs_networks_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line graph traversal and metric audit scaffold."
+
+[dependencies]

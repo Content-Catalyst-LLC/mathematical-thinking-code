@@ -1,0 +1,9 @@
+node_id,label,node_type,interpretation
+A,Node A,concept,hub-like node in toy undirected graph
+B,Node B,concept,bridge between A and D
+C,Node C,concept,leaf-like neighbor of A
+D,Node D,concept,terminal node connected through B
+E,Node E,concept,isolated node
+task_define,Define Graph,task,dependency source task
+task_traverse,Traverse Graph,task,depends on graph definition
+task_interpret,Interpret Network,task,depends on traversal and metrics

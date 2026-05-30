@@ -1,0 +1,5 @@
+network_id,name,node_meaning,edge_meaning,interpretive_risk,audit_question,interpretation_note
+net_transport,Transportation network,locations,routes,edge existence may not imply accessibility,"Does the route actually support safe, affordable, reliable travel?","network meaning depends on node definition, edge definition, data collection, and provenance"
+net_social,Social network,people or accounts,interaction or affiliation,connection may not imply trust or influence,What exactly does the edge measure?,"network meaning depends on node definition, edge definition, data collection, and provenance"
+net_citation,Citation network,documents,citation,"citation may be supportive, critical, or historical",What is the citation context?,"network meaning depends on node definition, edge definition, data collection, and provenance"
+net_knowledge,Knowledge graph,entities or concepts,semantic relation,semantic relation may be ambiguous or unsupported,What source supports the relation?,"network meaning depends on node definition, edge definition, data collection, and provenance"

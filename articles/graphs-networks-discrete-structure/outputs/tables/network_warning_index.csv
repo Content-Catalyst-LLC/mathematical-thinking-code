@@ -1,0 +1,7 @@
+warning_id,graph_id,structure_type,warning,mitigation,responsible_interpretation_note
+warn_layout,graph_main,visualization,Graph layout may imply distances not present in the graph.,State whether layout is aesthetic or metric.,"define nodes, edges, weights, direction, provenance, uncertainty, and downstream consequences"
+warn_edge_meaning,graph_main,edge,An edge can imply more than the evidence supports.,"Define edge meaning, evidence, and provenance.","define nodes, edges, weights, direction, provenance, uncertainty, and downstream consequences"
+warn_centrality,graph_main,centrality,"Centrality may be confused with importance, authority, or value.",Interpret centrality measure by measure.,"define nodes, edges, weights, direction, provenance, uncertainty, and downstream consequences"
+warn_weight,graph_weighted,weight,A shortest path depends entirely on what weight means.,"Document whether weight means distance, cost, risk, similarity, or capacity.","define nodes, edges, weights, direction, provenance, uncertainty, and downstream consequences"
+warn_direction,graph_dependency,direction,A directed relation should not be treated as symmetric.,Audit reachability and direction explicitly.,"define nodes, edges, weights, direction, provenance, uncertainty, and downstream consequences"
+warn_ai_graph,graph_model,inference,Graph-based inference can propagate false associations or biased edges.,"Track provenance, confidence, and downstream consequences.","define nodes, edges, weights, direction, provenance, uncertainty, and downstream consequences"

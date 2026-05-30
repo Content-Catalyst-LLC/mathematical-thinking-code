@@ -1,0 +1,4 @@
+case_id,node_id,metric,value_note,interpretation_risk,mitigation,audit_note
+cent_A,A,degree,high local degree in toy graph,degree may be mistaken for importance,state edge meaning and compare measures,"centrality is a structural measure, not a direct measure of legitimacy, expertise, or moral value"
+cent_B,B,betweenness_proxy,bridge-like node in path A-B-D,broker position may be burden or vulnerability,interpret in domain context,"centrality is a structural measure, not a direct measure of legitimacy, expertise, or moral value"
+cent_E,E,isolation,degree zero,isolation may reflect missing data,audit data coverage before interpretation,"centrality is a structural measure, not a direct measure of legitimacy, expertise, or moral value"
