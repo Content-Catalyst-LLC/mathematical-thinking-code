@@ -1,0 +1,7 @@
+warning_id,topic,warning,mitigation
+warn_eurocentrism,canon formation,Mathematical history can be reduced to a Greek-European sequence.,"Include Mesopotamian, Egyptian, Indian, Chinese, Islamic, African, Indigenous, and other traditions where relevant and well-sourced."
+warn_presentism,historical judgment,"Older mathematics can be judged only by modern notation, proof, or rigor standards.","Interpret mathematical practices within their own media, genres, institutions, and purposes."
+warn_textual_bias,source survival,Surviving written texts can be mistaken for the whole history of mathematical thinking.,"Attend to oral, material, craft, architectural, navigational, commercial, and pedagogical practices."
+warn_canon_bias,credit and authority,"Famous individuals and elite texts can obscure collective labor, commentary, teaching, translation, and institutions.","Document transmission, commentary, pedagogy, tools, and communities of practice."
+warn_colonial_hierarchy,power and classification,"Non-European mathematics can be appropriated, minimized, or forced into European categories.",Preserve historical specificity and avoid treating European forms as the only standard of mathematical maturity.
+warn_tech_triumph,modern computation,"Formalization, computation, and proof assistants can be treated as the inevitable final form of mathematics.","Recognize computation as a powerful medium that remains dependent on human choice, meaning, and responsibility."

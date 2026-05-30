@@ -1,0 +1,14 @@
+tradition_id,tradition_name,mode_id,mode_name,milestone_count,interpretation
+trad_chinese,Chinese procedural and configurational mathematics,mode_procedural,Procedural,1,classification supports comparison but should not flatten traditions or rank them
+trad_egyptian,Egyptian mathematical papyri,mode_procedural,Procedural,1,classification supports comparison but should not flatten traditions or rank them
+trad_european_modern,Early modern and modern European mathematics,mode_algebraic,Algebraic,1,classification supports comparison but should not flatten traditions or rank them
+trad_european_modern,Early modern and modern European mathematics,mode_analytic,Analytic,2,classification supports comparison but should not flatten traditions or rank them
+trad_european_modern,Early modern and modern European mathematics,mode_structural,Structural,1,classification supports comparison but should not flatten traditions or rank them
+trad_greek,Greek deductive mathematics,mode_analytic,Analytic,1,classification supports comparison but should not flatten traditions or rank them
+trad_greek,Greek deductive mathematics,mode_deductive,Deductive,1,classification supports comparison but should not flatten traditions or rank them
+trad_indian,Indian mathematical astronomy and arithmetic,mode_algebraic,Algebraic,1,classification supports comparison but should not flatten traditions or rank them
+trad_international_modern,International modern mathematics,mode_computational,Computational,1,classification supports comparison but should not flatten traditions or rank them
+trad_international_modern,International modern mathematics,mode_formal_verified,Formal-verified,2,classification supports comparison but should not flatten traditions or rank them
+trad_international_modern,International modern mathematics,mode_structural,Structural,1,classification supports comparison but should not flatten traditions or rank them
+trad_islamic,"Islamic algebraic, geometric, and astronomical synthesis",mode_algebraic,Algebraic,1,classification supports comparison but should not flatten traditions or rank them
+trad_mesopotamian,Mesopotamian scribal mathematics,mode_procedural,Procedural,1,classification supports comparison but should not flatten traditions or rank them

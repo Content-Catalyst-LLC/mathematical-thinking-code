@@ -1,0 +1,7 @@
+[package]
+name = "history_mathematical_thinking_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line historical mathematical-thinking metadata audit scaffold."
+
+[dependencies]

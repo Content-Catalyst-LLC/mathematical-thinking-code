@@ -1,0 +1,9 @@
+mode_id,mode_name,milestone_count,description,typical_representation,risk_if_overgeneralized
+mode_algebraic,Algebraic,3,"mathematics through symbols, unknowns, equations, and transformations","equation, variable, parameter, operation",may hide domain assumptions and historical notation differences
+mode_analytic,Analytic,3,"mathematics of limits, functions, change, continuity, and approximation","functions, limits, series, inequalities",may overprivilege modern rigor over earlier successful methods
+mode_computational,Computational,1,"mathematics through algorithms, simulation, complexity, and executable procedures","program, model, algorithm, data structure",computation may be mistaken for proof or interpretation
+mode_deductive,Deductive,1,mathematics as proof from definitions and assumptions,"axiom, theorem, proposition, demonstration",may erase non-Euclidean or non-propositional forms of justification
+mode_diagrammatic,Diagrammatic,0,mathematics through visible spatial relation,"diagram, dissection, construction",may mistake one figure for a general proof
+mode_formal_verified,Formal-verified,2,mathematics encoded in formal systems and checked by machines,"proof script, formal library, verification certificate",formal correctness can hide inadequate specifications or meanings
+mode_procedural,Procedural,3,mathematics as repeatable method or algorithm,"rule, recipe, table, worked example",may be misread as lacking theory
+mode_structural,Structural,2,"mathematics as study of objects, relations, operations, and laws","groups, spaces, graphs, categories, formal systems","abstraction may detach from examples, history, and access"

@@ -1,0 +1,6 @@
+history_of_mathematical_thinking_demo
+*.hi
+*.o
+.stack-work/
+dist/
+dist-newstyle/

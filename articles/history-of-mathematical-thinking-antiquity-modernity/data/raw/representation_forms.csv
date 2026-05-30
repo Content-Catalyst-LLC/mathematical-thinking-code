@@ -1,0 +1,9 @@
+representation_id,name,historical_layer,mathematical_function,interpretation_risk
+rep_numerals,Numerals and place value,ancient and classical arithmetic,make quantity portable and scalable,number systems are often treated as neutral rather than historical technologies
+rep_table,Tables,"scribal, astronomical, and computational traditions",organize repeated values and procedures,table-based reasoning may be undervalued relative to formulas
+rep_diagram,Diagrams,"geometry, dissection, proof, configuration",make spatial relation visible,visual evidence may be overtrusted or undercredited
+rep_symbol,Algebraic symbols,medieval to modern algebra,"compress unknowns, parameters, operations, and transformations",modern notation can distort older mathematical practice
+rep_function,Function notation,early modern to modern analysis,"represent dependence, transformation, and mapping",domain and codomain assumptions can be hidden
+rep_set,Set and logical notation,modern foundations,"formalize collections, quantification, membership, and inference",symbol density can obscure meaning and access
+rep_matrix,Matrices and vectors,modern linear algebra and data systems,"compress systems, transformations, and data","dimension, interpretation, and data assumptions can be hidden"
+rep_code,Code and proof scripts,contemporary computation and verification,make procedures executable and proofs checkable,formal correctness can be mistaken for complete meaning or responsibility
