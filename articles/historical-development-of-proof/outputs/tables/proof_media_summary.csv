@@ -1,0 +1,8 @@
+medium_id,name,historical_context,proof_effect,interpretation_risk,audit_question
+med_tablet,Clay tablet,scribal mathematics,preserves procedures and worked examples,may be judged unfairly by later deductive standards,"How does this medium shape what proof can preserve, display, standardize, or conceal?"
+med_papyrus,Papyrus,administrative and pedagogical mathematics,records rules and practical problem solving,survival bias shapes what is known,"How does this medium shape what proof can preserve, display, standardize, or conceal?"
+med_diagram,Diagram,geometric traditions,makes spatial relation and construction visible,single figure may be mistaken for general proof,"How does this medium shape what proof can preserve, display, standardize, or conceal?"
+med_commentary,Commentary,scholarly transmission,"explains, extends, and justifies inherited methods",commentarial originality may be undervalued,"How does this medium shape what proof can preserve, display, standardize, or conceal?"
+med_print,Printed textbook,standardized education,"stabilizes sequence, notation, and canon",can narrow what counts as legitimate tradition,"How does this medium shape what proof can preserve, display, standardize, or conceal?"
+med_journal,Journal article,professional mathematics,creates peer-reviewed proof communication,institutional gatekeeping shapes canon,"How does this medium shape what proof can preserve, display, standardize, or conceal?"
+med_code,Proof assistant script,formal verification,turns proof into machine-checkable artifact,formal script may obscure human interpretive choices,"How does this medium shape what proof can preserve, display, standardize, or conceal?"

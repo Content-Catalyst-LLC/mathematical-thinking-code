@@ -1,0 +1,12 @@
+tradition_id,tradition_name,style_id,style_name,milestone_count,interpretation
+trad_analysis,Nineteenth-century rigorous analysis,style_analytic,Analytic,1,classification supports comparison but should not flatten traditions
+trad_chinese,Chinese mathematical commentary and procedure,style_procedural,Procedural,1,classification supports comparison but should not flatten traditions
+trad_computer,Computer-assisted and machine-checked proof,style_machine,Machine-checked,2,classification supports comparison but should not flatten traditions
+trad_egyptian,Egyptian mathematical papyri,style_procedural,Procedural,1,classification supports comparison but should not flatten traditions
+trad_foundations,Foundations and mathematical logic,style_deductive,Deductive,1,classification supports comparison but should not flatten traditions
+trad_foundations,Foundations and mathematical logic,style_formal,Formal-logical,1,classification supports comparison but should not flatten traditions
+trad_greek,Greek deductive geometry,style_deductive,Deductive,1,classification supports comparison but should not flatten traditions
+trad_greek,Greek deductive geometry,style_diagrammatic,Diagrammatic,1,classification supports comparison but should not flatten traditions
+trad_indian,Indian mathematical astronomy and algorithmic traditions,style_analytic,Analytic,1,classification supports comparison but should not flatten traditions
+trad_islamic,Islamic algebraic and geometric synthesis,style_algebraic,Algebraic,1,classification supports comparison but should not flatten traditions
+trad_mesopotamian,Mesopotamian scribal mathematics,style_procedural,Procedural,1,classification supports comparison but should not flatten traditions

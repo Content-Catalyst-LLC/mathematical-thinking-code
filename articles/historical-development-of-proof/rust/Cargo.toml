@@ -1,0 +1,7 @@
+[package]
+name = "historical_development_of_proof_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line proof-history metadata audit scaffold."
+
+[dependencies]

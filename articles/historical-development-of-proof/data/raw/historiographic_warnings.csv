@@ -1,0 +1,7 @@
+warning_id,topic,warning,mitigation
+warn_eurocentrism,canon formation,Proof history can be reduced to a Greek-European story.,"Include Mesopotamian, Egyptian, Indian, Chinese, Islamic, and other mathematical traditions."
+warn_presentism,historical judgment,Past mathematical practices can be judged only by modern formal standards.,"Interpret proof practices within their own media, institutions, languages, and purposes."
+warn_flattening,cross-cultural comparison,Different forms of justification can be treated as identical.,Compare traditions carefully while preserving real differences in style and authority.
+warn_canon_bias,source survival,Famous texts and surviving manuscripts can be mistaken for the whole history.,"Attend to pedagogy, commentary, craft, oral transmission, and institutional power."
+warn_tech_triumph,machine proof,Machine-checked proof can be treated as the end of human proof.,"Recognize human choices in formalization, theorem selection, interpretation, and tool trust."
+warn_translation,language and transmission,"Translation can erase terms, genres, and local meanings of justification.",Preserve historical terminology and cite specialist scholarship when possible.

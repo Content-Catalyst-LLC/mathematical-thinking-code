@@ -1,0 +1,8 @@
+style_id,style_name,milestone_count,interpretation
+style_algebraic,Algebraic,1,"style count reflects synthetic teaching metadata, not historical prevalence"
+style_analytic,Analytic,2,"style count reflects synthetic teaching metadata, not historical prevalence"
+style_deductive,Deductive,2,"style count reflects synthetic teaching metadata, not historical prevalence"
+style_diagrammatic,Diagrammatic,1,"style count reflects synthetic teaching metadata, not historical prevalence"
+style_formal,Formal-logical,1,"style count reflects synthetic teaching metadata, not historical prevalence"
+style_machine,Machine-checked,2,"style count reflects synthetic teaching metadata, not historical prevalence"
+style_procedural,Procedural,3,"style count reflects synthetic teaching metadata, not historical prevalence"

@@ -1,0 +1,7 @@
+check_id,question,risk_topic,recommended_action
+check_01,Does the article avoid this risk: Proof history can be reduced to a Greek-European story.,canon formation,"Include Mesopotamian, Egyptian, Indian, Chinese, Islamic, and other mathematical traditions."
+check_02,Does the article avoid this risk: Past mathematical practices can be judged only by modern formal standards.,historical judgment,"Interpret proof practices within their own media, institutions, languages, and purposes."
+check_03,Does the article avoid this risk: Different forms of justification can be treated as identical.,cross-cultural comparison,Compare traditions carefully while preserving real differences in style and authority.
+check_04,Does the article avoid this risk: Famous texts and surviving manuscripts can be mistaken for the whole history.,source survival,"Attend to pedagogy, commentary, craft, oral transmission, and institutional power."
+check_05,Does the article avoid this risk: Machine-checked proof can be treated as the end of human proof.,machine proof,"Recognize human choices in formalization, theorem selection, interpretation, and tool trust."
+check_06,"Does the article avoid this risk: Translation can erase terms, genres, and local meanings of justification.",language and transmission,Preserve historical terminology and cite specialist scholarship when possible.

@@ -1,0 +1,13 @@
+milestone_id,tradition_id,figure_or_text,approximate_period,proof_style_id,contribution,proof_historical_significance
+ms_babylonian,trad_mesopotamian,Babylonian mathematical tablets,second millennium BCE,style_procedural,worked numerical procedures and quadratic problem forms,advanced rule-based mathematics before axiomatic proof
+ms_rhind,trad_egyptian,Rhind Mathematical Papyrus,c. 1650 BCE copy of older material,style_procedural,"arithmetic, fractions, measurement, practical problems",procedural authority and scribal mathematical training
+ms_euclid,trad_greek,"Euclid, Elements",c. 300 BCE,style_deductive,axiomatic organization of geometry,canonical model of proposition-proof architecture
+ms_archimedes,trad_greek,Archimedes,third century BCE,style_diagrammatic,method of exhaustion and rigorous geometric bounds,early limiting reasoning and geometric rigor
+ms_liu_hui,trad_chinese,Liu Hui commentary on The Nine Chapters,third century CE,style_procedural,"procedure, dissection, and configurational explanation",verification through transformation and commentary
+ms_al_khwarizmi,trad_islamic,al-Khwarizmi algebraic works,ninth century CE,style_algebraic,systematic equation-solving procedures,algebraic method tied to geometric and procedural justification
+ms_madhava,trad_indian,Kerala school series traditions,fourteenth to sixteenth centuries,style_analytic,"infinite series, trigonometric approximation, astronomical computation",advanced reasoning about approximation and infinite processes
+ms_cauchy_weierstrass,trad_analysis,Cauchy and Weierstrass,nineteenth century,style_analytic,rigorization of limits and continuity,precise quantified foundations for analysis
+ms_non_euclidean,trad_foundations,Non-Euclidean geometry,nineteenth century,style_deductive,alternative consistent geometries,axioms become structural assumptions rather than obvious spatial truths
+ms_godel,trad_foundations,Gödel incompleteness theorems,1931,style_formal,limits of formal provability in sufficiently strong systems,"distinguished truth, consistency, and formal derivability"
+ms_four_color,trad_computer,Four Color Theorem computer-assisted proof,1976 and later refinements,style_machine,large finite case verification by computer,challenged human-inspection norms of proof
+ms_proof_assistants,trad_computer,"Coq, Lean, Isabelle, HOL systems",late twentieth century to present,style_machine,machine-checked formal proof scripts,proof becomes formal artifact checked by computational kernel

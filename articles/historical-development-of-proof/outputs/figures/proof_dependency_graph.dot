@@ -1,0 +1,11 @@
+digraph proof_dependency_graph {
+  graph [rankdir="LR"];
+  node [shape=box];
+  "definitions_and_postulates" -> "proposition_1" [label="grounds"];
+  "proposition_1" -> "proposition_5" [label="prior_result"];
+  "proposition_5" -> "proposition_32" [label="prior_result"];
+  "epsilon_delta_limit" -> "derivative_definition" [label="foundation"];
+  "formal_axioms" -> "formal_theorem" [label="derivation"];
+  "proof_script" -> "checked_certificate" [label="verification"];
+  note [shape=note, label="Dependency graph is synthetic teaching metadata, not a complete historical reconstruction."];
+}

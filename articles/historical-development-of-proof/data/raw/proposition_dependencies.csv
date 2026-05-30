@@ -1,0 +1,7 @@
+dependency_id,system_id,source_claim,target_claim,relationship,interpretation
+dep_def_axiom,euclidean_model,definitions_and_postulates,proposition_1,grounds,first proposition depends on accepted starting points
+dep_p1_p5,euclidean_model,proposition_1,proposition_5,prior_result,later propositions may depend on earlier constructions
+dep_p5_p32,euclidean_model,proposition_5,proposition_32,prior_result,proof architecture becomes cumulative
+dep_limits_derivative,analysis_model,epsilon_delta_limit,derivative_definition,foundation,calculus is stabilized by rigorous limit concepts
+dep_axioms_theorem,formal_model,formal_axioms,formal_theorem,derivation,formal theorem follows by inference rules
+dep_script_certificate,machine_model,proof_script,checked_certificate,verification,machine checking verifies formal derivation steps
