@@ -1,0 +1,5 @@
+risk,count,interpretation
+fluent false lemma or irrelevant formalization,1,risk summary highlights where formal statement review is needed
+formal statement may prove uniqueness for a stronger or weaker predicate,1,risk summary highlights where formal statement review is needed
+missing structure or overly specific domain,1,risk summary highlights where formal statement review is needed
+off-by-one statement or wrong induction target,1,risk summary highlights where formal statement review is needed

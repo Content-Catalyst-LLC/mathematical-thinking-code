@@ -1,0 +1,6 @@
+workflow_id,stage,ai_role,proof_assistant_role,human_role,risk,mitigation
+wf_premise_retrieval,premise retrieval,suggest relevant theorems or library names,check whether suggested theorem applies in proof context,review hypotheses and applicability,irrelevant or inapplicable premise,inspect theorem statement and proof state
+wf_statement_draft,statement drafting,draft formal statement or syntax,parse and type-check the statement,review intended meaning and scope,formal mismatch,translate formal statement back into prose
+wf_tactic_suggestion,tactic suggestion,suggest tactic or proof step,accept or reject resulting derivation,understand what the tactic solved,opaque proof script,document proof strategy and dependencies
+wf_error_explanation,error explanation,explain error message or proof state,provide actual goals and type errors,compare explanation to real proof state,misleading explanation,trust proof state over generated prose
+wf_proof_outline,proof outline,suggest informal strategy,check formal proof when implemented,verify every inference and interpret result,fluent falsehood,formalize or independently prove each step

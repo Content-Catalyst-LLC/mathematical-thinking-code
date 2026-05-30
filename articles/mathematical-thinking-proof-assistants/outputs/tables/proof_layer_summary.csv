@@ -1,0 +1,7 @@
+layer_id,layer_name,human_role,machine_role,risk_or_limitation,review_note
+layer_concept,Concept,choose the mathematical problem and why it matters,no independent mathematical purpose,formalizing a poorly framed or trivial question,machine checking is one layer in a broader define-state-prove-check-interpret workflow
+layer_definition,Definition,"encode objects, structures, and assumptions",check syntax and type correctness,definition works formally but obscures meaning,machine checking is one layer in a broader define-state-prove-check-interpret workflow
+layer_statement,Theorem statement,state the intended theorem precisely,represent the proposition in formal language,machine checks the wrong theorem,machine checking is one layer in a broader define-state-prove-check-interpret workflow
+layer_proof,Proof construction,"guide strategy, decomposition, and lemma selection",track goals and accept valid proof steps,proof script becomes opaque or fragile,machine checking is one layer in a broader define-state-prove-check-interpret workflow
+layer_check,Machine check,understand the trusted components and accepted assumptions,check derivation under formal rules,trust boundary misunderstood,machine checking is one layer in a broader define-state-prove-check-interpret workflow
+layer_interpretation,Interpretation,"explain significance, scope, and limitations",no contextual or ethical judgment,formal correctness replaces explanation,machine checking is one layer in a broader define-state-prove-check-interpret workflow

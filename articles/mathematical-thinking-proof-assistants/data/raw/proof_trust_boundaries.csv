@@ -1,0 +1,6 @@
+boundary_id,theorem_id,trusted_component,trust_question,review_note
+bound_kernel,thm_group_identity,kernel or checker,What core component validates the derivation?,Keep the trusted core and unsafe mechanisms visible.
+bound_axioms,thm_continuity_sum,axioms and foundations,Which axioms or logic principles are admitted?,"Record classical, constructive, choice, quotient, and extensionality assumptions where relevant."
+bound_libraries,thm_continuity_sum,imported libraries,Which definitions and prior theorems are imported?,Track library dependencies and naming conventions.
+bound_statement,thm_ai_suggested,formal statement,Does the checked statement match the intended informal claim?,"Machine checking verifies derivability, not intended meaning."
+bound_interpretation,thm_induction_sum,human interpretation,What should not be inferred from the formal proof?,"State scope, limitations, and explanation separately from checking."

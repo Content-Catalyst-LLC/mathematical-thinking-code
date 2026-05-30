@@ -1,0 +1,10 @@
+category,name,count,interpretation
+proof_assistant,Isabelle/HOL,1,"synthetic counts support project coverage review, not system ranking"
+proof_assistant,Lean,2,"synthetic counts support project coverage review, not system ranking"
+proof_assistant,Rocq / Coq,1,"synthetic counts support project coverage review, not system ranking"
+proof_assistant,multiple,1,"synthetic counts support project coverage review, not system ranking"
+mathematical_domain,algebra,1,"synthetic counts support domain coverage review, not domain importance ranking"
+mathematical_domain,analysis,1,"synthetic counts support domain coverage review, not domain importance ranking"
+mathematical_domain,formal verification governance,1,"synthetic counts support domain coverage review, not domain importance ranking"
+mathematical_domain,formalization workflow,1,"synthetic counts support domain coverage review, not domain importance ranking"
+mathematical_domain,logic and arithmetic,1,"synthetic counts support domain coverage review, not domain importance ranking"

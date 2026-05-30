@@ -1,0 +1,18 @@
+digraph proof_assistant_workflow {
+  graph [rankdir="LR"];
+  node [shape=box];
+  "Define" -> "State" -> "Prove" -> "Check" -> "Interpret";
+  "Concept" -> "choose the mathematical problem and why it matters" [label="human role"];
+  "Concept" -> "no independent mathematical purpose" [label="machine role"];
+  "Definition" -> "encode objects, structures, and assumptions" [label="human role"];
+  "Definition" -> "check syntax and type correctness" [label="machine role"];
+  "Theorem statement" -> "state the intended theorem precisely" [label="human role"];
+  "Theorem statement" -> "represent the proposition in formal language" [label="machine role"];
+  "Proof construction" -> "guide strategy, decomposition, and lemma selection" [label="human role"];
+  "Proof construction" -> "track goals and accept valid proof steps" [label="machine role"];
+  "Machine check" -> "understand the trusted components and accepted assumptions" [label="human role"];
+  "Machine check" -> "check derivation under formal rules" [label="machine role"];
+  "Interpretation" -> "explain significance, scope, and limitations" [label="human role"];
+  "Interpretation" -> "no contextual or ethical judgment" [label="machine role"];
+  note [shape=note, label="Synthetic teaching graph: machine checking is central but not the whole of mathematical meaning."];
+}

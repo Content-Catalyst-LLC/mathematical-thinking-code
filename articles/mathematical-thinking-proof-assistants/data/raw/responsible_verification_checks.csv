@@ -1,0 +1,6 @@
+check_id,stage,question,failure_mode,mitigation
+check_define,Define,What objects and structures are being encoded?,bad definitions make proofs awkward or misleading,compare formal definitions against examples and intended use
+check_state,State,What exactly is the theorem?,formal statement misses informal meaning,translate formal statement back into prose and review hypotheses
+check_prove,Prove,How is the derivation constructed?,proof script becomes fragile or opaque,"use named lemmas, comments, and modular proof structure"
+check_check,Check,What does the system verify?,trust boundary is misunderstood,"document kernel, axioms, libraries, unsafe features, and accepted assumptions"
+check_interpret,Interpret,What does the theorem mean and why does it matter?,formal correctness replaces explanation,"state scope, significance, limitations, and responsible use"

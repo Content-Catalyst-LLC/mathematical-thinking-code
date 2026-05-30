@@ -1,0 +1,6 @@
+trusted_component,theorem_ids,interpretation
+axioms and foundations,thm_continuity_sum,"proof assistants relocate trust into formal statements, kernels, axioms, libraries, and human meaning review"
+formal statement,thm_ai_suggested,"proof assistants relocate trust into formal statements, kernels, axioms, libraries, and human meaning review"
+human interpretation,thm_induction_sum,"proof assistants relocate trust into formal statements, kernels, axioms, libraries, and human meaning review"
+imported libraries,thm_continuity_sum,"proof assistants relocate trust into formal statements, kernels, axioms, libraries, and human meaning review"
+kernel or checker,thm_group_identity,"proof assistants relocate trust into formal statements, kernels, axioms, libraries, and human meaning review"

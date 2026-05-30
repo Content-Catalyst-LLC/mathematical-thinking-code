@@ -1,0 +1,29 @@
+title: "Mathematical Thinking and Proof Assistants"
+slug: "mathematical-thinking-proof-assistants"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/mathematical-thinking-proof-assistants"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/mathematical-thinking-proof-assistants"
+description: "Companion computational scaffold for proof-assistant literacy workflows, formalization metadata, theorem-statement audits, proof-layer schemas, trust-boundary reviews, AI-to-proof-assistant verification pipelines, Haskell typed proof models, SQL formalization records, and responsible verification checklists."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - proof assistants
+  - formal proof
+  - formal verification
+  - theorem proving
+  - mathematical logic
+  - type theory
+  - proof theory
+  - mathematical libraries
+  - AI-assisted mathematics
+created_for_article: true

@@ -1,0 +1,7 @@
+layer_id,layer_name,human_role,machine_role,risk_or_limitation
+layer_concept,Concept,choose the mathematical problem and why it matters,no independent mathematical purpose,formalizing a poorly framed or trivial question
+layer_definition,Definition,"encode objects, structures, and assumptions",check syntax and type correctness,definition works formally but obscures meaning
+layer_statement,Theorem statement,state the intended theorem precisely,represent the proposition in formal language,machine checks the wrong theorem
+layer_proof,Proof construction,"guide strategy, decomposition, and lemma selection",track goals and accept valid proof steps,proof script becomes opaque or fragile
+layer_check,Machine check,understand the trusted components and accepted assumptions,check derivation under formal rules,trust boundary misunderstood
+layer_interpretation,Interpretation,"explain significance, scope, and limitations",no contextual or ethical judgment,formal correctness replaces explanation

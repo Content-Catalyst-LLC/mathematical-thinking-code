@@ -1,0 +1,7 @@
+skill_id,skill_name,why_it_matters,review_question
+skill_formal_statement,Reading formal statements,"the machine checks the formal statement, not the informal intention",Can the formal statement be translated back into ordinary mathematical prose?
+skill_assumptions,Tracking assumptions,hidden assumptions determine theorem scope,"Which hypotheses, axioms, instances, and libraries are used?"
+skill_definitions,Choosing definitions,definitions shape proof difficulty and reuse,Does this definition preserve the intended mathematical concept?
+skill_libraries,Using libraries,formal mathematics is cumulative infrastructure,"Which existing theorem, structure, or convention should be reused?"
+skill_tactics,Understanding tactics,automation helps construct proof steps but must be understood,What did the tactic actually solve?
+skill_interpretation,Interpreting verification,"machine checking verifies derivation, not broader meaning","What exactly has been verified, and what remains a human judgment?"
