@@ -1,0 +1,28 @@
+digraph category_abstraction_workflow {
+  graph [rankdir="LR"];
+  node [shape=box];
+  "Objects" -> "Arrows" -> "Structure" -> "Universality" -> "Responsibility";
+  "Set" -> "sets" [label="objects"];
+  "Set" -> "functions" [label="morphisms"];
+  "Grp" -> "groups" [label="objects"];
+  "Grp" -> "group homomorphisms" [label="morphisms"];
+  "Top" -> "topological spaces" [label="objects"];
+  "Top" -> "continuous maps" [label="morphisms"];
+  "Vect" -> "vector spaces" [label="objects"];
+  "Vect" -> "linear maps" [label="morphisms"];
+  "Poset" -> "partially ordered sets" [label="objects"];
+  "Poset" -> "monotone maps" [label="morphisms"];
+  "Type" -> "types" [label="objects"];
+  "Type" -> "typed functions" [label="morphisms"];
+  "Grp" -> "Underlying set of a group" [label="translated by"];
+  "Underlying set of a group" -> "Set" [label="to"];
+  "Set" -> "Free group on a set" [label="translated by"];
+  "Free group on a set" -> "Grp" [label="to"];
+  "Top" -> "Homology functor" [label="translated by"];
+  "Homology functor" -> "Ab" [label="to"];
+  "Set" -> "Power set construction" [label="translated by"];
+  "Power set construction" -> "Set" [label="to"];
+  "SchemaA" -> "Schema migration functor" [label="translated by"];
+  "Schema migration functor" -> "SchemaB" [label="to"];
+  note [shape=note, label="Synthetic teaching graph: category-level abstraction tracks objects, arrows, preserved structure, and universal roles."];
+}

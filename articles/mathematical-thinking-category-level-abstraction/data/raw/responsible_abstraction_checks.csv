@@ -1,0 +1,6 @@
+check_id,stage,question,failure_mode,mitigation
+check_objects,Objects,What entities or structures are being studied?,unclear domain of discourse,define objects and concrete examples before abstraction
+check_arrows,Arrows,What transformations are allowed?,wrong or vague notion of relationship,state morphisms and what they preserve
+check_structure,Structure,What do the arrows preserve or forget?,important features are forgotten,document preserved and forgotten structure
+check_universality,Universality,What role does the construction satisfy among all maps?,"construction understood only by recipe, not by role",state the universal mapping property and uniqueness condition
+check_responsibility,Responsibility,What happens if this abstraction is used in a real system?,formal elegance hides consequences,"document assumptions, limits, implementation costs, and affected contexts"

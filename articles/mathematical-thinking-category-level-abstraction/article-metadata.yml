@@ -1,0 +1,29 @@
+title: "Mathematical Thinking and Category-Level Abstraction"
+slug: "mathematical-thinking-category-level-abstraction"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/mathematical-thinking-category-level-abstraction"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/mathematical-thinking-category-level-abstraction"
+description: "Companion computational scaffold for category-level abstraction audits, category object/morphism metadata, functor preservation checks, natural-transformation records, universal-property schemas, diagram commutativity tests, Haskell typed category models, SQL categorical schema records, and responsible abstraction checklists."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - category theory
+  - category-level abstraction
+  - functors
+  - natural transformations
+  - universal properties
+  - limits and colimits
+  - adjunctions
+  - applied category theory
+  - responsible abstraction
+created_for_article: true

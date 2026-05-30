@@ -1,0 +1,8 @@
+risk_id,risk_name,problem,mitigation
+risk_premature_abstraction,Premature abstraction,categorical language appears before examples motivate it,build from concrete categories and recurring patterns
+risk_overgeneralization,Overgeneralization,shared categorical form hides important domain differences,ask what the functor preserves and what it forgets
+risk_decorative_diagram,Decorative diagrams,diagrams appear without proof-bearing content,state commutativity and universal properties explicitly
+risk_jargon_inflation,Jargon inflation,terms replace understanding,translate categorical language back into examples
+risk_computational_neglect,Computational neglect,universal characterization hides algorithmic cost,pair categorical structure with implementation analysis
+risk_forgotten_structure,Forgotten structure,a functor preserves one structure while forgetting another,document preserved and forgotten features
+risk_modeling_blindspot,Modeling blind spot,"formal structure hides social, ecological, institutional, or contextual realities","document assumptions, exclusions, stakeholders, and consequences"

@@ -1,0 +1,13 @@
+summary_type,name,count,interpretation
+preserved_structure,addition and scalar multiplication,1,preserved structure determines what category-level abstraction is tracking
+preserved_structure,computational typing and behavior,1,preserved structure determines what category-level abstraction is tracking
+preserved_structure,element assignment,1,preserved structure determines what category-level abstraction is tracking
+preserved_structure,group operation,1,preserved structure determines what category-level abstraction is tracking
+preserved_structure,order relation,1,preserved structure determines what category-level abstraction is tracking
+preserved_structure,topological continuity,1,preserved structure determines what category-level abstraction is tracking
+morphism_type,continuous maps,1,chosen morphisms determine the visible structure of the category
+morphism_type,functions,1,chosen morphisms determine the visible structure of the category
+morphism_type,group homomorphisms,1,chosen morphisms determine the visible structure of the category
+morphism_type,linear maps,1,chosen morphisms determine the visible structure of the category
+morphism_type,monotone maps,1,chosen morphisms determine the visible structure of the category
+morphism_type,typed functions,1,chosen morphisms determine the visible structure of the category

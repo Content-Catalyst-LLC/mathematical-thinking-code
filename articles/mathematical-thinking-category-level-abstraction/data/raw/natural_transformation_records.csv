@@ -1,0 +1,4 @@
+transformation_id,transformation_name,source_functor,target_functor,component_description,naturality_condition,coherence_review
+nat_double_dual,Vector space to double dual,Identity on finite-dimensional vector spaces,Double-dual functor,map each vector to evaluation on linear functionals,commutes with linear maps in the finite-dimensional setting,confirm dimensional assumptions and map naturality
+nat_unit_adjunction,Unit of free-forgetful adjunction,Identity on Set,Underlying-set after free-group functor,send each generator into the underlying set of the free group,commutes with functions between generating sets,confirm naturality with respect to generator maps
+nat_data_view,Data view transformation,Raw schema instance functor,Curated schema instance functor,map raw records into cleaned view records,commutes with schema relationship mappings,review whether cleaning preserves intended relationships

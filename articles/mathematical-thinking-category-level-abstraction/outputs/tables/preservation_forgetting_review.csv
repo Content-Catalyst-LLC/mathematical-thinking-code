@@ -1,0 +1,6 @@
+functor_id,functor_name,preserved_property,forgotten_or_added_structure,review_question
+fun_underlying_group,Underlying set of a group,composition and identity of maps,forgets group operation,"What does this translation preserve, forget, add, or make invisible?"
+fun_free_group,Free group on a set,universal extension behavior,adds group structure freely,"What does this translation preserve, forget, add, or make invisible?"
+fun_homology,Homology functor,topological information through algebraic invariants,forgets many geometric details while preserving selected invariants,"What does this translation preserve, forget, add, or make invisible?"
+fun_power_set,Power set construction,subset construction behavior,changes level from elements to collections of elements,"What does this translation preserve, forget, add, or make invisible?"
+fun_data_migration,Schema migration functor,schema structure and compositional relationships,"may lose context, provenance, or semantic nuance","What does this translation preserve, forget, add, or make invisible?"

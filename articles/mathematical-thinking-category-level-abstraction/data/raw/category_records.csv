@@ -1,0 +1,7 @@
+category_id,category_name,objects,morphisms,preserved_structure,composition_rule,abstraction_risk
+cat_set,Set,sets,functions,element assignment,function composition,ignoring additional structure such as topology or algebra
+cat_grp,Grp,groups,group homomorphisms,group operation,composition of homomorphisms,forgetting that not every function between groups is a homomorphism
+cat_top,Top,topological spaces,continuous maps,topological continuity,composition of continuous maps,confusing set-theoretic maps with continuous maps
+cat_vect,Vect,vector spaces,linear maps,addition and scalar multiplication,composition of linear transformations,hiding basis-dependent computational details
+cat_poset,Poset,partially ordered sets,monotone maps,order relation,composition of order-preserving maps,ignoring order-theoretic edge cases
+cat_type,Type,types,typed functions,computational typing and behavior,typed function composition,confusing mathematical functions with implemented programs

@@ -1,0 +1,5 @@
+diagram_id,diagram_name,diagram_type,path_left,path_right,commutativity_condition,interpretation
+diag_square,Commutative square,square,g after f,k after h,g∘f = k∘h,two routes through the diagram yield the same morphism
+diag_triangle,Factorization triangle,triangle,u followed by projection,given map,projection∘u = given map,a universal map factors a given compatible family
+diag_naturality,Naturality square,square,eta_B after F(f),G(f) after eta_A,eta_B∘F(f) = G(f)∘eta_A,comparison between functors respects morphisms in the source category
+diag_adjunction,Adjunction correspondence,hom-set correspondence,"Hom_D(F(A),B)","Hom_C(A,G(B))",natural bijection of hom-sets,two ways of specifying a map correspond naturally
