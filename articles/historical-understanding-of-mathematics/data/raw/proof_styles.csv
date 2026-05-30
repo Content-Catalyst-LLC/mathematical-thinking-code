@@ -1,0 +1,7 @@
+proof_style_id,name,historical_context,authority_basis,limitation_or_caution
+proof_diagrammatic,Diagrammatic demonstration,classical geometry and visual construction,relations made visible and reasoned through construction,diagrams may hide generality or implicit assumptions
+proof_procedural,Procedural verification,"scribal, algorithmic, commercial, and computational traditions",repeatable successful method,procedure may require separate proof of correctness
+proof_algebraic,Algebraic transformation,algebraic and symbolic traditions,equivalence preserved under valid transformations,domain assumptions can be hidden
+proof_inductive,Induction,"arithmetic, combinatorics, computer science",base case and recursive/general step,requires appropriate well-founded structure
+proof_limit,Limit proof,analysis and calculus foundations,quantified control of approximation,formal rigor can obscure intuition for learners
+proof_formal,Formal derivation,"logic, type theory, proof assistants",machine-checkable derivation under formal rules,formal statement may not match informal intention

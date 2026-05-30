@@ -1,0 +1,6 @@
+check_id,question,risk,mitigation
+check_01,Does the account distinguish mathematical validity from historical practice?,flattening truth and history,state what is formally valid and what is historically situated
+check_02,Does the account distinguish original notation from modern reconstruction?,notation anachronism,show or describe original media when possible
+check_03,Does the account include multiple mathematical traditions without forcing them into a single ladder?,Eurocentric linear progress narrative,"use network, transmission, and plurality language where appropriate"
+check_04,Does the account identify what source survival may have excluded?,textual and institutional bias,"note lost, oral, material, craft, pedagogical, and marginalized practices"
+check_05,"Does the account separate proof, model, computation, specification, and consequence?",formal overconfidence,state evidence standards and limitations explicitly

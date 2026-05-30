@@ -1,0 +1,11 @@
+digraph mathematical_transmission_graph {
+  graph [rankdir="LR"];
+  node [shape=box];
+  "Greek mathematical texts" -> "Arabic-speaking scholarly worlds" [label="preserves/transforms"];
+  "Indian numeral and place-value traditions" -> "Islamic and European mathematical cultures" [label="preserves/transforms"];
+  "Chinese procedural and configurational mathematics" -> "comparative histories of algebra and systems" [label="preserves/transforms"];
+  "Islamic algebraic and astronomical traditions" -> "Latin and European mathematical cultures" [label="preserves/transforms"];
+  "manuscript and rhetorical algebra" -> "print-era symbolic mathematics" [label="preserves/transforms"];
+  "journal mathematics and informal proof" -> "formal libraries and proof assistants" [label="preserves/transforms"];
+  note [shape=note, label="Synthetic teaching graph: transmission is preservation plus transformation."];
+}

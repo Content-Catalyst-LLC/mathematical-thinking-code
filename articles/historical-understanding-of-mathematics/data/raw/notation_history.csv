@@ -1,0 +1,8 @@
+notation_id,notation_or_medium,mathematical_function,historical_effect,anachronism_warning
+not_table,Tables,"organize repeated values, procedures, and predictions",enabled computational and astronomical reliability,table-based reasoning should not be dismissed because it is not formula-based
+not_diagram,Diagrams,make spatial relations visible,"supported construction, geometric proof, and visual reasoning",diagrams are not merely illustrations in all historical contexts
+not_place_value,Place-value numerals,represent magnitude compactly by position,made arithmetic scalable and portable,do not treat modern decimal notation as historically universal
+not_algebra,Algebraic notation,"represent unknowns, operations, equations, parameters",enabled symbolic manipulation and generalization,modern equations can distort rhetorical or syncopated algebra
+not_coordinates,Coordinates,connect space and algebraic relation,"unified geometry, algebra, calculus, modeling",coordinate representation should not be projected into all earlier geometry
+not_logic,Logical notation,formalize quantification and inference,made proof and foundations explicit,formal logic is not the same as all historical forms of reasoning
+not_code,Code and proof scripts,make procedures executable and derivations checkable,turned mathematics into reusable computational infrastructure,machine-checkability does not remove the need for interpretation

@@ -1,0 +1,7 @@
+[package]
+name = "historical_understanding_cli"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line historical practice metadata audit scaffold."
+
+[dependencies]

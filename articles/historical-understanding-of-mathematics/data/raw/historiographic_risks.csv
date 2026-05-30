@@ -1,0 +1,8 @@
+risk_id,risk_name,problem,mitigation
+risk_presentism,Presentism,"Older mathematics is judged only by modern notation, proof standards, or disciplinary categories.","Interpret practices within their own media, institutions, purposes, and evidence standards."
+risk_eurocentrism,Eurocentrism,Mathematics is narrated mainly as a Greek-to-European sequence.,Include multiple global traditions and transmission networks where supported by evidence.
+risk_notation_anachronism,Notation anachronism,Modern notation is mistaken for original mathematical practice.,Distinguish historical expression from modern reconstruction.
+risk_textual_bias,Textual bias,Surviving written texts are treated as the whole record of mathematical practice.,"Consider oral, material, craft, architectural, navigational, pedagogical, and institutional mathematics."
+risk_great_person_reduction,Great-person reduction,"Institutions, teachers, translators, commentators, computers, assistants, and communities disappear from the story.","Study communities, institutions, commentary, pedagogy, labor, and transmission."
+risk_formal_overconfidence,Formal overconfidence,Formal proof or verification is treated as full interpretation or social adequacy.,"Separate proof, specification, model, consequence, and use."
+risk_canon_exclusion,Canon exclusion,"Women, colonized communities, practical workers, and marginalized traditions are minimized or erased.","Recover barriers, source survival patterns, hidden labor, and alternative mathematical media."

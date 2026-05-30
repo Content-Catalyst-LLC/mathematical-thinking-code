@@ -1,0 +1,29 @@
+title: "The Historical Understanding of Mathematics"
+slug: "historical-understanding-of-mathematics"
+series: "Mathematical Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code"
+article_folder: "articles/historical-understanding-of-mathematics"
+github_url: "https://github.com/Content-Catalyst-LLC/mathematical-thinking-code/tree/main/articles/historical-understanding-of-mathematics"
+description: "Companion computational scaffold for historiographic metadata, object-medium-method-meaning schemas, proof-style catalogs, notation history, transmission maps, canon-risk audits, Haskell typed historiography models, SQL schemas, and responsible historical interpretation workflows."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+mathematical_domains:
+  - history of mathematics
+  - historiography
+  - mathematical proof
+  - mathematical notation
+  - mathematical transmission
+  - foundations of mathematics
+  - mathematical structures
+  - mathematical modeling
+  - formal verification
+created_for_article: true
